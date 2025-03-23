@@ -1,0 +1,1001 @@
+ID,Age,BMI,Smoking,Disease,Symptoms,Severity,Diagnosis Method,Treatment Type,Insurance Type,Claim Amount ($),Reimbursement Rate (%),Deductible ($),Interest Rate (%),Approval Time (Days),Insurance Provider
+1,40,32.5,No,Kidney Disease,"Fatigue, Swelling",High,X-ray,Transplant,Senior Citizen,73448,95,5463,2.4,7,KidneySafe Ins.
+2,73,29.5,No,Alzheimer’s,"Difficulty Speaking, Mood Changes",Low,Biopsy,Medication,Accident Cover,63402,71,15817,5.0,7,KidneySafe Ins.
+3,59,19.2,No,Arthritis,"Stiffness, Fatigue",Low,MRI,Medication,Cardiac Plan,101872,70,9668,3.4,17,XYZ Insurance
+4,76,19.7,Yes,Cancer,"Pain, Fatigue",Medium,Biopsy,Chemotherapy,Health Insurance,179315,79,13884,3.8,9,ABC Health
+5,57,19.4,No,Liver Disease,"Yellow Skin, Dark Urine",Medium,CT Scan,Dietary Changes,Accident Cover,136420,87,17276,4.3,22,ABC Health
+6,45,27.5,No,Liver Disease,"Itchy Skin, Yellow Skin",Low,Ultrasound,Liver Transplant,Critical Illness,145922,54,5449,2.8,26,LifeShield
+7,30,28.6,No,Heart Disease,"Breathlessness, Dizziness",Medium,ECG,Lifestyle Changes,Cardiac Plan,61511,72,4935,2.8,10,XYZ Insurance
+8,47,30.9,Yes,Heart Disease,"Fatigue, Dizziness",High,MRI,Medication,Critical Illness,179031,94,10181,3.6,5,MediCover
+9,33,29.6,No,Heart Disease,"Dizziness, Breathlessness",Medium,Blood Test,Medication,Senior Citizen,70791,50,3796,2.1,29,ABC Health
+10,69,24.7,No,Asthma,"Wheezing, Shortness of Breath",Low,X-ray,Inhalers,Critical Illness,80001,55,6889,3.7,13,MediCover
+11,74,23.5,No,Diabetes,"Frequent Urination, Blurred Vision",High,Biopsy,Medication,Senior Citizen,126756,60,12755,3.1,20,KidneySafe Ins.
+12,56,18.6,No,Asthma,"Coughing, Shortness of Breath",High,X-ray,Medication,Accident Cover,121701,93,15029,2.6,11,XYZ Insurance
+13,32,27.1,Yes,Kidney Disease,"Swelling, Shortness of Breath",Medium,Ultrasound,Transplant,Accident Cover,50203,52,13127,2.1,26,ABC Health
+14,37,25.8,Yes,Liver Disease,"Itchy Skin, Dark Urine",Medium,MRI,Dietary Changes,Cardiac Plan,37183,79,4165,4.0,11,XYZ Insurance
+15,80,18.6,No,Cancer,"Bleeding, Lumps",Medium,CT Scan,Surgery,Health Insurance,129081,57,19134,4.7,7,HeartCare Inc.
+16,75,27.4,Yes,Cancer,"Weight Loss, Pain",Low,CT Scan,Radiation Therapy,Accident Cover,198795,73,2484,3.0,5,HeartCare Inc.
+17,65,22.5,No,Cancer,"Lumps, Fatigue",Low,Blood Test,Chemotherapy,Critical Illness,42960,93,10967,3.6,24,KidneySafe Ins.
+18,80,34.8,Yes,Asthma,"Shortness of Breath, Chest Tightness",Low,CT Scan,Medication,Health Insurance,101324,93,15956,3.8,20,ABC Health
+19,68,30.2,No,Arthritis,"Swelling, Stiffness",Low,Blood Test,Physical Therapy,Critical Illness,93757,59,8238,3.0,30,MediCover
+20,71,27.4,Yes,Kidney Disease,"Nausea, Fatigue",Low,Biopsy,Transplant,Cardiac Plan,139142,91,13783,3.8,26,XYZ Insurance
+21,22,29.3,Yes,Diabetes,"Fatigue, Blurred Vision",Low,MRI,Insulin Therapy,Senior Citizen,35689,75,14687,3.1,18,ABC Health
+22,36,20.1,Yes,Arthritis,"Stiffness, Fatigue",High,Ultrasound,Physical Therapy,Accident Cover,196541,51,15937,3.6,6,XYZ Insurance
+23,73,34.9,No,Alzheimer’s,"Difficulty Speaking, Confusion",High,CT Scan,Medication,Senior Citizen,118333,89,7157,3.8,25,MediCover
+24,75,28.0,Yes,Heart Disease,"Dizziness, Breathlessness",Medium,ECG,Surgery,Senior Citizen,141123,63,2715,4.6,10,ABC Health
+25,43,20.9,Yes,Asthma,"Wheezing, Coughing",High,Blood Test,Lifestyle Changes,Health Insurance,21184,95,10780,3.9,18,ABC Health
+26,78,19.0,Yes,Alzheimer’s,"Mood Changes, Memory Loss",Low,Ultrasound,Medication,Senior Citizen,172737,57,19205,5.0,13,ABC Health
+27,60,26.0,No,Diabetes,"Increased Thirst, Blurred Vision",Medium,MRI,Medication,Accident Cover,107252,69,18309,4.6,11,HeartCare Inc.
+28,54,30.8,Yes,Liver Disease,"Yellow Skin, Dark Urine",High,MRI,Dietary Changes,Accident Cover,26496,75,3319,3.1,21,XYZ Insurance
+29,72,31.1,No,Asthma,"Shortness of Breath, Coughing",Low,Ultrasound,Lifestyle Changes,Senior Citizen,120672,64,16333,3.4,29,ABC Health
+30,21,26.0,No,Liver Disease,"Dark Urine, Abdominal Pain",Medium,Biopsy,Dietary Changes,Health Insurance,169942,85,6933,2.8,8,LifeShield
+31,28,18.7,No,Cancer,"Lumps, Fatigue",High,MRI,Chemotherapy,Health Insurance,199697,52,11502,4.1,23,LifeShield
+32,62,20.6,Yes,Cancer,"Weight Loss, Bleeding",Low,Ultrasound,Radiation Therapy,Critical Illness,178861,82,2926,3.3,19,LifeShield
+33,45,21.7,Yes,Kidney Disease,"Swelling, Shortness of Breath",Medium,CT Scan,Medication,Health Insurance,94368,89,3363,2.9,30,XYZ Insurance
+34,20,30.6,No,Liver Disease,"Itchy Skin, Yellow Skin",Medium,MRI,Dietary Changes,Senior Citizen,84885,91,17674,3.1,17,MediCover
+35,23,32.1,No,Liver Disease,"Yellow Skin, Itchy Skin",Low,X-ray,Liver Transplant,Senior Citizen,127718,75,4234,4.6,17,MediCover
+36,61,19.7,No,Kidney Disease,"Swelling, Shortness of Breath",Medium,CT Scan,Dialysis,Health Insurance,100188,63,3048,2.9,26,MediCover
+37,60,22.0,No,Alzheimer’s,"Mood Changes, Difficulty Speaking",Medium,CT Scan,Medication,Critical Illness,48332,70,17634,4.1,28,LifeShield
+38,22,22.9,Yes,Heart Disease,"Fatigue, Breathlessness",Medium,CT Scan,Surgery,Accident Cover,95144,63,2745,3.8,30,HeartCare Inc.
+39,27,31.9,Yes,Asthma,"Wheezing, Chest Tightness",Medium,X-ray,Medication,Accident Cover,131556,65,2400,3.4,24,MediCover
+40,65,25.2,Yes,Alzheimer’s,"Confusion, Memory Loss",Medium,Ultrasound,Medication,Critical Illness,113706,65,6481,4.9,27,MediCover
+41,55,26.9,Yes,Cancer,"Fatigue, Pain",Medium,CT Scan,Surgery,Critical Illness,24359,95,5565,4.5,27,ABC Health
+42,64,30.3,Yes,Diabetes,"Frequent Urination, Increased Thirst",Medium,Ultrasound,Medication,Critical Illness,23906,79,6200,3.0,11,XYZ Insurance
+43,45,33.2,Yes,Asthma,"Wheezing, Shortness of Breath",High,Biopsy,Inhalers,Senior Citizen,25748,68,9187,4.1,22,LifeShield
+44,29,32.4,Yes,Alzheimer’s,"Mood Changes, Confusion",Medium,CT Scan,Cognitive Therapy,Senior Citizen,111139,53,19145,4.7,15,KidneySafe Ins.
+45,25,28.4,Yes,Arthritis,"Stiffness, Swelling",Medium,Ultrasound,Physical Therapy,Senior Citizen,177410,55,19957,3.7,29,XYZ Insurance
+46,68,30.2,No,Diabetes,"Increased Thirst, Blurred Vision",High,Ultrasound,Medication,Accident Cover,20023,95,6327,2.3,30,MediCover
+47,61,29.4,Yes,Arthritis,"Joint Pain, Fatigue",Low,Ultrasound,Medication,Senior Citizen,174307,89,16812,2.2,18,LifeShield
+48,31,32.4,Yes,Kidney Disease,"Fatigue, Swelling",Medium,Blood Test,Dialysis,Critical Illness,75216,91,1124,3.3,28,LifeShield
+49,75,30.4,Yes,Cancer,"Lumps, Weight Loss",Medium,X-ray,Chemotherapy,Cardiac Plan,187106,93,3015,2.7,10,HeartCare Inc.
+50,26,27.0,Yes,Asthma,"Chest Tightness, Coughing",Low,MRI,Medication,Cardiac Plan,170316,64,2239,4.7,23,KidneySafe Ins.
+51,67,34.0,Yes,Cancer,"Weight Loss, Pain",Low,MRI,Chemotherapy,Accident Cover,53050,93,14584,2.9,16,XYZ Insurance
+52,29,33.8,No,Diabetes,"Increased Thirst, Fatigue",Low,MRI,Medication,Health Insurance,198037,87,8438,2.9,27,ABC Health
+53,64,31.8,No,Kidney Disease,"Fatigue, Swelling",Medium,Biopsy,Dialysis,Critical Illness,80718,90,1120,4.6,13,KidneySafe Ins.
+54,51,25.7,No,Heart Disease,"Breathlessness, Fatigue",Medium,Biopsy,Surgery,Accident Cover,123306,80,6792,2.8,22,XYZ Insurance
+55,72,18.7,Yes,Liver Disease,"Dark Urine, Abdominal Pain",High,Ultrasound,Liver Transplant,Health Insurance,158569,78,4024,2.4,25,XYZ Insurance
+56,53,24.7,Yes,Alzheimer’s,"Mood Changes, Memory Loss",High,X-ray,Cognitive Therapy,Accident Cover,150055,66,15805,2.1,15,XYZ Insurance
+57,59,27.1,No,Kidney Disease,"Swelling, Nausea",Medium,ECG,Transplant,Cardiac Plan,94515,86,11015,2.8,28,KidneySafe Ins.
+58,47,21.4,No,Arthritis,"Stiffness, Swelling",High,CT Scan,Medication,Health Insurance,164885,58,12240,3.1,8,LifeShield
+59,78,19.4,Yes,Asthma,"Coughing, Chest Tightness",High,MRI,Medication,Senior Citizen,64915,76,10720,2.9,13,LifeShield
+60,29,19.9,No,Heart Disease,"Breathlessness, Fatigue",Medium,ECG,Surgery,Senior Citizen,47505,72,17974,3.5,5,KidneySafe Ins.
+61,33,20.7,Yes,Kidney Disease,"Shortness of Breath, Swelling",Medium,ECG,Medication,Accident Cover,144816,86,19302,3.9,24,XYZ Insurance
+62,80,28.5,No,Alzheimer’s,"Confusion, Mood Changes",Medium,ECG,Medication,Cardiac Plan,79263,50,9816,3.5,6,ABC Health
+63,53,21.4,No,Liver Disease,"Yellow Skin, Abdominal Pain",Low,ECG,Liver Transplant,Cardiac Plan,117101,65,6167,4.4,27,XYZ Insurance
+64,18,24.7,Yes,Diabetes,"Fatigue, Blurred Vision",High,Biopsy,Insulin Therapy,Senior Citizen,176415,61,19778,5.0,16,HeartCare Inc.
+65,73,20.2,Yes,Asthma,"Coughing, Chest Tightness",Low,X-ray,Lifestyle Changes,Health Insurance,107508,61,1218,4.2,18,ABC Health
+66,75,31.1,No,Alzheimer’s,"Memory Loss, Mood Changes",Medium,X-ray,Cognitive Therapy,Senior Citizen,159116,75,19700,3.4,25,LifeShield
+67,53,22.3,No,Asthma,"Shortness of Breath, Chest Tightness",High,Blood Test,Inhalers,Senior Citizen,35313,92,6963,3.6,16,MediCover
+68,78,29.0,Yes,Kidney Disease,"Fatigue, Nausea",Medium,ECG,Transplant,Accident Cover,69355,88,10536,3.3,17,LifeShield
+69,54,20.0,Yes,Heart Disease,"Fatigue, Dizziness",Medium,Blood Test,Surgery,Senior Citizen,43393,68,15520,4.8,5,ABC Health
+70,78,28.4,Yes,Liver Disease,"Abdominal Pain, Dark Urine",Low,Biopsy,Dietary Changes,Accident Cover,50407,73,3739,3.0,19,LifeShield
+71,69,34.3,Yes,Asthma,"Coughing, Chest Tightness",High,Biopsy,Inhalers,Cardiac Plan,50137,64,13825,4.3,18,KidneySafe Ins.
+72,44,21.4,Yes,Kidney Disease,"Nausea, Shortness of Breath",Low,MRI,Transplant,Senior Citizen,97205,77,12145,2.5,10,HeartCare Inc.
+73,57,34.6,Yes,Liver Disease,"Dark Urine, Itchy Skin",Medium,CT Scan,Medication,Health Insurance,175729,86,3578,2.4,25,LifeShield
+74,49,21.8,No,Arthritis,"Joint Pain, Swelling",Medium,Ultrasound,Surgery,Health Insurance,134320,72,5653,2.5,6,ABC Health
+75,65,32.5,No,Heart Disease,"Dizziness, Breathlessness",Low,Blood Test,Medication,Health Insurance,160632,63,7816,3.7,25,MediCover
+76,33,26.3,No,Arthritis,"Joint Pain, Fatigue",Low,CT Scan,Physical Therapy,Critical Illness,47486,55,10454,2.4,29,MediCover
+77,29,23.9,No,Liver Disease,"Dark Urine, Yellow Skin",Low,X-ray,Dietary Changes,Critical Illness,92499,92,7261,4.6,6,KidneySafe Ins.
+78,36,32.3,Yes,Diabetes,"Frequent Urination, Fatigue",Low,ECG,Medication,Critical Illness,51977,67,10689,2.9,13,XYZ Insurance
+79,22,23.3,No,Alzheimer’s,"Mood Changes, Difficulty Speaking",Low,Blood Test,Medication,Critical Illness,44849,50,9910,2.5,28,ABC Health
+80,64,20.5,No,Cancer,"Weight Loss, Lumps",Medium,X-ray,Surgery,Cardiac Plan,138379,86,6454,4.5,10,HeartCare Inc.
+81,41,27.4,Yes,Diabetes,"Increased Thirst, Blurred Vision",Low,ECG,Lifestyle Changes,Health Insurance,126751,80,2642,4.4,7,KidneySafe Ins.
+82,31,23.0,Yes,Heart Disease,"Breathlessness, Dizziness",Medium,ECG,Surgery,Health Insurance,177666,93,17276,4.9,19,MediCover
+83,57,24.6,Yes,Diabetes,"Fatigue, Blurred Vision",Low,CT Scan,Medication,Accident Cover,163064,85,13549,3.6,12,HeartCare Inc.
+84,35,21.4,No,Kidney Disease,"Fatigue, Swelling",Low,MRI,Dialysis,Cardiac Plan,36383,63,5585,4.8,6,ABC Health
+85,21,34.2,Yes,Heart Disease,"Dizziness, Breathlessness",Medium,MRI,Medication,Critical Illness,179787,88,5464,4.5,24,MediCover
+86,55,21.9,Yes,Liver Disease,"Abdominal Pain, Itchy Skin",High,X-ray,Medication,Senior Citizen,56051,75,9374,3.2,22,KidneySafe Ins.
+87,23,32.4,Yes,Alzheimer’s,"Difficulty Speaking, Memory Loss",High,CT Scan,Cognitive Therapy,Health Insurance,28896,56,5606,3.2,17,LifeShield
+88,70,18.1,Yes,Arthritis,"Stiffness, Swelling",Medium,Ultrasound,Physical Therapy,Cardiac Plan,68658,61,13413,2.2,28,ABC Health
+89,26,34.9,Yes,Alzheimer’s,"Memory Loss, Difficulty Speaking",Medium,X-ray,Medication,Accident Cover,136431,56,13857,3.8,27,HeartCare Inc.
+90,40,27.2,Yes,Arthritis,"Fatigue, Swelling",High,CT Scan,Physical Therapy,Health Insurance,76548,83,3391,3.1,22,HeartCare Inc.
+91,59,23.3,Yes,Arthritis,"Swelling, Stiffness",Medium,MRI,Medication,Health Insurance,78649,78,8892,2.8,26,MediCover
+92,40,22.9,No,Asthma,"Shortness of Breath, Coughing",High,Blood Test,Inhalers,Critical Illness,120648,93,9611,4.2,30,LifeShield
+93,26,28.8,Yes,Diabetes,"Increased Thirst, Blurred Vision",Low,Ultrasound,Insulin Therapy,Accident Cover,28559,81,4783,4.8,24,LifeShield
+94,58,30.1,Yes,Diabetes,"Fatigue, Blurred Vision",High,Biopsy,Insulin Therapy,Accident Cover,133697,95,3656,4.0,20,KidneySafe Ins.
+95,56,34.0,No,Arthritis,"Fatigue, Stiffness",Medium,CT Scan,Medication,Cardiac Plan,57830,60,13312,5.0,8,MediCover
+96,69,29.9,No,Arthritis,"Fatigue, Swelling",Low,X-ray,Medication,Cardiac Plan,81020,60,9767,4.0,25,HeartCare Inc.
+97,64,29.3,No,Cancer,"Fatigue, Bleeding",Low,Blood Test,Surgery,Critical Illness,103288,91,1081,2.3,18,LifeShield
+98,58,33.6,No,Kidney Disease,"Shortness of Breath, Fatigue",Medium,ECG,Dialysis,Critical Illness,87658,95,15642,3.0,26,LifeShield
+99,37,29.9,No,Asthma,"Wheezing, Coughing",Medium,CT Scan,Inhalers,Senior Citizen,112808,94,12600,3.6,9,MediCover
+100,38,21.7,Yes,Alzheimer’s,"Mood Changes, Difficulty Speaking",High,MRI,Medication,Cardiac Plan,99868,71,19325,2.6,13,XYZ Insurance
+101,21,21.5,Yes,Asthma,"Coughing, Chest Tightness",High,MRI,Inhalers,Critical Illness,118969,80,3966,4.9,12,KidneySafe Ins.
+102,23,27.1,Yes,Asthma,"Wheezing, Shortness of Breath",High,ECG,Inhalers,Critical Illness,172646,74,15199,3.6,8,HeartCare Inc.
+103,51,24.0,Yes,Alzheimer’s,"Confusion, Difficulty Speaking",High,ECG,Cognitive Therapy,Accident Cover,76192,59,2414,4.0,21,KidneySafe Ins.
+104,68,19.9,Yes,Alzheimer’s,"Confusion, Mood Changes",High,ECG,Cognitive Therapy,Critical Illness,122190,90,15231,4.5,23,KidneySafe Ins.
+105,54,33.0,Yes,Liver Disease,"Abdominal Pain, Dark Urine",High,Blood Test,Dietary Changes,Senior Citizen,76250,69,11280,3.3,29,XYZ Insurance
+106,21,33.2,No,Cancer,"Weight Loss, Pain",Medium,Biopsy,Radiation Therapy,Critical Illness,196781,54,5373,3.1,15,HeartCare Inc.
+107,24,27.5,Yes,Diabetes,"Blurred Vision, Frequent Urination",Medium,Blood Test,Lifestyle Changes,Critical Illness,143916,91,15705,4.5,5,ABC Health
+108,77,28.2,No,Alzheimer’s,"Difficulty Speaking, Memory Loss",Low,Ultrasound,Cognitive Therapy,Cardiac Plan,187042,70,1860,4.3,12,MediCover
+109,76,23.1,Yes,Alzheimer’s,"Difficulty Speaking, Mood Changes",High,ECG,Medication,Critical Illness,29613,75,12898,2.5,16,MediCover
+110,38,26.2,No,Arthritis,"Swelling, Stiffness",Medium,X-ray,Physical Therapy,Accident Cover,93992,70,3343,4.6,24,ABC Health
+111,21,30.3,No,Kidney Disease,"Shortness of Breath, Fatigue",Medium,Blood Test,Dialysis,Accident Cover,196186,53,16515,4.7,8,HeartCare Inc.
+112,46,34.5,Yes,Liver Disease,"Abdominal Pain, Dark Urine",Medium,Biopsy,Liver Transplant,Cardiac Plan,47157,73,6306,3.2,9,ABC Health
+113,64,28.2,No,Heart Disease,"Fatigue, Breathlessness",Medium,Blood Test,Medication,Cardiac Plan,175552,77,19264,4.7,20,LifeShield
+114,30,30.8,No,Diabetes,"Blurred Vision, Increased Thirst",High,MRI,Medication,Health Insurance,119466,91,10060,4.3,8,HeartCare Inc.
+115,65,31.2,Yes,Liver Disease,"Yellow Skin, Abdominal Pain",Low,Ultrasound,Dietary Changes,Accident Cover,78349,75,16059,2.1,23,ABC Health
+116,71,23.3,Yes,Diabetes,"Frequent Urination, Blurred Vision",Low,X-ray,Insulin Therapy,Health Insurance,64728,85,1499,4.3,29,KidneySafe Ins.
+117,74,19.1,Yes,Cancer,"Pain, Bleeding",Low,X-ray,Radiation Therapy,Accident Cover,80486,84,2894,2.1,16,LifeShield
+118,74,29.2,Yes,Arthritis,"Fatigue, Swelling",Medium,Ultrasound,Physical Therapy,Critical Illness,92126,74,7443,2.5,24,MediCover
+119,59,30.8,Yes,Heart Disease,"Chest Pain, Breathlessness",High,Ultrasound,Medication,Accident Cover,139092,82,10371,4.1,25,MediCover
+120,58,25.3,Yes,Cancer,"Pain, Bleeding",High,CT Scan,Radiation Therapy,Senior Citizen,36786,57,17333,4.5,28,XYZ Insurance
+121,38,24.2,Yes,Cancer,"Fatigue, Weight Loss",Medium,X-ray,Chemotherapy,Accident Cover,78792,53,11493,2.1,22,KidneySafe Ins.
+122,36,23.7,No,Arthritis,"Joint Pain, Stiffness",High,CT Scan,Physical Therapy,Critical Illness,105823,58,10905,4.3,6,MediCover
+123,22,27.3,Yes,Cancer,"Lumps, Pain",Low,Ultrasound,Chemotherapy,Accident Cover,38770,55,19029,2.6,11,MediCover
+124,52,19.8,Yes,Cancer,"Bleeding, Lumps",High,X-ray,Chemotherapy,Health Insurance,24085,92,11906,3.6,25,XYZ Insurance
+125,47,23.6,No,Cancer,"Lumps, Weight Loss",High,Ultrasound,Radiation Therapy,Cardiac Plan,136225,80,13159,2.2,18,ABC Health
+126,62,34.0,No,Asthma,"Wheezing, Coughing",Medium,MRI,Inhalers,Critical Illness,150040,64,16582,4.4,16,ABC Health
+127,58,28.3,No,Asthma,"Coughing, Shortness of Breath",Medium,Blood Test,Inhalers,Senior Citizen,44623,65,1445,2.1,28,MediCover
+128,80,32.5,No,Asthma,"Wheezing, Chest Tightness",Medium,Ultrasound,Lifestyle Changes,Senior Citizen,135496,62,1853,4.9,28,LifeShield
+129,23,32.2,No,Heart Disease,"Dizziness, Fatigue",Low,MRI,Medication,Critical Illness,79717,78,12932,4.5,27,ABC Health
+130,78,28.3,No,Liver Disease,"Itchy Skin, Dark Urine",Low,MRI,Liver Transplant,Accident Cover,66908,53,10742,2.9,24,ABC Health
+131,77,25.8,Yes,Asthma,"Wheezing, Shortness of Breath",High,X-ray,Medication,Senior Citizen,104300,53,12328,3.1,15,XYZ Insurance
+132,79,19.4,No,Asthma,"Shortness of Breath, Coughing",High,X-ray,Lifestyle Changes,Health Insurance,113375,87,17736,2.8,24,XYZ Insurance
+133,78,31.2,Yes,Cancer,"Weight Loss, Lumps",Low,X-ray,Chemotherapy,Senior Citizen,119532,75,10532,4.0,12,ABC Health
+134,37,29.1,No,Heart Disease,"Fatigue, Breathlessness",Medium,X-ray,Lifestyle Changes,Health Insurance,62575,78,4932,3.9,25,KidneySafe Ins.
+135,28,30.1,No,Arthritis,"Joint Pain, Swelling",Medium,X-ray,Medication,Accident Cover,142291,91,14830,2.9,10,ABC Health
+136,52,33.9,No,Cancer,"Lumps, Bleeding",High,Blood Test,Chemotherapy,Senior Citizen,171198,66,2819,3.2,8,ABC Health
+137,75,29.9,No,Alzheimer’s,"Confusion, Memory Loss",Low,Ultrasound,Cognitive Therapy,Accident Cover,129048,84,1631,2.5,16,KidneySafe Ins.
+138,45,19.9,Yes,Diabetes,"Increased Thirst, Blurred Vision",Low,Ultrasound,Lifestyle Changes,Accident Cover,168816,54,18874,3.6,13,MediCover
+139,23,31.2,No,Diabetes,"Increased Thirst, Frequent Urination",Medium,CT Scan,Insulin Therapy,Cardiac Plan,63333,72,3595,2.3,18,XYZ Insurance
+140,20,31.6,Yes,Alzheimer’s,"Memory Loss, Confusion",High,Blood Test,Medication,Cardiac Plan,132483,79,13109,2.3,20,MediCover
+141,75,21.0,No,Arthritis,"Swelling, Joint Pain",High,MRI,Physical Therapy,Critical Illness,131881,84,5151,2.2,19,XYZ Insurance
+142,55,21.1,No,Heart Disease,"Dizziness, Fatigue",Medium,ECG,Lifestyle Changes,Accident Cover,150511,65,16131,3.4,7,MediCover
+143,47,28.8,No,Alzheimer’s,"Mood Changes, Difficulty Speaking",Low,CT Scan,Medication,Health Insurance,31142,92,5526,3.3,30,HeartCare Inc.
+144,51,30.1,No,Kidney Disease,"Shortness of Breath, Fatigue",Medium,MRI,Transplant,Cardiac Plan,43445,71,4181,4.0,11,MediCover
+145,25,32.4,Yes,Diabetes,"Fatigue, Blurred Vision",High,Ultrasound,Lifestyle Changes,Senior Citizen,132659,95,5317,4.9,11,LifeShield
+146,80,29.9,Yes,Diabetes,"Blurred Vision, Fatigue",Low,Ultrasound,Insulin Therapy,Cardiac Plan,45675,54,1977,3.3,29,XYZ Insurance
+147,54,29.7,Yes,Heart Disease,"Fatigue, Dizziness",Low,Blood Test,Medication,Senior Citizen,188593,72,13971,3.1,7,ABC Health
+148,32,22.7,No,Cancer,"Pain, Fatigue",Low,Ultrasound,Chemotherapy,Accident Cover,192769,80,8266,5.0,23,XYZ Insurance
+149,79,23.0,No,Arthritis,"Joint Pain, Fatigue",High,MRI,Medication,Senior Citizen,198223,82,1990,2.3,30,ABC Health
+150,57,28.3,Yes,Asthma,"Shortness of Breath, Wheezing",High,CT Scan,Medication,Health Insurance,102718,70,10614,4.0,17,ABC Health
+151,60,31.5,Yes,Alzheimer’s,"Confusion, Difficulty Speaking",High,X-ray,Medication,Cardiac Plan,147292,94,11328,2.9,17,LifeShield
+152,70,33.9,Yes,Liver Disease,"Itchy Skin, Abdominal Pain",Low,X-ray,Medication,Health Insurance,87074,70,18811,2.9,11,XYZ Insurance
+153,29,32.2,Yes,Asthma,"Wheezing, Shortness of Breath",High,MRI,Medication,Critical Illness,63675,91,2819,4.8,16,KidneySafe Ins.
+154,68,24.8,No,Cancer,"Fatigue, Pain",Medium,CT Scan,Chemotherapy,Senior Citizen,165402,71,16210,4.7,13,LifeShield
+155,64,31.0,Yes,Liver Disease,"Yellow Skin, Abdominal Pain",Medium,Ultrasound,Liver Transplant,Accident Cover,56354,73,9340,2.4,22,HeartCare Inc.
+156,24,18.0,No,Alzheimer’s,"Mood Changes, Confusion",Medium,ECG,Cognitive Therapy,Health Insurance,100834,59,3008,2.3,20,HeartCare Inc.
+157,28,29.3,Yes,Heart Disease,"Breathlessness, Chest Pain",High,MRI,Medication,Accident Cover,83922,92,9317,3.7,27,ABC Health
+158,49,18.6,No,Arthritis,"Fatigue, Joint Pain",Low,MRI,Surgery,Senior Citizen,76847,83,14295,3.3,8,LifeShield
+159,44,29.7,No,Arthritis,"Joint Pain, Stiffness",High,ECG,Medication,Senior Citizen,83036,89,13763,3.2,13,XYZ Insurance
+160,64,23.0,No,Asthma,"Wheezing, Shortness of Breath",High,Blood Test,Lifestyle Changes,Accident Cover,117218,65,17607,4.0,13,ABC Health
+161,51,25.7,No,Cancer,"Pain, Fatigue",High,CT Scan,Chemotherapy,Cardiac Plan,53404,69,11594,2.9,27,XYZ Insurance
+162,54,22.2,Yes,Liver Disease,"Itchy Skin, Yellow Skin",High,Ultrasound,Liver Transplant,Senior Citizen,40239,82,13139,3.7,16,HeartCare Inc.
+163,19,21.3,No,Kidney Disease,"Swelling, Fatigue",Medium,Ultrasound,Medication,Senior Citizen,32409,60,17427,2.2,10,ABC Health
+164,72,25.0,Yes,Cancer,"Lumps, Fatigue",High,Ultrasound,Surgery,Health Insurance,122938,58,6188,4.9,15,KidneySafe Ins.
+165,42,22.6,Yes,Arthritis,"Fatigue, Joint Pain",Low,MRI,Medication,Cardiac Plan,60303,59,9108,3.1,29,XYZ Insurance
+166,66,22.2,No,Kidney Disease,"Nausea, Fatigue",High,X-ray,Dialysis,Accident Cover,170854,59,16642,3.1,7,HeartCare Inc.
+167,47,18.7,No,Heart Disease,"Dizziness, Breathlessness",Low,ECG,Medication,Accident Cover,105064,67,1690,2.8,15,MediCover
+168,51,34.8,Yes,Heart Disease,"Fatigue, Dizziness",High,ECG,Lifestyle Changes,Accident Cover,103078,57,8103,3.6,17,KidneySafe Ins.
+169,32,24.7,No,Diabetes,"Increased Thirst, Frequent Urination",Low,X-ray,Insulin Therapy,Cardiac Plan,117291,56,2311,3.4,23,ABC Health
+170,65,25.2,No,Arthritis,"Fatigue, Stiffness",Low,Ultrasound,Surgery,Senior Citizen,137735,84,18616,2.9,28,ABC Health
+171,37,23.7,No,Heart Disease,"Chest Pain, Breathlessness",Low,Ultrasound,Surgery,Cardiac Plan,32177,64,11453,4.0,10,MediCover
+172,34,21.2,Yes,Cancer,"Weight Loss, Pain",Low,X-ray,Surgery,Health Insurance,35295,69,16326,4.4,8,LifeShield
+173,39,34.9,Yes,Kidney Disease,"Nausea, Shortness of Breath",Low,Ultrasound,Transplant,Accident Cover,37190,92,8378,2.4,21,KidneySafe Ins.
+174,67,29.4,No,Heart Disease,"Fatigue, Chest Pain",Low,ECG,Lifestyle Changes,Senior Citizen,110030,75,4456,2.6,8,ABC Health
+175,68,28.8,Yes,Arthritis,"Fatigue, Swelling",Medium,Blood Test,Medication,Senior Citizen,150322,58,19035,4.5,27,ABC Health
+176,69,27.6,Yes,Heart Disease,"Chest Pain, Dizziness",Low,Blood Test,Lifestyle Changes,Accident Cover,154092,85,9515,2.3,13,HeartCare Inc.
+177,50,28.7,No,Cancer,"Lumps, Fatigue",Medium,MRI,Radiation Therapy,Critical Illness,162018,54,7010,3.4,10,HeartCare Inc.
+178,52,19.8,Yes,Heart Disease,"Breathlessness, Fatigue",High,MRI,Surgery,Cardiac Plan,93043,65,10131,2.8,29,XYZ Insurance
+179,21,20.1,Yes,Arthritis,"Stiffness, Fatigue",Low,X-ray,Medication,Cardiac Plan,152580,82,15479,3.7,23,HeartCare Inc.
+180,50,33.9,No,Cancer,"Pain, Bleeding",Low,Biopsy,Radiation Therapy,Health Insurance,157102,59,5621,4.1,23,ABC Health
+181,27,29.9,No,Heart Disease,"Chest Pain, Fatigue",Low,Ultrasound,Surgery,Health Insurance,140285,83,5132,2.2,5,HeartCare Inc.
+182,23,31.9,Yes,Cancer,"Pain, Weight Loss",Low,CT Scan,Chemotherapy,Senior Citizen,66711,54,1471,4.1,11,ABC Health
+183,32,26.2,Yes,Asthma,"Shortness of Breath, Wheezing",Low,Biopsy,Inhalers,Critical Illness,37614,61,17629,2.5,18,XYZ Insurance
+184,62,29.1,No,Alzheimer’s,"Confusion, Memory Loss",High,MRI,Cognitive Therapy,Accident Cover,114377,67,13412,4.2,18,MediCover
+185,28,27.8,No,Alzheimer’s,"Mood Changes, Difficulty Speaking",Low,Blood Test,Cognitive Therapy,Critical Illness,107353,65,12803,2.0,24,XYZ Insurance
+186,73,33.1,Yes,Kidney Disease,"Fatigue, Shortness of Breath",High,Blood Test,Dialysis,Senior Citizen,105782,79,3908,2.0,24,ABC Health
+187,35,35.0,Yes,Heart Disease,"Dizziness, Breathlessness",High,ECG,Lifestyle Changes,Accident Cover,80877,62,18496,2.9,20,MediCover
+188,60,30.4,No,Heart Disease,"Chest Pain, Breathlessness",Medium,CT Scan,Surgery,Senior Citizen,114669,79,16415,4.2,7,XYZ Insurance
+189,58,33.2,Yes,Alzheimer’s,"Mood Changes, Confusion",High,Biopsy,Cognitive Therapy,Senior Citizen,102534,84,11682,2.2,23,XYZ Insurance
+190,52,19.3,Yes,Diabetes,"Frequent Urination, Increased Thirst",Low,CT Scan,Lifestyle Changes,Cardiac Plan,164954,79,12175,4.7,30,MediCover
+191,69,22.9,No,Liver Disease,"Yellow Skin, Dark Urine",High,ECG,Medication,Critical Illness,107405,59,12341,2.2,6,LifeShield
+192,69,19.7,Yes,Diabetes,"Blurred Vision, Increased Thirst",Low,X-ray,Lifestyle Changes,Senior Citizen,81213,56,9085,4.6,23,ABC Health
+193,47,25.9,Yes,Alzheimer’s,"Confusion, Memory Loss",Low,Ultrasound,Medication,Health Insurance,132115,84,19626,3.2,8,HeartCare Inc.
+194,61,33.4,No,Arthritis,"Fatigue, Swelling",Low,CT Scan,Surgery,Accident Cover,158657,59,12530,3.5,25,MediCover
+195,40,33.2,No,Kidney Disease,"Shortness of Breath, Fatigue",Medium,Blood Test,Medication,Cardiac Plan,61681,68,13422,3.1,18,MediCover
+196,80,26.7,No,Arthritis,"Fatigue, Stiffness",Medium,X-ray,Physical Therapy,Health Insurance,89492,90,1981,3.9,27,KidneySafe Ins.
+197,42,27.6,No,Alzheimer’s,"Mood Changes, Confusion",Medium,Biopsy,Cognitive Therapy,Critical Illness,60559,73,18809,2.2,13,KidneySafe Ins.
+198,53,20.9,No,Asthma,"Coughing, Shortness of Breath",Low,CT Scan,Inhalers,Cardiac Plan,115585,83,7990,2.7,21,KidneySafe Ins.
+199,51,22.9,No,Alzheimer’s,"Memory Loss, Confusion",Low,MRI,Cognitive Therapy,Senior Citizen,122967,76,15678,3.8,27,KidneySafe Ins.
+200,74,18.6,Yes,Heart Disease,"Chest Pain, Fatigue",High,Blood Test,Lifestyle Changes,Accident Cover,117668,71,19177,4.8,30,XYZ Insurance
+201,25,34.5,No,Liver Disease,"Itchy Skin, Abdominal Pain",High,X-ray,Medication,Critical Illness,196061,84,13905,2.9,27,ABC Health
+202,80,27.5,Yes,Diabetes,"Blurred Vision, Fatigue",Low,MRI,Lifestyle Changes,Health Insurance,57659,74,15694,4.4,6,MediCover
+203,48,22.2,No,Arthritis,"Swelling, Stiffness",High,CT Scan,Surgery,Accident Cover,149019,92,2237,2.2,27,KidneySafe Ins.
+204,48,27.8,No,Asthma,"Chest Tightness, Wheezing",Medium,Biopsy,Lifestyle Changes,Senior Citizen,32426,64,15514,2.6,28,ABC Health
+205,21,29.4,No,Cancer,"Pain, Weight Loss",Medium,X-ray,Chemotherapy,Accident Cover,162878,84,15607,3.0,23,MediCover
+206,43,21.1,No,Liver Disease,"Yellow Skin, Dark Urine",Low,MRI,Liver Transplant,Critical Illness,194232,70,11761,2.8,8,KidneySafe Ins.
+207,38,29.9,Yes,Alzheimer’s,"Mood Changes, Difficulty Speaking",High,Blood Test,Cognitive Therapy,Senior Citizen,124604,79,13754,4.1,16,ABC Health
+208,33,26.6,No,Kidney Disease,"Fatigue, Swelling",High,Biopsy,Transplant,Health Insurance,170174,82,7270,3.4,27,LifeShield
+209,80,29.9,Yes,Arthritis,"Swelling, Fatigue",High,Ultrasound,Surgery,Senior Citizen,179896,52,17892,3.2,24,HeartCare Inc.
+210,71,19.4,No,Alzheimer’s,"Difficulty Speaking, Mood Changes",High,X-ray,Medication,Critical Illness,183311,71,5936,2.7,6,MediCover
+211,77,21.6,No,Kidney Disease,"Swelling, Nausea",Medium,Blood Test,Dialysis,Senior Citizen,54188,66,1758,3.5,11,ABC Health
+212,28,30.8,No,Diabetes,"Blurred Vision, Increased Thirst",Low,Ultrasound,Medication,Health Insurance,21326,68,11303,4.2,8,XYZ Insurance
+213,55,19.2,No,Heart Disease,"Fatigue, Dizziness",High,Biopsy,Medication,Accident Cover,88987,77,8643,2.2,9,LifeShield
+214,32,32.8,No,Diabetes,"Frequent Urination, Blurred Vision",Medium,ECG,Insulin Therapy,Health Insurance,22832,70,3841,2.4,16,LifeShield
+215,57,29.9,No,Alzheimer’s,"Mood Changes, Confusion",Low,Biopsy,Medication,Cardiac Plan,86270,86,12057,2.5,23,LifeShield
+216,25,25.1,No,Heart Disease,"Dizziness, Chest Pain",Medium,Ultrasound,Surgery,Health Insurance,72071,88,16890,3.8,19,KidneySafe Ins.
+217,31,20.3,No,Cancer,"Lumps, Weight Loss",Low,CT Scan,Surgery,Cardiac Plan,103343,52,12012,3.1,11,MediCover
+218,76,26.5,Yes,Arthritis,"Stiffness, Fatigue",High,Blood Test,Surgery,Accident Cover,95959,72,16695,2.1,23,XYZ Insurance
+219,68,30.2,Yes,Heart Disease,"Dizziness, Fatigue",High,X-ray,Lifestyle Changes,Cardiac Plan,177672,67,5920,3.3,23,XYZ Insurance
+220,33,34.3,Yes,Kidney Disease,"Fatigue, Nausea",Medium,Ultrasound,Dialysis,Critical Illness,24993,86,9802,3.8,13,LifeShield
+221,55,33.8,No,Kidney Disease,"Fatigue, Nausea",Medium,MRI,Medication,Critical Illness,173380,92,11835,4.7,20,ABC Health
+222,42,29.7,Yes,Arthritis,"Swelling, Stiffness",Low,Ultrasound,Surgery,Critical Illness,122753,65,16168,3.6,5,KidneySafe Ins.
+223,32,27.6,No,Asthma,"Shortness of Breath, Wheezing",Medium,Blood Test,Lifestyle Changes,Health Insurance,176492,74,13695,4.6,29,MediCover
+224,34,29.9,No,Alzheimer’s,"Difficulty Speaking, Memory Loss",Low,MRI,Medication,Cardiac Plan,68071,90,8703,2.3,14,ABC Health
+225,60,28.3,No,Liver Disease,"Yellow Skin, Itchy Skin",Low,ECG,Liver Transplant,Cardiac Plan,182048,54,2335,4.6,27,MediCover
+226,53,30.9,No,Cancer,"Bleeding, Fatigue",Low,X-ray,Chemotherapy,Cardiac Plan,39460,69,3970,3.5,26,MediCover
+227,47,19.1,No,Kidney Disease,"Nausea, Fatigue",High,ECG,Transplant,Accident Cover,110120,65,2659,3.5,30,KidneySafe Ins.
+228,80,26.0,No,Liver Disease,"Dark Urine, Abdominal Pain",Low,ECG,Dietary Changes,Senior Citizen,55586,82,18828,3.2,13,LifeShield
+229,78,28.8,No,Kidney Disease,"Swelling, Nausea",Medium,ECG,Dialysis,Accident Cover,28856,94,3789,2.9,15,XYZ Insurance
+230,73,27.4,No,Kidney Disease,"Shortness of Breath, Nausea",High,MRI,Medication,Accident Cover,119529,74,16512,3.6,21,ABC Health
+231,35,21.0,Yes,Liver Disease,"Itchy Skin, Yellow Skin",Medium,Blood Test,Medication,Cardiac Plan,193589,51,10114,4.8,17,XYZ Insurance
+232,64,33.8,No,Liver Disease,"Yellow Skin, Itchy Skin",Low,X-ray,Dietary Changes,Health Insurance,182106,54,3089,4.0,24,MediCover
+233,26,34.2,Yes,Arthritis,"Stiffness, Joint Pain",Low,CT Scan,Surgery,Accident Cover,145595,68,13376,4.2,27,ABC Health
+234,36,20.4,Yes,Cancer,"Bleeding, Fatigue",Low,Ultrasound,Radiation Therapy,Critical Illness,71202,67,12467,4.7,7,ABC Health
+235,35,21.1,Yes,Cancer,"Fatigue, Bleeding",Medium,CT Scan,Radiation Therapy,Cardiac Plan,90339,77,3488,3.6,15,ABC Health
+236,48,29.0,No,Cancer,"Weight Loss, Bleeding",Low,Biopsy,Radiation Therapy,Accident Cover,81294,71,17089,3.2,18,XYZ Insurance
+237,80,33.4,No,Alzheimer’s,"Confusion, Memory Loss",High,ECG,Medication,Cardiac Plan,34785,63,3817,2.3,5,XYZ Insurance
+238,64,32.9,Yes,Alzheimer’s,"Difficulty Speaking, Mood Changes",High,Blood Test,Cognitive Therapy,Senior Citizen,82854,58,9109,3.7,29,LifeShield
+239,49,29.3,Yes,Alzheimer’s,"Confusion, Mood Changes",Medium,MRI,Medication,Critical Illness,178078,86,2765,2.5,16,LifeShield
+240,69,20.8,Yes,Heart Disease,"Dizziness, Breathlessness",Low,X-ray,Surgery,Accident Cover,75432,95,9591,4.7,28,LifeShield
+241,72,20.8,No,Liver Disease,"Dark Urine, Itchy Skin",Low,MRI,Liver Transplant,Senior Citizen,39040,62,16572,2.6,13,HeartCare Inc.
+242,36,31.7,No,Asthma,"Coughing, Wheezing",High,ECG,Lifestyle Changes,Cardiac Plan,59403,82,15888,3.2,21,ABC Health
+243,47,27.7,Yes,Liver Disease,"Itchy Skin, Abdominal Pain",High,MRI,Dietary Changes,Critical Illness,141763,54,1163,2.8,27,LifeShield
+244,18,33.4,No,Diabetes,"Increased Thirst, Blurred Vision",High,X-ray,Insulin Therapy,Critical Illness,108527,67,4591,3.8,16,HeartCare Inc.
+245,46,29.5,Yes,Alzheimer’s,"Confusion, Memory Loss",Medium,CT Scan,Cognitive Therapy,Cardiac Plan,30330,89,4624,2.3,23,MediCover
+246,54,20.5,No,Liver Disease,"Dark Urine, Itchy Skin",Medium,CT Scan,Dietary Changes,Senior Citizen,128538,90,14813,2.8,25,KidneySafe Ins.
+247,40,25.2,Yes,Asthma,"Coughing, Shortness of Breath",Medium,ECG,Lifestyle Changes,Accident Cover,43468,52,3509,3.6,23,LifeShield
+248,74,29.4,No,Arthritis,"Swelling, Joint Pain",Medium,X-ray,Medication,Cardiac Plan,189519,95,3110,4.7,14,MediCover
+249,18,30.4,Yes,Liver Disease,"Itchy Skin, Abdominal Pain",Medium,X-ray,Liver Transplant,Critical Illness,130273,80,17371,3.2,14,XYZ Insurance
+250,52,20.5,No,Heart Disease,"Chest Pain, Dizziness",High,CT Scan,Surgery,Senior Citizen,104075,87,18773,3.5,26,HeartCare Inc.
+251,78,19.3,Yes,Alzheimer’s,"Confusion, Mood Changes",Medium,MRI,Cognitive Therapy,Senior Citizen,58227,65,8082,3.8,15,XYZ Insurance
+252,68,24.6,Yes,Alzheimer’s,"Difficulty Speaking, Confusion",High,Ultrasound,Cognitive Therapy,Accident Cover,184271,56,6857,2.7,6,MediCover
+253,58,26.9,No,Alzheimer’s,"Mood Changes, Confusion",Low,Blood Test,Medication,Critical Illness,83626,50,10413,3.9,5,HeartCare Inc.
+254,22,22.2,No,Cancer,"Lumps, Bleeding",Medium,X-ray,Chemotherapy,Cardiac Plan,48473,90,18988,2.9,25,MediCover
+255,33,22.7,Yes,Heart Disease,"Dizziness, Chest Pain",Medium,ECG,Surgery,Cardiac Plan,93552,74,11363,4.2,25,ABC Health
+256,34,28.6,No,Cancer,"Pain, Lumps",High,Blood Test,Radiation Therapy,Cardiac Plan,107081,52,12488,3.3,28,LifeShield
+257,18,26.3,Yes,Diabetes,"Increased Thirst, Fatigue",High,Ultrasound,Lifestyle Changes,Cardiac Plan,168449,72,2574,3.1,27,MediCover
+258,35,26.8,No,Kidney Disease,"Shortness of Breath, Swelling",Medium,Biopsy,Transplant,Senior Citizen,133165,86,13480,3.3,15,HeartCare Inc.
+259,65,29.1,Yes,Heart Disease,"Breathlessness, Chest Pain",Low,Blood Test,Lifestyle Changes,Senior Citizen,104490,82,9577,4.0,16,XYZ Insurance
+260,65,34.8,Yes,Asthma,"Shortness of Breath, Chest Tightness",Low,ECG,Medication,Accident Cover,86531,91,8897,3.7,9,LifeShield
+261,80,18.2,No,Cancer,"Weight Loss, Fatigue",Low,X-ray,Surgery,Senior Citizen,194707,74,4096,4.6,7,ABC Health
+262,23,21.7,No,Asthma,"Wheezing, Chest Tightness",Medium,ECG,Lifestyle Changes,Health Insurance,142304,76,16115,2.7,24,XYZ Insurance
+263,56,33.3,Yes,Liver Disease,"Abdominal Pain, Yellow Skin",Medium,Blood Test,Dietary Changes,Critical Illness,129515,91,13091,3.9,14,ABC Health
+264,24,19.2,No,Alzheimer’s,"Memory Loss, Difficulty Speaking",High,Ultrasound,Medication,Accident Cover,192632,57,9285,4.0,21,KidneySafe Ins.
+265,63,29.1,Yes,Diabetes,"Fatigue, Increased Thirst",High,X-ray,Insulin Therapy,Senior Citizen,81738,94,4773,2.8,5,HeartCare Inc.
+266,43,33.2,No,Alzheimer’s,"Mood Changes, Difficulty Speaking",Low,Biopsy,Cognitive Therapy,Cardiac Plan,80223,70,7885,4.9,27,LifeShield
+267,62,23.3,Yes,Asthma,"Shortness of Breath, Chest Tightness",Medium,Blood Test,Lifestyle Changes,Senior Citizen,36762,78,6515,3.6,24,KidneySafe Ins.
+268,60,20.5,Yes,Cancer,"Weight Loss, Fatigue",Low,Ultrasound,Radiation Therapy,Cardiac Plan,72747,83,13236,4.8,9,XYZ Insurance
+269,60,19.7,Yes,Heart Disease,"Fatigue, Dizziness",Medium,Ultrasound,Lifestyle Changes,Cardiac Plan,166996,92,7718,2.2,10,XYZ Insurance
+270,76,19.1,Yes,Liver Disease,"Abdominal Pain, Itchy Skin",Low,MRI,Liver Transplant,Cardiac Plan,108333,67,18053,2.7,12,ABC Health
+271,69,32.6,No,Heart Disease,"Dizziness, Fatigue",High,ECG,Surgery,Health Insurance,138869,51,14341,4.4,10,XYZ Insurance
+272,48,24.2,Yes,Liver Disease,"Abdominal Pain, Itchy Skin",High,MRI,Medication,Senior Citizen,34409,68,4565,4.1,16,LifeShield
+273,31,25.5,No,Kidney Disease,"Swelling, Shortness of Breath",Medium,MRI,Medication,Health Insurance,121821,87,12336,4.7,26,HeartCare Inc.
+274,41,33.2,No,Alzheimer’s,"Mood Changes, Confusion",Medium,Blood Test,Medication,Senior Citizen,92606,74,1455,2.7,11,KidneySafe Ins.
+275,63,27.6,No,Cancer,"Weight Loss, Pain",Medium,Biopsy,Radiation Therapy,Cardiac Plan,177819,79,12476,4.8,9,ABC Health
+276,45,34.3,No,Asthma,"Chest Tightness, Wheezing",High,ECG,Lifestyle Changes,Critical Illness,53386,54,16020,3.2,28,XYZ Insurance
+277,56,26.3,No,Liver Disease,"Abdominal Pain, Dark Urine",High,Biopsy,Dietary Changes,Senior Citizen,36743,60,1591,3.9,5,ABC Health
+278,70,31.9,Yes,Heart Disease,"Dizziness, Breathlessness",Low,ECG,Medication,Cardiac Plan,20615,68,18838,3.6,29,XYZ Insurance
+279,62,31.5,Yes,Diabetes,"Frequent Urination, Fatigue",Medium,ECG,Medication,Accident Cover,169905,83,10441,3.6,23,ABC Health
+280,76,34.8,Yes,Liver Disease,"Yellow Skin, Dark Urine",Medium,CT Scan,Medication,Cardiac Plan,21225,50,9302,2.5,29,KidneySafe Ins.
+281,77,27.9,No,Alzheimer’s,"Memory Loss, Confusion",Medium,Ultrasound,Cognitive Therapy,Health Insurance,57462,65,16253,3.5,7,MediCover
+282,65,31.8,Yes,Diabetes,"Fatigue, Blurred Vision",High,ECG,Insulin Therapy,Health Insurance,59528,64,14962,3.5,23,HeartCare Inc.
+283,43,26.0,Yes,Liver Disease,"Yellow Skin, Itchy Skin",Medium,Biopsy,Medication,Health Insurance,106597,78,9995,2.9,13,XYZ Insurance
+284,56,26.3,Yes,Kidney Disease,"Nausea, Swelling",Low,ECG,Medication,Senior Citizen,81789,55,10475,2.7,5,ABC Health
+285,56,29.6,No,Cancer,"Weight Loss, Lumps",High,ECG,Surgery,Cardiac Plan,197152,87,12063,2.7,21,KidneySafe Ins.
+286,45,30.2,No,Asthma,"Chest Tightness, Coughing",Low,CT Scan,Medication,Health Insurance,83174,57,16240,4.0,14,ABC Health
+287,66,27.9,No,Cancer,"Fatigue, Lumps",High,Ultrasound,Radiation Therapy,Senior Citizen,112502,76,14018,2.7,26,ABC Health
+288,37,18.7,Yes,Arthritis,"Fatigue, Stiffness",High,MRI,Medication,Cardiac Plan,116464,86,2106,2.4,11,KidneySafe Ins.
+289,28,29.6,Yes,Arthritis,"Fatigue, Joint Pain",High,Ultrasound,Physical Therapy,Critical Illness,114305,54,3270,4.3,5,ABC Health
+290,60,25.8,Yes,Diabetes,"Fatigue, Blurred Vision",Medium,CT Scan,Lifestyle Changes,Health Insurance,87186,73,13731,3.6,22,LifeShield
+291,53,21.7,Yes,Cancer,"Bleeding, Weight Loss",Low,CT Scan,Radiation Therapy,Accident Cover,92288,81,12175,3.2,19,MediCover
+292,22,21.9,Yes,Arthritis,"Joint Pain, Swelling",High,MRI,Medication,Critical Illness,38925,52,15263,3.0,26,KidneySafe Ins.
+293,40,25.9,Yes,Diabetes,"Frequent Urination, Blurred Vision",Low,Biopsy,Lifestyle Changes,Cardiac Plan,107272,53,2041,3.1,11,LifeShield
+294,46,25.3,Yes,Alzheimer’s,"Confusion, Memory Loss",Low,X-ray,Medication,Critical Illness,101395,57,19791,2.9,21,KidneySafe Ins.
+295,42,25.0,No,Liver Disease,"Itchy Skin, Abdominal Pain",Low,ECG,Medication,Health Insurance,58090,62,13315,3.6,21,XYZ Insurance
+296,49,25.5,No,Asthma,"Coughing, Chest Tightness",Medium,Blood Test,Medication,Health Insurance,137353,81,3186,4.4,9,LifeShield
+297,29,29.2,Yes,Cancer,"Fatigue, Pain",Medium,Blood Test,Chemotherapy,Accident Cover,79674,62,14661,3.1,14,HeartCare Inc.
+298,77,26.7,Yes,Heart Disease,"Dizziness, Breathlessness",Medium,Biopsy,Medication,Cardiac Plan,161267,50,6608,4.1,5,ABC Health
+299,49,21.1,Yes,Alzheimer’s,"Mood Changes, Confusion",Low,X-ray,Medication,Accident Cover,147103,88,16495,4.8,28,MediCover
+300,61,24.2,No,Liver Disease,"Itchy Skin, Abdominal Pain",Medium,Ultrasound,Medication,Cardiac Plan,169544,91,13358,2.8,21,MediCover
+301,48,28.7,Yes,Diabetes,"Blurred Vision, Increased Thirst",Medium,Ultrasound,Insulin Therapy,Accident Cover,115476,74,13424,3.0,22,MediCover
+302,60,30.6,No,Liver Disease,"Dark Urine, Abdominal Pain",Medium,Ultrasound,Medication,Senior Citizen,109226,69,8095,2.8,8,XYZ Insurance
+303,76,29.8,No,Alzheimer’s,"Memory Loss, Confusion",High,CT Scan,Medication,Cardiac Plan,36401,94,8351,4.7,28,KidneySafe Ins.
+304,47,26.2,Yes,Diabetes,"Fatigue, Increased Thirst",High,Blood Test,Medication,Senior Citizen,155941,62,7161,2.1,10,LifeShield
+305,18,32.7,No,Diabetes,"Frequent Urination, Blurred Vision",Low,CT Scan,Insulin Therapy,Cardiac Plan,113434,63,19353,3.6,20,MediCover
+306,53,21.0,Yes,Arthritis,"Joint Pain, Stiffness",High,Blood Test,Surgery,Senior Citizen,148041,53,8194,4.0,18,XYZ Insurance
+307,77,22.8,No,Kidney Disease,"Swelling, Fatigue",High,ECG,Transplant,Senior Citizen,50919,61,7622,4.2,26,LifeShield
+308,28,25.3,No,Cancer,"Fatigue, Lumps",Low,Ultrasound,Chemotherapy,Health Insurance,145036,75,4428,3.6,15,KidneySafe Ins.
+309,64,34.4,Yes,Asthma,"Shortness of Breath, Wheezing",Medium,Blood Test,Medication,Critical Illness,112378,51,4289,2.7,8,ABC Health
+310,32,34.4,Yes,Liver Disease,"Abdominal Pain, Itchy Skin",Medium,ECG,Medication,Critical Illness,84149,92,16904,2.5,14,LifeShield
+311,44,20.2,Yes,Heart Disease,"Dizziness, Breathlessness",Medium,Ultrasound,Surgery,Cardiac Plan,196002,75,3966,2.6,25,XYZ Insurance
+312,44,22.1,Yes,Arthritis,"Swelling, Fatigue",Medium,Biopsy,Physical Therapy,Cardiac Plan,78853,74,14640,2.6,11,ABC Health
+313,34,30.6,No,Diabetes,"Blurred Vision, Increased Thirst",Medium,X-ray,Insulin Therapy,Health Insurance,160724,88,16824,3.6,21,HeartCare Inc.
+314,78,25.3,No,Kidney Disease,"Fatigue, Swelling",High,Blood Test,Dialysis,Accident Cover,128200,55,12649,4.5,6,ABC Health
+315,27,32.3,Yes,Diabetes,"Frequent Urination, Increased Thirst",Low,ECG,Lifestyle Changes,Critical Illness,74481,54,16198,3.4,7,MediCover
+316,22,18.8,No,Alzheimer’s,"Difficulty Speaking, Mood Changes",High,CT Scan,Medication,Health Insurance,106555,50,9374,3.0,28,MediCover
+317,50,20.4,No,Cancer,"Fatigue, Bleeding",High,CT Scan,Chemotherapy,Accident Cover,28638,54,3207,3.2,13,KidneySafe Ins.
+318,53,29.3,Yes,Heart Disease,"Chest Pain, Breathlessness",Medium,Blood Test,Medication,Senior Citizen,95452,92,11609,4.9,21,XYZ Insurance
+319,25,26.3,Yes,Kidney Disease,"Shortness of Breath, Fatigue",Medium,Blood Test,Dialysis,Cardiac Plan,24474,65,10911,2.7,10,KidneySafe Ins.
+320,62,23.5,Yes,Asthma,"Coughing, Shortness of Breath",Low,ECG,Lifestyle Changes,Health Insurance,31705,60,16064,4.5,28,LifeShield
+321,66,33.9,No,Asthma,"Wheezing, Shortness of Breath",High,Blood Test,Inhalers,Critical Illness,167886,77,19838,3.8,27,HeartCare Inc.
+322,41,26.5,No,Heart Disease,"Chest Pain, Fatigue",Medium,Biopsy,Lifestyle Changes,Critical Illness,155527,92,15063,3.3,7,ABC Health
+323,71,31.3,No,Heart Disease,"Breathlessness, Dizziness",Medium,Ultrasound,Lifestyle Changes,Accident Cover,199069,83,19676,4.5,21,LifeShield
+324,40,24.2,No,Cancer,"Weight Loss, Lumps",Low,MRI,Chemotherapy,Senior Citizen,155283,60,5327,3.0,21,LifeShield
+325,50,22.2,Yes,Kidney Disease,"Swelling, Fatigue",Low,Blood Test,Dialysis,Senior Citizen,66612,56,9517,3.8,17,MediCover
+326,58,27.4,Yes,Cancer,"Weight Loss, Lumps",Medium,Biopsy,Surgery,Health Insurance,85510,87,10179,5.0,15,XYZ Insurance
+327,80,29.4,Yes,Heart Disease,"Breathlessness, Chest Pain",Low,Blood Test,Surgery,Cardiac Plan,89130,70,6789,5.0,30,MediCover
+328,57,32.6,No,Liver Disease,"Dark Urine, Yellow Skin",Medium,MRI,Liver Transplant,Cardiac Plan,31766,50,18956,3.3,26,ABC Health
+329,23,25.0,No,Heart Disease,"Dizziness, Breathlessness",High,Ultrasound,Lifestyle Changes,Accident Cover,41603,82,14252,4.7,13,ABC Health
+330,64,24.4,Yes,Diabetes,"Increased Thirst, Fatigue",Medium,Blood Test,Medication,Accident Cover,76871,76,16583,3.0,17,LifeShield
+331,52,27.5,No,Liver Disease,"Abdominal Pain, Itchy Skin",High,ECG,Dietary Changes,Cardiac Plan,158552,80,8342,4.6,7,XYZ Insurance
+332,69,18.0,No,Alzheimer’s,"Confusion, Difficulty Speaking",Low,Blood Test,Medication,Accident Cover,84688,67,2926,2.0,25,KidneySafe Ins.
+333,41,28.5,Yes,Asthma,"Shortness of Breath, Wheezing",High,ECG,Lifestyle Changes,Accident Cover,161886,80,10671,2.8,21,KidneySafe Ins.
+334,55,21.3,Yes,Cancer,"Bleeding, Weight Loss",High,ECG,Radiation Therapy,Health Insurance,78343,55,16667,3.8,25,MediCover
+335,53,18.0,No,Heart Disease,"Dizziness, Chest Pain",Low,Blood Test,Medication,Cardiac Plan,108678,90,12364,4.0,10,LifeShield
+336,55,21.3,No,Kidney Disease,"Shortness of Breath, Swelling",Low,Ultrasound,Transplant,Cardiac Plan,95969,64,3378,3.1,22,KidneySafe Ins.
+337,66,25.8,No,Alzheimer’s,"Difficulty Speaking, Confusion",Medium,Blood Test,Cognitive Therapy,Health Insurance,137318,67,12753,4.2,10,KidneySafe Ins.
+338,34,22.0,Yes,Cancer,"Lumps, Fatigue",Low,ECG,Chemotherapy,Critical Illness,174700,89,5829,2.7,10,MediCover
+339,40,26.8,Yes,Liver Disease,"Abdominal Pain, Itchy Skin",Low,X-ray,Liver Transplant,Accident Cover,24896,65,19888,3.2,10,LifeShield
+340,75,30.4,No,Kidney Disease,"Swelling, Shortness of Breath",Low,Ultrasound,Medication,Critical Illness,140738,95,4797,3.8,8,MediCover
+341,64,34.7,No,Arthritis,"Swelling, Joint Pain",Medium,Ultrasound,Surgery,Cardiac Plan,33038,86,9389,2.5,23,ABC Health
+342,20,19.8,Yes,Kidney Disease,"Fatigue, Nausea",Medium,Biopsy,Dialysis,Senior Citizen,71566,89,15889,3.6,6,XYZ Insurance
+343,40,32.7,No,Kidney Disease,"Fatigue, Nausea",High,CT Scan,Medication,Accident Cover,140899,65,8772,2.1,29,LifeShield
+344,51,31.4,Yes,Asthma,"Chest Tightness, Wheezing",Medium,ECG,Inhalers,Senior Citizen,169305,75,7483,4.0,7,MediCover
+345,72,34.6,Yes,Heart Disease,"Dizziness, Breathlessness",High,ECG,Lifestyle Changes,Senior Citizen,199120,91,15135,2.3,17,KidneySafe Ins.
+346,78,31.2,No,Alzheimer’s,"Memory Loss, Mood Changes",Medium,X-ray,Cognitive Therapy,Senior Citizen,70473,90,1863,2.4,30,LifeShield
+347,44,29.7,Yes,Alzheimer’s,"Mood Changes, Confusion",Medium,Biopsy,Medication,Health Insurance,39528,95,7268,4.4,14,MediCover
+348,62,29.2,Yes,Liver Disease,"Yellow Skin, Abdominal Pain",Medium,Ultrasound,Liver Transplant,Health Insurance,123944,93,15079,2.3,25,XYZ Insurance
+349,28,26.6,Yes,Diabetes,"Frequent Urination, Blurred Vision",Low,Blood Test,Insulin Therapy,Cardiac Plan,88739,57,3912,4.7,27,MediCover
+350,36,22.6,Yes,Arthritis,"Fatigue, Swelling",High,Blood Test,Surgery,Critical Illness,93579,81,18968,2.9,8,LifeShield
+351,18,32.9,No,Kidney Disease,"Shortness of Breath, Nausea",Low,MRI,Dialysis,Health Insurance,48406,60,9359,3.0,5,ABC Health
+352,58,20.0,Yes,Liver Disease,"Abdominal Pain, Yellow Skin",Low,ECG,Dietary Changes,Critical Illness,163290,85,1696,3.0,10,MediCover
+353,53,34.9,Yes,Cancer,"Weight Loss, Lumps",Medium,Blood Test,Chemotherapy,Accident Cover,59421,68,2022,4.6,27,XYZ Insurance
+354,39,20.9,Yes,Arthritis,"Swelling, Stiffness",High,CT Scan,Medication,Senior Citizen,38670,74,8968,2.2,23,HeartCare Inc.
+355,23,27.1,Yes,Asthma,"Chest Tightness, Shortness of Breath",Low,Ultrasound,Lifestyle Changes,Cardiac Plan,84512,77,11961,2.6,5,XYZ Insurance
+356,69,23.1,Yes,Arthritis,"Stiffness, Fatigue",Medium,Blood Test,Physical Therapy,Health Insurance,96583,74,2853,4.9,15,KidneySafe Ins.
+357,30,33.7,No,Arthritis,"Fatigue, Swelling",Medium,Ultrasound,Medication,Senior Citizen,105694,71,12670,3.2,18,XYZ Insurance
+358,41,24.7,No,Alzheimer’s,"Difficulty Speaking, Confusion",High,MRI,Cognitive Therapy,Accident Cover,176047,81,1369,2.8,7,ABC Health
+359,36,21.3,Yes,Heart Disease,"Fatigue, Chest Pain",Medium,MRI,Medication,Cardiac Plan,121994,52,11694,4.9,27,KidneySafe Ins.
+360,30,19.9,Yes,Cancer,"Lumps, Pain",Low,Biopsy,Radiation Therapy,Health Insurance,29125,67,16905,2.2,12,LifeShield
+361,43,23.2,Yes,Asthma,"Coughing, Wheezing",Low,Biopsy,Inhalers,Cardiac Plan,182114,79,19705,3.1,10,KidneySafe Ins.
+362,80,29.6,Yes,Liver Disease,"Dark Urine, Itchy Skin",Low,ECG,Medication,Health Insurance,34708,77,2197,3.7,26,KidneySafe Ins.
+363,24,30.6,No,Cancer,"Fatigue, Pain",High,X-ray,Radiation Therapy,Senior Citizen,179858,52,2916,4.1,30,MediCover
+364,49,21.0,Yes,Alzheimer’s,"Memory Loss, Mood Changes",Low,ECG,Cognitive Therapy,Health Insurance,143416,81,15376,4.2,11,XYZ Insurance
+365,57,31.9,Yes,Diabetes,"Frequent Urination, Blurred Vision",Medium,ECG,Lifestyle Changes,Senior Citizen,197125,73,16795,3.7,27,LifeShield
+366,42,21.3,No,Diabetes,"Blurred Vision, Frequent Urination",High,ECG,Insulin Therapy,Health Insurance,118799,78,2504,3.1,6,XYZ Insurance
+367,73,24.7,Yes,Heart Disease,"Fatigue, Dizziness",Low,X-ray,Surgery,Cardiac Plan,100824,89,12173,4.1,11,LifeShield
+368,56,25.0,Yes,Alzheimer’s,"Difficulty Speaking, Memory Loss",High,X-ray,Medication,Critical Illness,24040,77,9700,2.9,19,LifeShield
+369,71,25.1,No,Cancer,"Lumps, Weight Loss",Medium,MRI,Chemotherapy,Accident Cover,141675,51,15485,4.1,12,KidneySafe Ins.
+370,65,18.7,Yes,Liver Disease,"Abdominal Pain, Yellow Skin",Medium,ECG,Liver Transplant,Health Insurance,178258,53,14299,2.0,18,ABC Health
+371,62,30.0,No,Arthritis,"Swelling, Fatigue",High,MRI,Physical Therapy,Cardiac Plan,48366,88,5946,2.8,28,XYZ Insurance
+372,56,26.6,No,Heart Disease,"Dizziness, Fatigue",Medium,Blood Test,Medication,Critical Illness,180220,70,5385,2.9,30,KidneySafe Ins.
+373,67,24.0,Yes,Kidney Disease,"Fatigue, Shortness of Breath",High,Biopsy,Dialysis,Senior Citizen,117553,83,1589,2.3,9,LifeShield
+374,40,19.3,Yes,Heart Disease,"Breathlessness, Chest Pain",Medium,MRI,Medication,Accident Cover,196817,60,6227,3.4,10,LifeShield
+375,47,32.7,No,Asthma,"Shortness of Breath, Coughing",High,ECG,Lifestyle Changes,Cardiac Plan,122986,84,4320,4.9,7,MediCover
+376,44,34.4,No,Diabetes,"Frequent Urination, Increased Thirst",Medium,Biopsy,Insulin Therapy,Senior Citizen,89222,58,18259,3.5,17,ABC Health
+377,73,18.1,No,Heart Disease,"Breathlessness, Fatigue",High,MRI,Lifestyle Changes,Critical Illness,40479,78,6364,2.6,22,ABC Health
+378,31,19.3,No,Cancer,"Lumps, Bleeding",Low,CT Scan,Surgery,Senior Citizen,106914,84,18317,2.6,14,ABC Health
+379,54,29.8,No,Arthritis,"Joint Pain, Stiffness",Medium,X-ray,Medication,Senior Citizen,128743,84,4072,4.6,30,MediCover
+380,59,28.5,No,Heart Disease,"Dizziness, Breathlessness",High,MRI,Surgery,Health Insurance,156689,71,12483,3.4,18,MediCover
+381,45,18.9,Yes,Asthma,"Chest Tightness, Coughing",Low,MRI,Lifestyle Changes,Critical Illness,167369,57,5652,2.5,24,MediCover
+382,26,18.6,Yes,Asthma,"Wheezing, Coughing",Low,X-ray,Medication,Accident Cover,181448,74,16751,4.9,23,MediCover
+383,70,28.2,No,Asthma,"Chest Tightness, Coughing",High,Ultrasound,Medication,Critical Illness,118886,51,10795,2.5,18,ABC Health
+384,64,31.1,No,Asthma,"Shortness of Breath, Coughing",High,X-ray,Lifestyle Changes,Senior Citizen,135747,68,1036,3.5,22,XYZ Insurance
+385,54,34.4,Yes,Kidney Disease,"Nausea, Swelling",Medium,MRI,Dialysis,Senior Citizen,144670,91,7720,4.4,24,ABC Health
+386,35,26.9,No,Diabetes,"Fatigue, Frequent Urination",Low,ECG,Medication,Cardiac Plan,95761,94,2701,4.5,25,HeartCare Inc.
+387,22,26.1,Yes,Arthritis,"Joint Pain, Stiffness",Low,Biopsy,Medication,Health Insurance,87385,70,3145,2.5,18,ABC Health
+388,57,32.9,Yes,Kidney Disease,"Swelling, Shortness of Breath",High,X-ray,Transplant,Critical Illness,134330,56,9886,4.5,5,KidneySafe Ins.
+389,32,20.3,Yes,Asthma,"Chest Tightness, Shortness of Breath",High,ECG,Inhalers,Health Insurance,68437,79,2505,4.4,10,LifeShield
+390,40,28.5,No,Asthma,"Chest Tightness, Shortness of Breath",Medium,Ultrasound,Medication,Critical Illness,46030,70,18185,4.8,7,XYZ Insurance
+391,21,33.9,No,Arthritis,"Fatigue, Joint Pain",Medium,CT Scan,Medication,Health Insurance,157882,93,6639,3.4,7,LifeShield
+392,80,27.2,Yes,Kidney Disease,"Nausea, Swelling",Medium,Biopsy,Dialysis,Senior Citizen,102214,72,16057,4.8,17,ABC Health
+393,21,20.1,Yes,Diabetes,"Blurred Vision, Increased Thirst",Medium,CT Scan,Medication,Critical Illness,138379,76,1129,4.3,10,ABC Health
+394,38,34.9,No,Alzheimer’s,"Mood Changes, Confusion",High,Ultrasound,Medication,Health Insurance,170339,94,5204,4.3,12,ABC Health
+395,21,34.6,Yes,Asthma,"Shortness of Breath, Wheezing",High,MRI,Medication,Health Insurance,170066,84,3718,2.2,29,ABC Health
+396,20,29.3,Yes,Alzheimer’s,"Confusion, Mood Changes",High,X-ray,Cognitive Therapy,Critical Illness,87262,94,5215,4.5,10,LifeShield
+397,74,19.2,No,Arthritis,"Swelling, Stiffness",High,ECG,Medication,Senior Citizen,189939,62,17204,2.6,18,XYZ Insurance
+398,50,22.6,No,Arthritis,"Fatigue, Joint Pain",Low,X-ray,Medication,Accident Cover,98585,94,6856,2.5,15,MediCover
+399,31,24.5,No,Kidney Disease,"Swelling, Fatigue",Medium,ECG,Dialysis,Cardiac Plan,52583,95,8505,4.2,8,HeartCare Inc.
+400,49,18.5,No,Cancer,"Bleeding, Fatigue",Medium,Biopsy,Chemotherapy,Critical Illness,197824,72,5819,3.9,17,XYZ Insurance
+401,37,25.3,Yes,Diabetes,"Fatigue, Blurred Vision",Low,CT Scan,Lifestyle Changes,Critical Illness,57843,81,9847,2.3,26,KidneySafe Ins.
+402,57,28.2,Yes,Cancer,"Pain, Weight Loss",Medium,MRI,Surgery,Critical Illness,131675,50,4178,3.5,5,XYZ Insurance
+403,63,27.0,Yes,Asthma,"Chest Tightness, Coughing",Medium,Blood Test,Lifestyle Changes,Accident Cover,125356,54,3303,2.5,12,LifeShield
+404,34,28.4,No,Kidney Disease,"Shortness of Breath, Swelling",High,MRI,Transplant,Critical Illness,117337,90,7870,3.7,5,LifeShield
+405,27,18.6,Yes,Arthritis,"Fatigue, Stiffness",High,ECG,Surgery,Critical Illness,138326,66,7269,2.2,12,ABC Health
+406,26,34.3,Yes,Kidney Disease,"Swelling, Nausea",Medium,ECG,Medication,Cardiac Plan,196321,73,8262,5.0,29,LifeShield
+407,69,18.2,Yes,Kidney Disease,"Swelling, Nausea",Low,Blood Test,Dialysis,Cardiac Plan,147426,56,16822,2.7,7,LifeShield
+408,37,21.1,No,Cancer,"Weight Loss, Lumps",Low,X-ray,Radiation Therapy,Health Insurance,189516,90,19982,4.8,15,MediCover
+409,37,28.2,No,Cancer,"Fatigue, Pain",High,ECG,Surgery,Cardiac Plan,92834,95,16989,4.7,25,LifeShield
+410,61,23.1,Yes,Arthritis,"Swelling, Joint Pain",Low,Blood Test,Medication,Health Insurance,98347,80,2838,3.6,17,LifeShield
+411,44,21.3,Yes,Kidney Disease,"Fatigue, Shortness of Breath",Low,CT Scan,Dialysis,Health Insurance,27636,82,12854,3.1,7,XYZ Insurance
+412,71,29.0,No,Liver Disease,"Yellow Skin, Itchy Skin",High,Blood Test,Dietary Changes,Health Insurance,136234,77,5029,4.9,8,MediCover
+413,47,18.2,No,Alzheimer’s,"Mood Changes, Difficulty Speaking",High,Blood Test,Medication,Senior Citizen,150691,53,19607,2.5,19,KidneySafe Ins.
+414,72,19.7,No,Alzheimer’s,"Mood Changes, Confusion",High,X-ray,Medication,Critical Illness,114233,59,14270,2.2,17,HeartCare Inc.
+415,33,32.9,Yes,Cancer,"Pain, Lumps",Low,X-ray,Surgery,Critical Illness,191990,56,1858,4.7,16,HeartCare Inc.
+416,26,21.6,Yes,Asthma,"Wheezing, Shortness of Breath",Medium,MRI,Medication,Cardiac Plan,69480,75,1430,3.4,10,KidneySafe Ins.
+417,63,22.3,Yes,Cancer,"Lumps, Bleeding",Medium,X-ray,Radiation Therapy,Critical Illness,74731,70,16128,3.6,26,MediCover
+418,67,34.2,No,Heart Disease,"Fatigue, Dizziness",Medium,X-ray,Lifestyle Changes,Health Insurance,130555,93,11182,3.2,8,XYZ Insurance
+419,70,22.9,Yes,Arthritis,"Stiffness, Fatigue",Medium,X-ray,Surgery,Cardiac Plan,142664,69,14433,2.5,29,XYZ Insurance
+420,68,27.3,Yes,Asthma,"Chest Tightness, Shortness of Breath",High,X-ray,Lifestyle Changes,Health Insurance,55829,84,13677,3.7,17,XYZ Insurance
+421,65,33.2,Yes,Asthma,"Coughing, Wheezing",High,Blood Test,Medication,Critical Illness,165419,75,1161,2.3,12,HeartCare Inc.
+422,40,34.6,Yes,Arthritis,"Fatigue, Joint Pain",Medium,X-ray,Medication,Critical Illness,182442,50,6688,4.4,12,ABC Health
+423,76,35.0,No,Asthma,"Shortness of Breath, Coughing",Low,Blood Test,Inhalers,Senior Citizen,153862,84,10918,4.3,17,HeartCare Inc.
+424,70,30.8,No,Cancer,"Weight Loss, Fatigue",High,ECG,Radiation Therapy,Cardiac Plan,62189,66,2246,2.9,17,XYZ Insurance
+425,58,27.7,Yes,Alzheimer’s,"Memory Loss, Mood Changes",High,X-ray,Medication,Accident Cover,105639,95,1895,3.9,8,LifeShield
+426,62,34.2,No,Heart Disease,"Chest Pain, Dizziness",Medium,Ultrasound,Medication,Senior Citizen,179619,68,2699,3.4,23,MediCover
+427,53,27.5,Yes,Cancer,"Weight Loss, Pain",Low,MRI,Radiation Therapy,Health Insurance,33566,68,6011,3.6,30,KidneySafe Ins.
+428,51,24.9,No,Asthma,"Chest Tightness, Coughing",Medium,Blood Test,Inhalers,Senior Citizen,98529,59,6932,3.1,20,HeartCare Inc.
+429,62,28.3,Yes,Diabetes,"Frequent Urination, Increased Thirst",High,ECG,Lifestyle Changes,Health Insurance,106364,92,15452,3.2,27,KidneySafe Ins.
+430,49,26.6,No,Heart Disease,"Dizziness, Chest Pain",High,Blood Test,Medication,Senior Citizen,44013,61,13169,3.0,12,HeartCare Inc.
+431,19,27.5,Yes,Heart Disease,"Fatigue, Chest Pain",Low,X-ray,Medication,Critical Illness,26356,79,7904,2.0,12,MediCover
+432,24,23.8,No,Kidney Disease,"Swelling, Fatigue",Medium,Biopsy,Dialysis,Critical Illness,132743,66,18186,2.9,12,ABC Health
+433,26,32.4,No,Liver Disease,"Abdominal Pain, Yellow Skin",Medium,X-ray,Medication,Accident Cover,172954,94,7680,3.2,17,MediCover
+434,79,29.1,No,Liver Disease,"Dark Urine, Abdominal Pain",Medium,X-ray,Liver Transplant,Senior Citizen,101436,79,19637,3.1,17,HeartCare Inc.
+435,75,23.8,No,Alzheimer’s,"Difficulty Speaking, Mood Changes",High,MRI,Medication,Senior Citizen,157806,90,5132,3.1,21,LifeShield
+436,36,28.0,Yes,Diabetes,"Frequent Urination, Blurred Vision",High,Blood Test,Medication,Critical Illness,32670,92,8587,2.6,22,KidneySafe Ins.
+437,28,29.0,Yes,Asthma,"Chest Tightness, Wheezing",High,X-ray,Medication,Cardiac Plan,110370,80,17840,4.1,28,XYZ Insurance
+438,45,18.9,Yes,Asthma,"Wheezing, Shortness of Breath",Medium,Ultrasound,Medication,Health Insurance,69402,63,4556,3.9,28,XYZ Insurance
+439,50,33.5,Yes,Heart Disease,"Dizziness, Breathlessness",Medium,MRI,Medication,Cardiac Plan,94342,52,2096,4.2,17,ABC Health
+440,53,26.3,No,Liver Disease,"Itchy Skin, Abdominal Pain",Low,X-ray,Dietary Changes,Senior Citizen,177954,87,13042,2.5,19,XYZ Insurance
+441,32,18.4,No,Heart Disease,"Dizziness, Chest Pain",High,Blood Test,Medication,Cardiac Plan,186428,64,2189,4.8,10,XYZ Insurance
+442,77,28.7,No,Liver Disease,"Dark Urine, Itchy Skin",Low,Ultrasound,Liver Transplant,Cardiac Plan,33001,94,19038,2.2,30,KidneySafe Ins.
+443,27,33.3,No,Asthma,"Wheezing, Shortness of Breath",Medium,Ultrasound,Medication,Cardiac Plan,153314,52,18887,4.0,6,ABC Health
+444,60,20.9,No,Heart Disease,"Dizziness, Breathlessness",Low,Ultrasound,Lifestyle Changes,Health Insurance,145428,77,12726,3.8,9,ABC Health
+445,40,33.7,No,Asthma,"Chest Tightness, Wheezing",High,ECG,Lifestyle Changes,Health Insurance,135670,94,2036,2.9,14,KidneySafe Ins.
+446,38,33.5,No,Kidney Disease,"Nausea, Swelling",Low,MRI,Medication,Cardiac Plan,197794,94,19138,2.8,14,MediCover
+447,19,29.5,Yes,Kidney Disease,"Swelling, Fatigue",Medium,Blood Test,Dialysis,Critical Illness,73863,71,15527,3.3,28,HeartCare Inc.
+448,80,27.5,No,Diabetes,"Frequent Urination, Blurred Vision",Medium,CT Scan,Insulin Therapy,Critical Illness,101890,50,17267,2.9,8,HeartCare Inc.
+449,29,34.3,No,Kidney Disease,"Fatigue, Nausea",High,MRI,Medication,Accident Cover,46164,90,19651,2.2,19,ABC Health
+450,22,23.5,No,Cancer,"Weight Loss, Fatigue",Medium,Ultrasound,Chemotherapy,Health Insurance,141033,69,2837,3.5,10,KidneySafe Ins.
+451,40,22.0,Yes,Cancer,"Fatigue, Weight Loss",Low,MRI,Radiation Therapy,Critical Illness,85706,64,10173,4.6,16,LifeShield
+452,36,33.9,Yes,Diabetes,"Increased Thirst, Fatigue",Medium,X-ray,Insulin Therapy,Accident Cover,86592,83,2428,3.2,8,HeartCare Inc.
+453,65,25.0,Yes,Arthritis,"Swelling, Joint Pain",Medium,X-ray,Medication,Critical Illness,72979,84,7534,4.8,14,MediCover
+454,41,22.1,Yes,Arthritis,"Stiffness, Joint Pain",High,ECG,Physical Therapy,Senior Citizen,109526,88,10587,3.4,27,ABC Health
+455,77,32.6,Yes,Cancer,"Bleeding, Weight Loss",Medium,Biopsy,Chemotherapy,Critical Illness,84487,81,16140,4.9,30,XYZ Insurance
+456,44,28.8,Yes,Arthritis,"Joint Pain, Stiffness",High,ECG,Medication,Accident Cover,131062,62,3146,2.9,12,ABC Health
+457,51,28.3,Yes,Asthma,"Wheezing, Shortness of Breath",Low,Ultrasound,Medication,Critical Illness,88298,80,13303,4.2,15,KidneySafe Ins.
+458,60,24.8,Yes,Arthritis,"Swelling, Stiffness",Medium,Biopsy,Surgery,Critical Illness,97021,52,4923,4.4,23,LifeShield
+459,24,28.3,Yes,Alzheimer’s,"Mood Changes, Confusion",Medium,X-ray,Cognitive Therapy,Senior Citizen,119815,92,9589,3.4,26,XYZ Insurance
+460,32,33.7,Yes,Diabetes,"Increased Thirst, Frequent Urination",Medium,Ultrasound,Medication,Critical Illness,64192,70,8589,3.1,16,HeartCare Inc.
+461,23,19.6,Yes,Heart Disease,"Fatigue, Dizziness",Medium,Ultrasound,Lifestyle Changes,Senior Citizen,120091,65,10470,4.5,30,MediCover
+462,56,18.6,Yes,Alzheimer’s,"Memory Loss, Mood Changes",Medium,Blood Test,Medication,Senior Citizen,99298,77,7218,3.4,8,MediCover
+463,39,24.7,No,Arthritis,"Swelling, Stiffness",Medium,Ultrasound,Physical Therapy,Critical Illness,118468,59,11241,3.0,17,ABC Health
+464,63,30.6,Yes,Kidney Disease,"Fatigue, Shortness of Breath",Medium,Ultrasound,Dialysis,Critical Illness,173799,65,8696,3.2,18,ABC Health
+465,35,20.8,No,Kidney Disease,"Swelling, Shortness of Breath",High,Biopsy,Dialysis,Health Insurance,88898,64,15447,4.5,29,KidneySafe Ins.
+466,21,23.3,Yes,Alzheimer’s,"Confusion, Difficulty Speaking",High,Ultrasound,Medication,Critical Illness,126150,86,13631,2.9,26,XYZ Insurance
+467,80,19.3,Yes,Cancer,"Fatigue, Pain",Low,Blood Test,Chemotherapy,Accident Cover,153975,93,18269,4.1,10,XYZ Insurance
+468,58,23.8,No,Asthma,"Chest Tightness, Coughing",High,MRI,Medication,Senior Citizen,118625,61,10558,4.9,10,XYZ Insurance
+469,34,29.9,Yes,Alzheimer’s,"Confusion, Memory Loss",Medium,Biopsy,Medication,Senior Citizen,130979,76,10101,4.4,25,ABC Health
+470,55,21.3,Yes,Heart Disease,"Chest Pain, Breathlessness",Low,Biopsy,Lifestyle Changes,Critical Illness,155891,52,5134,4.9,5,XYZ Insurance
+471,71,24.7,Yes,Arthritis,"Fatigue, Joint Pain",High,MRI,Physical Therapy,Health Insurance,64263,91,15943,3.9,13,KidneySafe Ins.
+472,63,33.0,Yes,Cancer,"Fatigue, Lumps",Medium,Blood Test,Chemotherapy,Critical Illness,141152,61,9117,2.3,16,LifeShield
+473,31,21.0,No,Cancer,"Lumps, Fatigue",High,Biopsy,Chemotherapy,Critical Illness,66139,77,7754,3.5,5,XYZ Insurance
+474,65,18.8,No,Heart Disease,"Breathlessness, Fatigue",Low,Biopsy,Surgery,Health Insurance,35720,58,19706,3.6,11,ABC Health
+475,28,22.6,No,Kidney Disease,"Swelling, Shortness of Breath",High,ECG,Dialysis,Cardiac Plan,75452,78,14791,2.5,23,ABC Health
+476,62,27.9,Yes,Arthritis,"Stiffness, Fatigue",Medium,X-ray,Medication,Health Insurance,106680,53,11478,4.6,7,HeartCare Inc.
+477,46,19.2,No,Heart Disease,"Dizziness, Breathlessness",Low,Ultrasound,Surgery,Accident Cover,56590,52,9720,3.9,28,XYZ Insurance
+478,34,32.1,No,Diabetes,"Blurred Vision, Frequent Urination",High,MRI,Medication,Senior Citizen,47251,60,4701,4.2,30,KidneySafe Ins.
+479,47,30.9,No,Kidney Disease,"Swelling, Shortness of Breath",Low,MRI,Medication,Cardiac Plan,57346,85,2915,4.3,7,HeartCare Inc.
+480,72,23.8,Yes,Diabetes,"Fatigue, Frequent Urination",High,Biopsy,Insulin Therapy,Accident Cover,84790,63,4645,4.2,5,HeartCare Inc.
+481,45,32.8,Yes,Kidney Disease,"Shortness of Breath, Swelling",High,CT Scan,Transplant,Cardiac Plan,89541,69,13957,2.7,17,ABC Health
+482,54,23.7,Yes,Kidney Disease,"Nausea, Shortness of Breath",Low,CT Scan,Medication,Cardiac Plan,118472,59,18794,4.3,29,ABC Health
+483,33,31.3,No,Heart Disease,"Dizziness, Breathlessness",Low,Ultrasound,Medication,Senior Citizen,93232,70,9945,3.8,22,KidneySafe Ins.
+484,73,23.4,Yes,Kidney Disease,"Shortness of Breath, Nausea",Medium,ECG,Dialysis,Cardiac Plan,90104,66,16515,4.8,10,LifeShield
+485,52,25.3,No,Arthritis,"Swelling, Joint Pain",High,Blood Test,Physical Therapy,Critical Illness,159354,82,6214,3.7,27,LifeShield
+486,27,31.7,No,Asthma,"Coughing, Shortness of Breath",Medium,X-ray,Inhalers,Accident Cover,39629,62,2485,4.2,5,ABC Health
+487,48,21.2,No,Diabetes,"Fatigue, Frequent Urination",High,Blood Test,Medication,Cardiac Plan,25210,79,18062,4.1,7,HeartCare Inc.
+488,37,19.9,Yes,Asthma,"Wheezing, Shortness of Breath",Medium,X-ray,Lifestyle Changes,Cardiac Plan,144992,64,5435,4.7,18,HeartCare Inc.
+489,78,30.6,Yes,Diabetes,"Frequent Urination, Blurred Vision",High,X-ray,Insulin Therapy,Critical Illness,40743,66,17433,3.4,16,ABC Health
+490,40,21.2,No,Alzheimer’s,"Confusion, Difficulty Speaking",Medium,Blood Test,Medication,Health Insurance,199458,64,8164,4.0,24,KidneySafe Ins.
+491,41,22.7,No,Kidney Disease,"Swelling, Nausea",Low,Ultrasound,Transplant,Accident Cover,197124,54,15715,2.7,5,XYZ Insurance
+492,52,22.8,No,Cancer,"Fatigue, Weight Loss",Medium,Blood Test,Chemotherapy,Senior Citizen,107899,51,13120,2.2,16,XYZ Insurance
+493,65,32.7,Yes,Asthma,"Chest Tightness, Wheezing",High,MRI,Inhalers,Accident Cover,84255,75,1277,4.1,29,ABC Health
+494,54,19.5,No,Heart Disease,"Breathlessness, Fatigue",Medium,Ultrasound,Medication,Critical Illness,162210,65,3195,4.3,22,XYZ Insurance
+495,49,24.6,No,Alzheimer’s,"Mood Changes, Memory Loss",High,Ultrasound,Medication,Senior Citizen,43816,66,9127,3.4,11,LifeShield
+496,76,30.6,No,Alzheimer’s,"Mood Changes, Confusion",Medium,ECG,Medication,Accident Cover,119069,63,5588,2.9,16,HeartCare Inc.
+497,75,24.6,Yes,Kidney Disease,"Swelling, Nausea",High,ECG,Transplant,Accident Cover,132011,53,13513,3.6,21,KidneySafe Ins.
+498,45,26.7,Yes,Diabetes,"Blurred Vision, Fatigue",High,MRI,Insulin Therapy,Health Insurance,140848,88,4263,4.8,13,HeartCare Inc.
+499,76,23.4,No,Heart Disease,"Dizziness, Breathlessness",High,CT Scan,Medication,Cardiac Plan,67086,78,4587,3.8,17,ABC Health
+500,28,34.5,Yes,Heart Disease,"Breathlessness, Dizziness",Medium,MRI,Lifestyle Changes,Cardiac Plan,156825,64,5319,2.9,23,LifeShield
+501,54,19.5,Yes,Liver Disease,"Itchy Skin, Abdominal Pain",Medium,ECG,Dietary Changes,Cardiac Plan,147886,56,15078,3.7,30,HeartCare Inc.
+502,72,18.6,No,Cancer,"Weight Loss, Bleeding",Medium,Biopsy,Radiation Therapy,Health Insurance,39806,86,5278,4.8,22,XYZ Insurance
+503,35,24.4,No,Kidney Disease,"Swelling, Shortness of Breath",Low,Biopsy,Dialysis,Cardiac Plan,190252,70,2640,4.2,26,KidneySafe Ins.
+504,35,34.3,Yes,Liver Disease,"Yellow Skin, Itchy Skin",Low,X-ray,Dietary Changes,Critical Illness,149936,73,19157,2.6,16,XYZ Insurance
+505,77,27.5,Yes,Asthma,"Coughing, Chest Tightness",High,ECG,Lifestyle Changes,Senior Citizen,38746,91,19759,3.0,28,XYZ Insurance
+506,73,32.8,Yes,Alzheimer’s,"Mood Changes, Memory Loss",Medium,ECG,Medication,Critical Illness,31473,69,16013,2.0,24,MediCover
+507,49,31.4,Yes,Liver Disease,"Dark Urine, Itchy Skin",Low,MRI,Liver Transplant,Accident Cover,185237,90,16745,2.9,7,KidneySafe Ins.
+508,23,27.5,No,Asthma,"Coughing, Shortness of Breath",High,Blood Test,Lifestyle Changes,Accident Cover,95989,74,17127,4.8,23,XYZ Insurance
+509,76,34.3,No,Alzheimer’s,"Confusion, Difficulty Speaking",Medium,Blood Test,Medication,Health Insurance,46198,91,3429,2.1,29,MediCover
+510,62,24.0,Yes,Diabetes,"Frequent Urination, Increased Thirst",Medium,X-ray,Medication,Health Insurance,157207,83,6683,4.8,5,HeartCare Inc.
+511,19,25.5,Yes,Diabetes,"Blurred Vision, Increased Thirst",Medium,Ultrasound,Medication,Health Insurance,143448,85,19226,4.1,29,HeartCare Inc.
+512,43,18.6,Yes,Cancer,"Fatigue, Lumps",Low,Blood Test,Surgery,Accident Cover,47486,78,2822,2.0,17,KidneySafe Ins.
+513,32,32.4,Yes,Heart Disease,"Breathlessness, Fatigue",Medium,CT Scan,Surgery,Critical Illness,81268,55,11413,2.8,12,KidneySafe Ins.
+514,51,23.6,No,Asthma,"Wheezing, Shortness of Breath",Low,Ultrasound,Medication,Critical Illness,155238,86,12155,2.7,15,LifeShield
+515,41,30.6,No,Heart Disease,"Fatigue, Breathlessness",Medium,CT Scan,Lifestyle Changes,Accident Cover,50603,91,18363,4.2,12,MediCover
+516,46,27.7,Yes,Alzheimer’s,"Memory Loss, Confusion",High,MRI,Medication,Cardiac Plan,76165,71,14209,4.7,5,MediCover
+517,69,28.1,Yes,Cancer,"Bleeding, Fatigue",Low,MRI,Chemotherapy,Accident Cover,74659,79,13589,2.9,20,MediCover
+518,46,25.5,Yes,Heart Disease,"Fatigue, Chest Pain",High,CT Scan,Surgery,Cardiac Plan,98470,51,7755,2.1,7,XYZ Insurance
+519,74,30.4,Yes,Cancer,"Fatigue, Weight Loss",Medium,Blood Test,Surgery,Cardiac Plan,46384,55,19070,3.2,28,LifeShield
+520,63,20.5,No,Arthritis,"Swelling, Stiffness",Low,MRI,Medication,Senior Citizen,88682,68,9092,3.1,13,LifeShield
+521,76,27.1,No,Heart Disease,"Breathlessness, Fatigue",High,CT Scan,Medication,Cardiac Plan,177782,68,1381,4.2,10,KidneySafe Ins.
+522,45,27.3,No,Heart Disease,"Fatigue, Breathlessness",Medium,Ultrasound,Lifestyle Changes,Accident Cover,127068,85,3484,3.7,15,ABC Health
+523,42,20.9,Yes,Diabetes,"Frequent Urination, Increased Thirst",High,Biopsy,Lifestyle Changes,Health Insurance,177048,59,12056,2.9,10,MediCover
+524,74,30.8,Yes,Diabetes,"Fatigue, Blurred Vision",High,ECG,Lifestyle Changes,Senior Citizen,97974,57,11883,4.7,6,ABC Health
+525,75,19.6,Yes,Cancer,"Lumps, Fatigue",Low,MRI,Chemotherapy,Health Insurance,65033,65,14967,2.7,6,LifeShield
+526,19,20.5,No,Heart Disease,"Fatigue, Chest Pain",Low,Blood Test,Surgery,Accident Cover,22850,74,19713,2.4,29,KidneySafe Ins.
+527,68,27.8,No,Kidney Disease,"Nausea, Shortness of Breath",High,X-ray,Medication,Health Insurance,20502,67,12180,3.3,6,HeartCare Inc.
+528,41,20.5,No,Kidney Disease,"Fatigue, Swelling",Low,Biopsy,Transplant,Senior Citizen,150403,74,12305,4.4,29,HeartCare Inc.
+529,65,31.7,No,Heart Disease,"Breathlessness, Fatigue",High,CT Scan,Surgery,Senior Citizen,76258,71,13532,4.2,5,ABC Health
+530,38,24.8,Yes,Heart Disease,"Dizziness, Fatigue",Low,ECG,Medication,Cardiac Plan,94447,77,14228,3.1,28,KidneySafe Ins.
+531,63,30.0,No,Kidney Disease,"Fatigue, Shortness of Breath",Low,MRI,Transplant,Accident Cover,74927,70,2832,3.1,24,LifeShield
+532,31,18.7,Yes,Alzheimer’s,"Confusion, Difficulty Speaking",Low,Blood Test,Medication,Senior Citizen,52993,95,8514,4.2,28,XYZ Insurance
+533,42,33.4,Yes,Heart Disease,"Breathlessness, Fatigue",Low,X-ray,Medication,Health Insurance,81780,81,5043,2.2,24,ABC Health
+534,70,18.8,Yes,Heart Disease,"Chest Pain, Breathlessness",Medium,ECG,Surgery,Health Insurance,142434,86,6210,4.4,28,LifeShield
+535,43,21.8,Yes,Heart Disease,"Fatigue, Dizziness",High,Ultrasound,Lifestyle Changes,Accident Cover,164580,61,1452,3.6,24,LifeShield
+536,62,27.2,No,Kidney Disease,"Fatigue, Swelling",Medium,X-ray,Dialysis,Critical Illness,81463,69,12473,2.3,6,XYZ Insurance
+537,57,18.4,Yes,Liver Disease,"Abdominal Pain, Dark Urine",Low,X-ray,Medication,Accident Cover,46932,56,5582,2.4,16,ABC Health
+538,61,33.6,No,Kidney Disease,"Shortness of Breath, Swelling",Medium,Biopsy,Medication,Critical Illness,82639,86,11712,4.7,24,KidneySafe Ins.
+539,73,30.1,No,Asthma,"Coughing, Wheezing",High,Ultrasound,Medication,Accident Cover,80488,87,4660,3.7,30,LifeShield
+540,25,24.4,Yes,Kidney Disease,"Fatigue, Swelling",High,CT Scan,Dialysis,Health Insurance,65861,68,12933,2.0,8,HeartCare Inc.
+541,26,32.8,No,Arthritis,"Fatigue, Joint Pain",High,MRI,Surgery,Critical Illness,180422,59,3426,4.2,17,XYZ Insurance
+542,33,30.4,No,Kidney Disease,"Swelling, Shortness of Breath",Medium,ECG,Medication,Health Insurance,69969,95,3776,2.9,6,ABC Health
+543,73,29.3,Yes,Alzheimer’s,"Difficulty Speaking, Memory Loss",High,Biopsy,Medication,Senior Citizen,48442,85,7694,2.4,19,MediCover
+544,28,24.4,No,Cancer,"Lumps, Weight Loss",High,MRI,Surgery,Health Insurance,54373,51,8789,4.2,11,HeartCare Inc.
+545,26,18.9,Yes,Cancer,"Fatigue, Pain",Medium,ECG,Surgery,Cardiac Plan,93298,88,12790,3.0,7,KidneySafe Ins.
+546,31,26.1,No,Arthritis,"Fatigue, Swelling",Low,MRI,Surgery,Senior Citizen,130764,66,6510,3.3,19,LifeShield
+547,74,20.5,Yes,Kidney Disease,"Shortness of Breath, Swelling",Medium,Biopsy,Dialysis,Cardiac Plan,40741,56,12772,3.9,12,ABC Health
+548,26,26.5,No,Diabetes,"Increased Thirst, Frequent Urination",Medium,MRI,Lifestyle Changes,Cardiac Plan,42909,55,6270,4.7,23,KidneySafe Ins.
+549,57,25.4,Yes,Heart Disease,"Dizziness, Fatigue",Medium,CT Scan,Medication,Cardiac Plan,141853,67,16810,3.0,24,MediCover
+550,78,32.6,Yes,Liver Disease,"Dark Urine, Yellow Skin",High,ECG,Medication,Health Insurance,32317,76,6363,3.1,18,LifeShield
+551,80,34.9,Yes,Kidney Disease,"Nausea, Swelling",Low,CT Scan,Medication,Critical Illness,37791,87,11986,3.4,16,XYZ Insurance
+552,61,25.7,No,Heart Disease,"Fatigue, Breathlessness",High,MRI,Surgery,Accident Cover,113235,89,11328,2.2,17,MediCover
+553,35,18.8,No,Cancer,"Weight Loss, Fatigue",Low,Biopsy,Chemotherapy,Senior Citizen,85348,72,14126,4.8,26,ABC Health
+554,68,24.2,Yes,Kidney Disease,"Shortness of Breath, Nausea",Medium,X-ray,Dialysis,Accident Cover,122737,81,10667,2.9,15,KidneySafe Ins.
+555,68,31.6,No,Asthma,"Shortness of Breath, Wheezing",Medium,ECG,Inhalers,Critical Illness,48178,70,6016,3.5,15,LifeShield
+556,74,20.2,Yes,Diabetes,"Increased Thirst, Frequent Urination",High,X-ray,Insulin Therapy,Health Insurance,173114,66,11287,2.2,23,KidneySafe Ins.
+557,52,33.5,No,Heart Disease,"Dizziness, Breathlessness",Medium,Ultrasound,Surgery,Critical Illness,137848,84,19795,5.0,23,XYZ Insurance
+558,26,18.9,Yes,Kidney Disease,"Nausea, Shortness of Breath",High,Ultrasound,Transplant,Cardiac Plan,20565,60,15946,3.7,7,LifeShield
+559,47,30.5,No,Liver Disease,"Yellow Skin, Dark Urine",Medium,MRI,Medication,Critical Illness,88116,66,17573,4.0,24,MediCover
+560,33,30.2,Yes,Heart Disease,"Breathlessness, Fatigue",Low,Biopsy,Medication,Accident Cover,112937,58,16417,4.3,21,HeartCare Inc.
+561,34,33.5,Yes,Alzheimer’s,"Confusion, Memory Loss",High,MRI,Medication,Cardiac Plan,24536,50,13374,2.7,24,LifeShield
+562,32,32.1,No,Arthritis,"Stiffness, Swelling",Low,ECG,Surgery,Health Insurance,196258,90,5046,2.2,8,KidneySafe Ins.
+563,36,35.0,No,Asthma,"Chest Tightness, Coughing",Medium,Blood Test,Inhalers,Accident Cover,85682,77,17460,3.9,23,KidneySafe Ins.
+564,64,26.8,Yes,Diabetes,"Blurred Vision, Frequent Urination",High,ECG,Lifestyle Changes,Critical Illness,25029,62,1310,2.4,24,MediCover
+565,46,31.4,Yes,Cancer,"Bleeding, Fatigue",High,X-ray,Radiation Therapy,Health Insurance,22389,74,6504,2.8,29,HeartCare Inc.
+566,18,26.0,Yes,Heart Disease,"Dizziness, Breathlessness",Medium,CT Scan,Lifestyle Changes,Critical Illness,66924,95,6029,3.1,5,HeartCare Inc.
+567,48,19.8,No,Alzheimer’s,"Mood Changes, Confusion",Medium,ECG,Medication,Accident Cover,125013,50,19402,4.6,26,XYZ Insurance
+568,71,32.7,No,Cancer,"Pain, Fatigue",Medium,Biopsy,Surgery,Health Insurance,119345,66,4566,3.0,16,HeartCare Inc.
+569,42,19.7,Yes,Heart Disease,"Dizziness, Breathlessness",Low,ECG,Surgery,Accident Cover,132301,64,10924,4.8,8,XYZ Insurance
+570,33,32.7,Yes,Arthritis,"Stiffness, Fatigue",Medium,Blood Test,Physical Therapy,Cardiac Plan,173234,71,2274,4.1,19,LifeShield
+571,24,18.9,No,Kidney Disease,"Shortness of Breath, Nausea",Low,ECG,Dialysis,Accident Cover,154876,56,8676,5.0,22,HeartCare Inc.
+572,72,28.7,Yes,Cancer,"Lumps, Weight Loss",High,Ultrasound,Chemotherapy,Health Insurance,99622,89,5268,3.3,10,HeartCare Inc.
+573,60,32.8,No,Diabetes,"Fatigue, Increased Thirst",Medium,ECG,Lifestyle Changes,Critical Illness,55665,54,13030,2.7,27,HeartCare Inc.
+574,27,19.6,Yes,Arthritis,"Fatigue, Stiffness",Low,MRI,Surgery,Critical Illness,106311,59,12009,3.6,25,ABC Health
+575,71,25.0,No,Cancer,"Weight Loss, Fatigue",Medium,Ultrasound,Surgery,Accident Cover,179873,75,11559,3.5,17,ABC Health
+576,68,21.8,Yes,Liver Disease,"Itchy Skin, Abdominal Pain",High,MRI,Medication,Critical Illness,48365,77,18634,4.6,15,KidneySafe Ins.
+577,40,29.6,No,Cancer,"Weight Loss, Bleeding",Low,MRI,Radiation Therapy,Critical Illness,166196,56,15544,3.8,27,LifeShield
+578,23,27.2,Yes,Diabetes,"Frequent Urination, Blurred Vision",Low,MRI,Lifestyle Changes,Health Insurance,154641,52,18993,4.5,10,XYZ Insurance
+579,46,21.4,No,Arthritis,"Swelling, Joint Pain",High,Biopsy,Medication,Cardiac Plan,39596,79,9935,2.8,6,HeartCare Inc.
+580,40,26.6,No,Arthritis,"Swelling, Stiffness",Medium,Ultrasound,Medication,Critical Illness,43276,68,9543,3.2,8,LifeShield
+581,55,34.1,Yes,Kidney Disease,"Fatigue, Swelling",Low,X-ray,Medication,Critical Illness,128470,53,16912,4.7,15,KidneySafe Ins.
+582,20,31.1,Yes,Asthma,"Shortness of Breath, Coughing",Low,Blood Test,Medication,Cardiac Plan,133354,92,13366,2.7,26,HeartCare Inc.
+583,42,30.9,Yes,Liver Disease,"Dark Urine, Itchy Skin",Low,ECG,Medication,Senior Citizen,41783,95,14389,4.8,15,MediCover
+584,24,34.7,Yes,Asthma,"Wheezing, Coughing",High,ECG,Medication,Cardiac Plan,29769,58,13111,3.7,28,XYZ Insurance
+585,65,34.3,Yes,Liver Disease,"Itchy Skin, Dark Urine",Medium,ECG,Dietary Changes,Senior Citizen,137369,61,10508,4.1,6,ABC Health
+586,76,34.3,No,Heart Disease,"Breathlessness, Dizziness",Low,Ultrasound,Lifestyle Changes,Accident Cover,103954,85,9763,3.4,20,HeartCare Inc.
+587,50,22.3,Yes,Cancer,"Weight Loss, Bleeding",Low,Biopsy,Surgery,Accident Cover,113733,59,5361,4.9,19,ABC Health
+588,49,20.4,No,Liver Disease,"Dark Urine, Yellow Skin",Medium,Blood Test,Dietary Changes,Senior Citizen,25425,70,15312,2.4,17,ABC Health
+589,35,23.5,No,Asthma,"Wheezing, Chest Tightness",Low,CT Scan,Inhalers,Critical Illness,27435,68,10965,4.6,8,ABC Health
+590,44,25.9,Yes,Liver Disease,"Itchy Skin, Yellow Skin",Low,ECG,Medication,Critical Illness,174420,75,3790,3.5,16,XYZ Insurance
+591,50,34.0,No,Cancer,"Pain, Weight Loss",Low,Biopsy,Chemotherapy,Cardiac Plan,168944,77,2055,3.0,14,KidneySafe Ins.
+592,46,31.1,No,Alzheimer’s,"Mood Changes, Memory Loss",High,Blood Test,Medication,Cardiac Plan,43498,53,2554,3.0,17,ABC Health
+593,49,25.1,Yes,Heart Disease,"Dizziness, Breathlessness",Medium,Ultrasound,Surgery,Critical Illness,123566,73,13677,3.5,11,KidneySafe Ins.
+594,46,23.3,No,Heart Disease,"Dizziness, Fatigue",High,X-ray,Lifestyle Changes,Accident Cover,198225,79,18722,2.2,19,MediCover
+595,61,25.8,Yes,Alzheimer’s,"Difficulty Speaking, Confusion",High,MRI,Medication,Accident Cover,36627,61,13010,4.9,14,KidneySafe Ins.
+596,42,28.2,Yes,Heart Disease,"Dizziness, Breathlessness",Low,ECG,Lifestyle Changes,Accident Cover,63856,66,11177,2.1,18,ABC Health
+597,46,22.7,Yes,Alzheimer’s,"Mood Changes, Memory Loss",Medium,ECG,Medication,Accident Cover,64458,88,15221,3.4,11,MediCover
+598,73,25.6,No,Cancer,"Fatigue, Lumps",High,Blood Test,Surgery,Cardiac Plan,103417,59,1974,3.9,19,HeartCare Inc.
+599,31,33.7,No,Diabetes,"Frequent Urination, Fatigue",Medium,CT Scan,Medication,Cardiac Plan,80285,81,13487,5.0,15,LifeShield
+600,64,34.2,Yes,Heart Disease,"Chest Pain, Breathlessness",High,Ultrasound,Medication,Accident Cover,132845,57,16601,2.3,18,MediCover
+601,65,24.8,Yes,Diabetes,"Increased Thirst, Frequent Urination",Low,MRI,Medication,Critical Illness,20000,91,16235,3.2,24,KidneySafe Ins.
+602,72,20.1,No,Cancer,"Fatigue, Bleeding",High,MRI,Surgery,Senior Citizen,129111,65,2932,3.6,27,KidneySafe Ins.
+603,34,33.8,Yes,Arthritis,"Joint Pain, Stiffness",Low,CT Scan,Medication,Accident Cover,169485,63,12851,2.3,23,MediCover
+604,62,25.6,Yes,Alzheimer’s,"Mood Changes, Difficulty Speaking",High,CT Scan,Medication,Cardiac Plan,179636,55,15129,3.5,22,XYZ Insurance
+605,37,26.9,No,Alzheimer’s,"Difficulty Speaking, Confusion",Low,Biopsy,Cognitive Therapy,Accident Cover,131760,66,13844,4.7,15,ABC Health
+606,36,28.2,No,Asthma,"Coughing, Wheezing",Low,MRI,Medication,Health Insurance,152366,66,3344,4.6,15,MediCover
+607,53,23.5,Yes,Diabetes,"Increased Thirst, Frequent Urination",Low,MRI,Insulin Therapy,Accident Cover,80686,66,2645,3.4,23,MediCover
+608,50,25.8,No,Asthma,"Coughing, Shortness of Breath",Medium,CT Scan,Medication,Critical Illness,191984,64,5633,3.1,12,XYZ Insurance
+609,47,32.7,No,Diabetes,"Frequent Urination, Blurred Vision",Medium,Biopsy,Medication,Critical Illness,42207,90,17510,2.8,15,XYZ Insurance
+610,46,28.7,Yes,Alzheimer’s,"Mood Changes, Confusion",Medium,CT Scan,Cognitive Therapy,Senior Citizen,131964,70,6148,3.2,28,ABC Health
+611,80,19.1,Yes,Arthritis,"Fatigue, Stiffness",Low,Biopsy,Medication,Health Insurance,157834,83,14057,4.5,27,KidneySafe Ins.
+612,47,20.3,Yes,Liver Disease,"Yellow Skin, Itchy Skin",Low,Ultrasound,Liver Transplant,Senior Citizen,83391,57,12923,4.0,19,ABC Health
+613,45,26.3,No,Diabetes,"Increased Thirst, Blurred Vision",Medium,ECG,Insulin Therapy,Health Insurance,27009,65,14783,3.9,8,XYZ Insurance
+614,57,23.7,No,Arthritis,"Joint Pain, Fatigue",Low,Ultrasound,Medication,Cardiac Plan,30375,61,11465,4.0,7,HeartCare Inc.
+615,49,30.1,No,Asthma,"Shortness of Breath, Coughing",Low,Blood Test,Inhalers,Health Insurance,112474,58,3442,3.5,9,XYZ Insurance
+616,54,18.7,Yes,Diabetes,"Increased Thirst, Frequent Urination",High,ECG,Medication,Health Insurance,154067,90,17710,2.3,20,LifeShield
+617,41,18.7,No,Cancer,"Fatigue, Pain",High,Ultrasound,Radiation Therapy,Critical Illness,106191,56,17774,4.8,29,HeartCare Inc.
+618,50,23.7,No,Liver Disease,"Yellow Skin, Itchy Skin",High,X-ray,Dietary Changes,Senior Citizen,78877,82,13819,3.1,11,LifeShield
+619,30,35.0,Yes,Kidney Disease,"Nausea, Shortness of Breath",Medium,Biopsy,Transplant,Accident Cover,144684,91,5211,2.5,11,LifeShield
+620,68,19.6,No,Asthma,"Shortness of Breath, Coughing",Low,CT Scan,Lifestyle Changes,Senior Citizen,174573,61,19497,2.9,11,ABC Health
+621,37,31.8,No,Asthma,"Shortness of Breath, Coughing",High,ECG,Inhalers,Health Insurance,108506,68,2001,3.4,17,KidneySafe Ins.
+622,44,22.9,No,Alzheimer’s,"Difficulty Speaking, Confusion",High,Blood Test,Medication,Critical Illness,83812,51,18843,4.3,9,MediCover
+623,52,18.5,Yes,Diabetes,"Fatigue, Frequent Urination",Medium,CT Scan,Insulin Therapy,Health Insurance,69994,61,10200,4.7,18,LifeShield
+624,40,30.3,No,Cancer,"Weight Loss, Fatigue",High,X-ray,Radiation Therapy,Health Insurance,198828,66,10843,4.3,7,ABC Health
+625,61,25.8,No,Alzheimer’s,"Mood Changes, Confusion",Low,Biopsy,Cognitive Therapy,Cardiac Plan,173317,80,9412,3.4,22,XYZ Insurance
+626,24,31.9,Yes,Cancer,"Lumps, Pain",High,Blood Test,Chemotherapy,Accident Cover,125964,83,17155,4.9,7,KidneySafe Ins.
+627,50,18.0,Yes,Alzheimer’s,"Confusion, Memory Loss",Medium,MRI,Medication,Health Insurance,181382,72,5854,4.2,11,XYZ Insurance
+628,59,20.3,No,Alzheimer’s,"Mood Changes, Confusion",Low,ECG,Cognitive Therapy,Cardiac Plan,195643,83,8154,4.9,12,MediCover
+629,71,25.6,No,Arthritis,"Fatigue, Swelling",Medium,Ultrasound,Physical Therapy,Critical Illness,156173,92,11453,3.2,30,MediCover
+630,24,21.8,No,Arthritis,"Joint Pain, Stiffness",High,ECG,Medication,Critical Illness,60178,80,17946,3.6,14,MediCover
+631,24,29.3,Yes,Asthma,"Wheezing, Shortness of Breath",Low,Ultrasound,Medication,Cardiac Plan,99073,66,9393,4.0,16,KidneySafe Ins.
+632,34,20.9,Yes,Diabetes,"Fatigue, Blurred Vision",Low,Biopsy,Insulin Therapy,Health Insurance,105547,72,18830,2.1,9,HeartCare Inc.
+633,28,18.3,No,Alzheimer’s,"Difficulty Speaking, Mood Changes",High,X-ray,Cognitive Therapy,Accident Cover,24388,53,12664,4.3,13,XYZ Insurance
+634,77,19.3,No,Liver Disease,"Dark Urine, Abdominal Pain",High,ECG,Dietary Changes,Senior Citizen,62138,50,12120,2.5,16,KidneySafe Ins.
+635,23,21.7,Yes,Heart Disease,"Dizziness, Breathlessness",High,Ultrasound,Surgery,Critical Illness,92329,81,14322,4.9,29,MediCover
+636,37,31.8,No,Kidney Disease,"Swelling, Shortness of Breath",High,Ultrasound,Transplant,Senior Citizen,152313,74,7213,4.0,25,MediCover
+637,21,20.9,Yes,Cancer,"Lumps, Weight Loss",High,Ultrasound,Surgery,Health Insurance,125393,56,7506,2.8,7,ABC Health
+638,36,21.7,No,Kidney Disease,"Nausea, Shortness of Breath",Low,X-ray,Transplant,Critical Illness,61612,56,18023,2.5,18,KidneySafe Ins.
+639,80,21.1,No,Asthma,"Coughing, Shortness of Breath",High,ECG,Inhalers,Cardiac Plan,89400,56,5602,2.1,24,KidneySafe Ins.
+640,75,20.5,No,Diabetes,"Blurred Vision, Frequent Urination",Low,CT Scan,Insulin Therapy,Health Insurance,187143,63,15519,3.7,26,ABC Health
+641,44,25.1,Yes,Liver Disease,"Yellow Skin, Dark Urine",Low,Ultrasound,Liver Transplant,Health Insurance,69898,69,12640,3.5,14,KidneySafe Ins.
+642,61,27.5,Yes,Liver Disease,"Abdominal Pain, Yellow Skin",Medium,Ultrasound,Liver Transplant,Health Insurance,96083,67,10128,4.5,26,HeartCare Inc.
+643,31,31.5,Yes,Diabetes,"Frequent Urination, Fatigue",Low,Ultrasound,Medication,Health Insurance,184695,82,1614,4.5,27,HeartCare Inc.
+644,71,18.5,Yes,Diabetes,"Frequent Urination, Fatigue",High,Biopsy,Insulin Therapy,Accident Cover,35141,64,9808,4.4,10,MediCover
+645,42,23.9,No,Kidney Disease,"Shortness of Breath, Fatigue",High,Ultrasound,Medication,Health Insurance,181439,89,17642,4.3,8,ABC Health
+646,64,33.0,Yes,Kidney Disease,"Fatigue, Nausea",Low,X-ray,Medication,Senior Citizen,146974,70,1412,2.8,17,LifeShield
+647,67,27.7,No,Heart Disease,"Breathlessness, Fatigue",High,Ultrasound,Surgery,Critical Illness,164985,80,17364,2.9,18,XYZ Insurance
+648,53,29.3,No,Asthma,"Shortness of Breath, Wheezing",Medium,Ultrasound,Lifestyle Changes,Senior Citizen,50297,95,18571,4.9,20,ABC Health
+649,75,26.4,No,Arthritis,"Joint Pain, Stiffness",High,MRI,Surgery,Critical Illness,191152,52,6472,4.5,6,MediCover
+650,38,25.0,Yes,Alzheimer’s,"Confusion, Difficulty Speaking",Medium,MRI,Cognitive Therapy,Accident Cover,69325,75,19364,4.0,7,LifeShield
+651,23,24.1,Yes,Diabetes,"Increased Thirst, Frequent Urination",Low,CT Scan,Insulin Therapy,Senior Citizen,190416,52,1916,3.0,20,HeartCare Inc.
+652,30,32.9,Yes,Heart Disease,"Chest Pain, Dizziness",Medium,CT Scan,Lifestyle Changes,Senior Citizen,126544,94,1919,3.9,15,LifeShield
+653,22,26.5,No,Heart Disease,"Breathlessness, Dizziness",Low,Blood Test,Surgery,Accident Cover,25849,83,19740,2.1,19,LifeShield
+654,56,25.4,Yes,Alzheimer’s,"Confusion, Mood Changes",Low,CT Scan,Cognitive Therapy,Health Insurance,189156,95,12269,4.3,18,KidneySafe Ins.
+655,37,21.5,Yes,Liver Disease,"Abdominal Pain, Yellow Skin",Low,MRI,Dietary Changes,Senior Citizen,47080,72,5362,4.7,30,HeartCare Inc.
+656,80,18.6,Yes,Arthritis,"Fatigue, Swelling",Medium,Ultrasound,Physical Therapy,Accident Cover,170332,66,16222,3.4,20,MediCover
+657,45,22.3,Yes,Liver Disease,"Abdominal Pain, Yellow Skin",Medium,ECG,Dietary Changes,Health Insurance,170148,59,3113,4.9,22,KidneySafe Ins.
+658,42,23.9,No,Cancer,"Bleeding, Fatigue",High,Blood Test,Surgery,Health Insurance,125584,75,8995,3.8,22,MediCover
+659,38,34.9,No,Liver Disease,"Dark Urine, Itchy Skin",Low,Blood Test,Dietary Changes,Critical Illness,109868,54,17587,3.3,20,MediCover
+660,78,27.5,No,Arthritis,"Stiffness, Fatigue",High,ECG,Surgery,Senior Citizen,95701,58,9811,3.0,30,ABC Health
+661,24,29.8,Yes,Asthma,"Chest Tightness, Wheezing",Low,Ultrasound,Lifestyle Changes,Health Insurance,162765,91,13450,4.3,12,HeartCare Inc.
+662,63,30.8,Yes,Asthma,"Chest Tightness, Wheezing",Low,Blood Test,Medication,Accident Cover,145707,54,7109,4.4,8,HeartCare Inc.
+663,74,26.8,Yes,Asthma,"Coughing, Shortness of Breath",High,ECG,Lifestyle Changes,Cardiac Plan,159448,78,6815,2.1,24,LifeShield
+664,66,23.0,No,Arthritis,"Joint Pain, Swelling",Low,ECG,Medication,Accident Cover,49871,54,5622,2.4,5,HeartCare Inc.
+665,61,23.1,Yes,Asthma,"Chest Tightness, Coughing",Low,MRI,Inhalers,Accident Cover,65364,57,19113,2.4,27,KidneySafe Ins.
+666,21,31.6,No,Arthritis,"Stiffness, Joint Pain",High,Blood Test,Medication,Critical Illness,175133,76,7441,2.9,12,ABC Health
+667,52,29.6,No,Heart Disease,"Dizziness, Breathlessness",High,Biopsy,Medication,Critical Illness,48521,64,12181,3.5,15,ABC Health
+668,49,24.5,Yes,Heart Disease,"Dizziness, Fatigue",Low,ECG,Lifestyle Changes,Senior Citizen,58148,92,3897,3.1,17,ABC Health
+669,72,23.4,Yes,Alzheimer’s,"Mood Changes, Memory Loss",Low,Biopsy,Medication,Health Insurance,153541,90,5344,4.2,8,MediCover
+670,62,22.4,No,Asthma,"Chest Tightness, Wheezing",High,Biopsy,Medication,Senior Citizen,184664,86,7918,4.9,21,KidneySafe Ins.
+671,68,30.1,No,Heart Disease,"Breathlessness, Fatigue",Medium,Biopsy,Medication,Cardiac Plan,86643,58,1715,2.8,7,LifeShield
+672,63,32.9,No,Arthritis,"Fatigue, Joint Pain",Low,Biopsy,Medication,Accident Cover,152428,58,2287,5.0,14,KidneySafe Ins.
+673,56,20.5,Yes,Liver Disease,"Abdominal Pain, Dark Urine",Low,Biopsy,Medication,Accident Cover,89727,86,12980,3.0,22,XYZ Insurance
+674,49,23.4,Yes,Kidney Disease,"Shortness of Breath, Nausea",Medium,Biopsy,Transplant,Health Insurance,147500,79,10873,2.8,14,XYZ Insurance
+675,35,30.2,No,Arthritis,"Swelling, Joint Pain",Low,Blood Test,Medication,Accident Cover,161754,85,15564,4.7,29,LifeShield
+676,46,32.5,Yes,Alzheimer’s,"Difficulty Speaking, Confusion",High,Biopsy,Cognitive Therapy,Cardiac Plan,65218,83,17120,3.6,6,HeartCare Inc.
+677,38,27.6,No,Arthritis,"Stiffness, Joint Pain",High,ECG,Surgery,Health Insurance,106929,68,3260,4.0,23,HeartCare Inc.
+678,66,30.2,No,Asthma,"Shortness of Breath, Coughing",Medium,Blood Test,Inhalers,Health Insurance,34007,51,6564,4.4,20,XYZ Insurance
+679,74,18.8,No,Cancer,"Weight Loss, Fatigue",Medium,Ultrasound,Chemotherapy,Senior Citizen,190613,88,5959,4.4,18,KidneySafe Ins.
+680,39,19.6,Yes,Heart Disease,"Dizziness, Fatigue",High,ECG,Surgery,Senior Citizen,66506,95,15716,4.3,30,KidneySafe Ins.
+681,45,19.2,No,Asthma,"Coughing, Shortness of Breath",Medium,CT Scan,Lifestyle Changes,Critical Illness,166524,75,8646,2.0,8,ABC Health
+682,35,27.3,Yes,Asthma,"Wheezing, Chest Tightness",Medium,Ultrasound,Medication,Cardiac Plan,179802,75,5496,2.0,28,LifeShield
+683,58,31.5,Yes,Diabetes,"Increased Thirst, Fatigue",Low,CT Scan,Medication,Health Insurance,119757,63,5443,2.2,28,LifeShield
+684,29,18.3,No,Cancer,"Pain, Bleeding",High,Ultrasound,Radiation Therapy,Health Insurance,140998,78,6581,3.9,10,ABC Health
+685,38,24.7,No,Arthritis,"Stiffness, Swelling",Low,ECG,Medication,Senior Citizen,88198,53,3670,3.4,11,XYZ Insurance
+686,41,32.5,Yes,Alzheimer’s,"Confusion, Mood Changes",High,MRI,Medication,Health Insurance,163423,80,15024,3.4,26,ABC Health
+687,41,33.5,Yes,Arthritis,"Fatigue, Stiffness",Low,CT Scan,Medication,Critical Illness,187691,57,10457,2.5,20,HeartCare Inc.
+688,49,34.0,No,Cancer,"Lumps, Pain",Low,X-ray,Surgery,Senior Citizen,73585,94,11473,4.3,26,LifeShield
+689,25,31.6,No,Alzheimer’s,"Mood Changes, Confusion",Low,X-ray,Medication,Senior Citizen,199816,58,12653,4.7,27,ABC Health
+690,34,22.6,Yes,Alzheimer’s,"Confusion, Difficulty Speaking",Low,Ultrasound,Medication,Senior Citizen,93369,53,15780,3.5,13,XYZ Insurance
+691,49,25.2,Yes,Heart Disease,"Dizziness, Fatigue",Medium,Blood Test,Surgery,Health Insurance,67888,95,5713,4.1,30,HeartCare Inc.
+692,18,25.2,No,Kidney Disease,"Shortness of Breath, Fatigue",Medium,Biopsy,Transplant,Critical Illness,119672,58,12049,3.9,30,MediCover
+693,70,25.5,Yes,Kidney Disease,"Swelling, Nausea",Low,Biopsy,Transplant,Cardiac Plan,146661,70,7860,4.7,19,HeartCare Inc.
+694,47,34.2,No,Heart Disease,"Dizziness, Fatigue",Low,X-ray,Lifestyle Changes,Critical Illness,182914,61,17124,2.4,24,MediCover
+695,28,18.3,No,Heart Disease,"Dizziness, Chest Pain",Medium,Biopsy,Surgery,Cardiac Plan,107724,72,17582,3.0,21,MediCover
+696,58,26.9,No,Arthritis,"Fatigue, Stiffness",Low,Biopsy,Physical Therapy,Health Insurance,35558,67,14270,4.1,7,LifeShield
+697,30,29.8,Yes,Heart Disease,"Dizziness, Chest Pain",High,MRI,Medication,Health Insurance,194593,60,8143,3.8,16,ABC Health
+698,35,27.0,Yes,Kidney Disease,"Nausea, Swelling",High,CT Scan,Transplant,Health Insurance,86621,52,4990,2.2,21,KidneySafe Ins.
+699,23,32.3,Yes,Liver Disease,"Itchy Skin, Abdominal Pain",High,Blood Test,Liver Transplant,Senior Citizen,55563,51,3243,4.2,28,KidneySafe Ins.
+700,62,23.4,Yes,Alzheimer’s,"Memory Loss, Confusion",Low,Ultrasound,Medication,Accident Cover,89983,64,11283,4.8,18,KidneySafe Ins.
+701,32,25.3,No,Liver Disease,"Abdominal Pain, Yellow Skin",Medium,X-ray,Medication,Cardiac Plan,156586,92,11793,3.6,18,MediCover
+702,19,18.9,Yes,Cancer,"Pain, Weight Loss",High,X-ray,Surgery,Senior Citizen,93352,87,17237,3.4,11,HeartCare Inc.
+703,25,34.3,No,Cancer,"Lumps, Weight Loss",Low,Blood Test,Chemotherapy,Cardiac Plan,104354,91,10153,3.6,15,HeartCare Inc.
+704,70,30.4,No,Arthritis,"Fatigue, Stiffness",Low,Blood Test,Surgery,Cardiac Plan,74660,93,14384,2.3,9,LifeShield
+705,38,28.6,Yes,Asthma,"Wheezing, Coughing",Medium,Biopsy,Lifestyle Changes,Cardiac Plan,124898,67,10244,3.8,17,LifeShield
+706,56,24.2,No,Arthritis,"Swelling, Fatigue",Low,Biopsy,Physical Therapy,Senior Citizen,133152,54,10294,3.8,29,KidneySafe Ins.
+707,19,28.6,No,Liver Disease,"Dark Urine, Yellow Skin",Low,ECG,Dietary Changes,Critical Illness,142640,51,6045,4.5,16,KidneySafe Ins.
+708,58,32.2,Yes,Arthritis,"Fatigue, Joint Pain",Low,Ultrasound,Medication,Cardiac Plan,96577,91,16451,4.2,8,KidneySafe Ins.
+709,76,30.0,Yes,Diabetes,"Blurred Vision, Increased Thirst",Medium,CT Scan,Insulin Therapy,Senior Citizen,121124,69,17856,2.0,10,LifeShield
+710,47,30.1,Yes,Asthma,"Shortness of Breath, Coughing",Low,Biopsy,Lifestyle Changes,Cardiac Plan,130646,63,5301,3.7,8,ABC Health
+711,43,21.3,Yes,Liver Disease,"Abdominal Pain, Itchy Skin",Medium,Blood Test,Medication,Cardiac Plan,82055,77,7359,2.3,19,LifeShield
+712,29,32.9,Yes,Diabetes,"Frequent Urination, Blurred Vision",Low,X-ray,Lifestyle Changes,Senior Citizen,44732,95,10517,3.4,27,ABC Health
+713,58,25.1,Yes,Liver Disease,"Yellow Skin, Abdominal Pain",Low,MRI,Dietary Changes,Senior Citizen,169276,80,19834,3.5,5,MediCover
+714,56,26.3,Yes,Heart Disease,"Fatigue, Chest Pain",High,X-ray,Lifestyle Changes,Accident Cover,63999,93,9133,2.9,28,MediCover
+715,25,21.7,No,Diabetes,"Frequent Urination, Fatigue",Medium,Ultrasound,Insulin Therapy,Accident Cover,85959,52,17022,4.3,20,ABC Health
+716,25,33.8,Yes,Diabetes,"Increased Thirst, Frequent Urination",Medium,Ultrasound,Insulin Therapy,Cardiac Plan,87536,60,2654,2.4,6,MediCover
+717,36,28.3,No,Alzheimer’s,"Confusion, Difficulty Speaking",Medium,Biopsy,Cognitive Therapy,Critical Illness,188213,64,19994,4.0,28,ABC Health
+718,44,22.7,No,Arthritis,"Fatigue, Joint Pain",High,Ultrasound,Physical Therapy,Health Insurance,47563,85,16778,3.3,17,XYZ Insurance
+719,23,24.0,No,Alzheimer’s,"Mood Changes, Confusion",Low,Biopsy,Cognitive Therapy,Accident Cover,96274,76,5820,2.2,19,LifeShield
+720,61,32.9,Yes,Alzheimer’s,"Mood Changes, Confusion",Low,CT Scan,Medication,Critical Illness,136484,78,18286,3.0,28,KidneySafe Ins.
+721,28,19.6,Yes,Kidney Disease,"Fatigue, Nausea",High,MRI,Transplant,Cardiac Plan,144009,84,3644,3.4,15,XYZ Insurance
+722,74,18.0,No,Kidney Disease,"Nausea, Fatigue",Medium,MRI,Dialysis,Cardiac Plan,103712,58,4400,3.5,8,KidneySafe Ins.
+723,58,31.0,Yes,Diabetes,"Increased Thirst, Blurred Vision",Low,Ultrasound,Lifestyle Changes,Accident Cover,129257,51,18338,3.5,9,ABC Health
+724,42,32.8,Yes,Alzheimer’s,"Difficulty Speaking, Mood Changes",Low,X-ray,Cognitive Therapy,Critical Illness,41702,72,4921,3.4,13,ABC Health
+725,22,29.0,Yes,Heart Disease,"Fatigue, Chest Pain",Low,Blood Test,Medication,Critical Illness,156069,87,19887,2.1,12,XYZ Insurance
+726,64,30.8,Yes,Cancer,"Fatigue, Bleeding",Low,ECG,Chemotherapy,Senior Citizen,157619,88,19609,2.2,14,LifeShield
+727,20,31.9,No,Diabetes,"Frequent Urination, Fatigue",Medium,ECG,Lifestyle Changes,Critical Illness,20524,92,3572,4.2,18,MediCover
+728,49,23.8,Yes,Heart Disease,"Chest Pain, Fatigue",Low,CT Scan,Surgery,Health Insurance,60106,76,16576,4.6,10,HeartCare Inc.
+729,19,34.2,Yes,Cancer,"Fatigue, Pain",High,ECG,Chemotherapy,Senior Citizen,197104,80,19607,3.0,14,KidneySafe Ins.
+730,50,29.8,No,Liver Disease,"Abdominal Pain, Itchy Skin",Low,Ultrasound,Medication,Senior Citizen,197123,83,19012,2.5,6,KidneySafe Ins.
+731,18,21.3,No,Cancer,"Lumps, Pain",Low,MRI,Chemotherapy,Accident Cover,113630,75,17763,3.6,21,XYZ Insurance
+732,69,20.4,Yes,Kidney Disease,"Fatigue, Nausea",High,ECG,Transplant,Accident Cover,54644,95,18439,3.1,18,MediCover
+733,42,26.6,No,Kidney Disease,"Shortness of Breath, Fatigue",Medium,ECG,Transplant,Critical Illness,174207,89,18641,4.8,22,MediCover
+734,33,22.0,Yes,Cancer,"Pain, Weight Loss",High,Ultrasound,Chemotherapy,Senior Citizen,29201,62,15247,3.2,30,KidneySafe Ins.
+735,44,19.7,No,Asthma,"Shortness of Breath, Coughing",Medium,CT Scan,Medication,Health Insurance,61949,84,16352,3.4,5,XYZ Insurance
+736,49,31.0,No,Kidney Disease,"Shortness of Breath, Swelling",High,X-ray,Medication,Senior Citizen,156423,81,11994,3.6,22,ABC Health
+737,70,30.0,No,Heart Disease,"Fatigue, Chest Pain",High,X-ray,Surgery,Cardiac Plan,120221,74,5969,2.0,27,HeartCare Inc.
+738,62,18.0,No,Kidney Disease,"Shortness of Breath, Fatigue",High,X-ray,Dialysis,Health Insurance,182074,88,6999,4.3,30,KidneySafe Ins.
+739,30,18.6,Yes,Alzheimer’s,"Mood Changes, Memory Loss",Medium,Biopsy,Cognitive Therapy,Accident Cover,62116,69,6864,2.6,19,XYZ Insurance
+740,21,32.2,Yes,Arthritis,"Stiffness, Swelling",Low,CT Scan,Physical Therapy,Health Insurance,144277,73,19459,3.0,10,KidneySafe Ins.
+741,37,30.1,Yes,Alzheimer’s,"Mood Changes, Confusion",Low,Blood Test,Medication,Critical Illness,160281,90,12670,4.1,5,XYZ Insurance
+742,60,23.1,No,Liver Disease,"Abdominal Pain, Yellow Skin",Medium,ECG,Liver Transplant,Accident Cover,57054,51,17276,2.2,9,LifeShield
+743,75,19.5,No,Asthma,"Wheezing, Chest Tightness",Medium,Ultrasound,Medication,Senior Citizen,52640,57,6923,2.3,17,KidneySafe Ins.
+744,69,24.7,Yes,Kidney Disease,"Shortness of Breath, Swelling",High,Biopsy,Dialysis,Cardiac Plan,151756,74,18695,3.5,12,XYZ Insurance
+745,41,34.7,Yes,Diabetes,"Increased Thirst, Fatigue",High,Blood Test,Lifestyle Changes,Health Insurance,41971,58,2001,4.8,17,XYZ Insurance
+746,45,19.5,No,Arthritis,"Stiffness, Fatigue",Medium,MRI,Physical Therapy,Cardiac Plan,123182,65,2973,2.4,6,ABC Health
+747,64,21.6,No,Cancer,"Weight Loss, Bleeding",Low,X-ray,Surgery,Critical Illness,185673,60,3335,4.6,8,HeartCare Inc.
+748,78,32.6,No,Heart Disease,"Fatigue, Dizziness",High,Blood Test,Surgery,Accident Cover,100738,64,17644,2.3,11,HeartCare Inc.
+749,49,30.0,No,Alzheimer’s,"Mood Changes, Difficulty Speaking",Medium,MRI,Cognitive Therapy,Accident Cover,82009,83,10754,3.0,13,XYZ Insurance
+750,60,18.6,Yes,Cancer,"Bleeding, Fatigue",High,Blood Test,Radiation Therapy,Health Insurance,160859,58,12638,3.5,6,HeartCare Inc.
+751,41,34.7,Yes,Arthritis,"Stiffness, Joint Pain",Medium,Blood Test,Surgery,Accident Cover,142427,78,6536,2.4,30,MediCover
+752,40,20.4,No,Kidney Disease,"Fatigue, Shortness of Breath",High,X-ray,Transplant,Health Insurance,54592,60,18720,3.7,30,KidneySafe Ins.
+753,21,19.1,No,Alzheimer’s,"Confusion, Difficulty Speaking",High,CT Scan,Cognitive Therapy,Health Insurance,66238,76,2079,3.4,9,LifeShield
+754,48,21.8,No,Asthma,"Wheezing, Chest Tightness",Medium,Blood Test,Inhalers,Accident Cover,58817,77,5670,3.9,8,XYZ Insurance
+755,22,28.9,No,Diabetes,"Frequent Urination, Fatigue",High,CT Scan,Medication,Senior Citizen,103497,90,19159,2.8,5,LifeShield
+756,41,34.2,Yes,Liver Disease,"Abdominal Pain, Dark Urine",Medium,Biopsy,Medication,Health Insurance,191100,71,12259,3.3,18,ABC Health
+757,47,34.6,No,Alzheimer’s,"Confusion, Mood Changes",Medium,ECG,Cognitive Therapy,Accident Cover,51626,70,16723,5.0,9,XYZ Insurance
+758,19,24.1,Yes,Kidney Disease,"Shortness of Breath, Nausea",Low,X-ray,Dialysis,Critical Illness,86499,56,8133,3.7,20,MediCover
+759,55,22.6,No,Kidney Disease,"Nausea, Shortness of Breath",Low,MRI,Transplant,Accident Cover,149772,52,5436,2.3,12,KidneySafe Ins.
+760,24,21.1,No,Liver Disease,"Abdominal Pain, Yellow Skin",Low,Ultrasound,Medication,Health Insurance,141554,74,9533,4.9,21,KidneySafe Ins.
+761,30,27.5,Yes,Arthritis,"Joint Pain, Fatigue",Medium,Biopsy,Physical Therapy,Critical Illness,149466,65,13219,3.4,10,ABC Health
+762,24,22.4,No,Arthritis,"Stiffness, Joint Pain",High,Blood Test,Physical Therapy,Critical Illness,24025,62,4111,2.7,27,HeartCare Inc.
+763,65,29.2,Yes,Liver Disease,"Itchy Skin, Dark Urine",High,CT Scan,Medication,Senior Citizen,120880,82,15419,4.0,24,MediCover
+764,76,21.0,Yes,Diabetes,"Fatigue, Blurred Vision",High,Biopsy,Insulin Therapy,Cardiac Plan,53834,55,14709,3.8,30,MediCover
+765,38,26.4,Yes,Asthma,"Shortness of Breath, Chest Tightness",High,Biopsy,Lifestyle Changes,Critical Illness,34136,84,4402,3.6,11,KidneySafe Ins.
+766,24,25.4,Yes,Cancer,"Weight Loss, Bleeding",Low,X-ray,Chemotherapy,Accident Cover,38108,55,8534,2.4,14,XYZ Insurance
+767,19,31.1,No,Heart Disease,"Chest Pain, Breathlessness",Low,MRI,Surgery,Cardiac Plan,69909,82,8365,3.2,29,LifeShield
+768,59,27.5,Yes,Asthma,"Wheezing, Coughing",Low,Biopsy,Lifestyle Changes,Health Insurance,140513,89,14455,4.2,8,HeartCare Inc.
+769,69,18.9,Yes,Kidney Disease,"Nausea, Shortness of Breath",Medium,Ultrasound,Transplant,Accident Cover,121895,50,18021,2.5,6,XYZ Insurance
+770,49,34.6,No,Cancer,"Pain, Fatigue",Medium,Ultrasound,Surgery,Critical Illness,51839,89,18819,4.6,24,LifeShield
+771,51,23.7,Yes,Heart Disease,"Fatigue, Chest Pain",Low,CT Scan,Lifestyle Changes,Senior Citizen,70298,75,1936,2.4,21,HeartCare Inc.
+772,56,28.0,Yes,Arthritis,"Swelling, Stiffness",High,Ultrasound,Physical Therapy,Cardiac Plan,103249,80,14260,4.9,7,XYZ Insurance
+773,58,32.7,No,Alzheimer’s,"Memory Loss, Confusion",High,CT Scan,Cognitive Therapy,Accident Cover,166286,87,17791,3.4,6,KidneySafe Ins.
+774,76,33.4,No,Liver Disease,"Itchy Skin, Abdominal Pain",High,Biopsy,Medication,Cardiac Plan,109207,77,11164,4.3,10,MediCover
+775,29,24.8,Yes,Diabetes,"Increased Thirst, Fatigue",Medium,X-ray,Insulin Therapy,Senior Citizen,35996,65,18690,2.1,14,LifeShield
+776,33,27.4,Yes,Kidney Disease,"Nausea, Swelling",High,MRI,Transplant,Health Insurance,43905,93,8869,3.8,14,KidneySafe Ins.
+777,77,32.9,No,Diabetes,"Blurred Vision, Frequent Urination",Low,ECG,Lifestyle Changes,Health Insurance,21354,56,7153,3.1,11,LifeShield
+778,64,33.6,No,Cancer,"Fatigue, Weight Loss",High,ECG,Surgery,Critical Illness,115596,50,1624,3.5,16,LifeShield
+779,70,33.8,No,Asthma,"Chest Tightness, Wheezing",Medium,Biopsy,Inhalers,Accident Cover,190484,67,6944,2.0,15,XYZ Insurance
+780,36,24.3,No,Cancer,"Weight Loss, Lumps",Medium,CT Scan,Chemotherapy,Critical Illness,184764,60,7730,4.0,11,LifeShield
+781,68,31.8,No,Kidney Disease,"Fatigue, Nausea",Medium,CT Scan,Medication,Critical Illness,90637,74,18501,3.5,8,LifeShield
+782,42,19.8,Yes,Liver Disease,"Dark Urine, Itchy Skin",High,ECG,Liver Transplant,Health Insurance,155722,92,7169,4.8,9,XYZ Insurance
+783,79,19.3,No,Diabetes,"Increased Thirst, Frequent Urination",High,CT Scan,Medication,Accident Cover,184297,59,6192,2.1,9,HeartCare Inc.
+784,44,34.3,Yes,Kidney Disease,"Swelling, Fatigue",Medium,Ultrasound,Medication,Critical Illness,92913,55,19285,3.2,24,KidneySafe Ins.
+785,58,27.6,No,Alzheimer’s,"Mood Changes, Difficulty Speaking",Low,Blood Test,Cognitive Therapy,Accident Cover,91696,57,16067,3.0,20,HeartCare Inc.
+786,40,21.5,Yes,Diabetes,"Frequent Urination, Fatigue",Medium,X-ray,Lifestyle Changes,Cardiac Plan,125642,73,9221,3.1,23,MediCover
+787,47,19.7,No,Arthritis,"Stiffness, Swelling",Medium,MRI,Physical Therapy,Health Insurance,196281,82,17223,3.0,30,ABC Health
+788,38,34.7,No,Diabetes,"Fatigue, Increased Thirst",High,MRI,Medication,Cardiac Plan,37019,70,7277,4.3,25,XYZ Insurance
+789,27,28.2,Yes,Heart Disease,"Chest Pain, Breathlessness",Low,X-ray,Surgery,Critical Illness,103513,67,3389,2.9,27,ABC Health
+790,45,24.4,No,Asthma,"Shortness of Breath, Coughing",Medium,MRI,Lifestyle Changes,Critical Illness,77663,56,1018,5.0,27,LifeShield
+791,68,18.1,No,Alzheimer’s,"Memory Loss, Mood Changes",Medium,CT Scan,Medication,Health Insurance,154592,54,7941,3.6,25,KidneySafe Ins.
+792,72,31.1,No,Alzheimer’s,"Difficulty Speaking, Memory Loss",Medium,Biopsy,Cognitive Therapy,Cardiac Plan,176257,62,8961,3.7,5,XYZ Insurance
+793,36,24.1,Yes,Liver Disease,"Dark Urine, Itchy Skin",Medium,CT Scan,Medication,Health Insurance,189877,64,18631,3.8,13,KidneySafe Ins.
+794,29,25.2,Yes,Diabetes,"Frequent Urination, Blurred Vision",Low,Ultrasound,Medication,Accident Cover,176956,92,13220,4.4,24,LifeShield
+795,61,19.0,No,Liver Disease,"Abdominal Pain, Itchy Skin",Low,MRI,Medication,Health Insurance,167888,61,1600,4.9,19,HeartCare Inc.
+796,54,31.5,Yes,Heart Disease,"Breathlessness, Dizziness",Low,Ultrasound,Medication,Critical Illness,186943,73,12807,4.2,11,LifeShield
+797,74,20.1,Yes,Cancer,"Pain, Weight Loss",High,Ultrasound,Surgery,Critical Illness,60977,67,15491,3.1,9,ABC Health
+798,75,21.1,Yes,Cancer,"Bleeding, Weight Loss",Medium,ECG,Radiation Therapy,Critical Illness,38430,50,2228,3.4,11,ABC Health
+799,59,23.1,Yes,Arthritis,"Fatigue, Swelling",Low,Biopsy,Surgery,Senior Citizen,179141,54,14296,2.8,21,XYZ Insurance
+800,42,21.0,No,Asthma,"Wheezing, Coughing",High,Blood Test,Inhalers,Cardiac Plan,118503,63,10311,5.0,12,HeartCare Inc.
+801,72,28.5,No,Arthritis,"Joint Pain, Stiffness",High,MRI,Medication,Cardiac Plan,58126,58,6221,3.5,13,ABC Health
+802,69,25.0,No,Liver Disease,"Dark Urine, Abdominal Pain",High,ECG,Dietary Changes,Cardiac Plan,170520,72,19062,3.9,23,LifeShield
+803,51,18.8,Yes,Diabetes,"Blurred Vision, Fatigue",Low,Blood Test,Lifestyle Changes,Cardiac Plan,191778,62,13989,4.3,10,HeartCare Inc.
+804,54,21.9,No,Arthritis,"Joint Pain, Swelling",Medium,MRI,Surgery,Critical Illness,30346,53,12952,3.6,15,HeartCare Inc.
+805,24,31.2,No,Arthritis,"Stiffness, Fatigue",High,Blood Test,Surgery,Senior Citizen,131882,75,13466,2.4,13,MediCover
+806,27,19.0,Yes,Alzheimer’s,"Difficulty Speaking, Memory Loss",Medium,X-ray,Cognitive Therapy,Senior Citizen,168323,70,7164,3.1,17,HeartCare Inc.
+807,22,32.7,Yes,Heart Disease,"Chest Pain, Breathlessness",High,X-ray,Lifestyle Changes,Health Insurance,140873,89,18528,4.6,20,KidneySafe Ins.
+808,32,23.0,Yes,Asthma,"Coughing, Shortness of Breath",Medium,Ultrasound,Inhalers,Senior Citizen,152830,92,5253,3.1,27,MediCover
+809,41,33.3,No,Alzheimer’s,"Memory Loss, Confusion",Medium,X-ray,Medication,Accident Cover,140039,84,17900,4.2,6,HeartCare Inc.
+810,60,18.3,No,Diabetes,"Increased Thirst, Fatigue",High,CT Scan,Insulin Therapy,Senior Citizen,136203,64,5574,2.2,14,HeartCare Inc.
+811,41,24.5,No,Liver Disease,"Yellow Skin, Itchy Skin",Low,Blood Test,Liver Transplant,Accident Cover,174984,86,6185,4.1,16,XYZ Insurance
+812,65,25.0,No,Diabetes,"Increased Thirst, Blurred Vision",Medium,Ultrasound,Insulin Therapy,Cardiac Plan,129675,62,9017,3.3,26,ABC Health
+813,64,24.5,Yes,Alzheimer’s,"Mood Changes, Difficulty Speaking",High,Ultrasound,Medication,Critical Illness,93428,76,19475,4.0,26,XYZ Insurance
+814,63,34.1,Yes,Liver Disease,"Itchy Skin, Yellow Skin",High,CT Scan,Dietary Changes,Senior Citizen,75748,76,7803,2.7,22,KidneySafe Ins.
+815,40,23.6,Yes,Liver Disease,"Dark Urine, Yellow Skin",High,Ultrasound,Medication,Critical Illness,32528,66,10792,2.4,12,LifeShield
+816,59,21.8,No,Heart Disease,"Breathlessness, Fatigue",Medium,MRI,Surgery,Critical Illness,165566,76,5982,2.2,13,LifeShield
+817,36,27.3,Yes,Liver Disease,"Itchy Skin, Dark Urine",Medium,CT Scan,Liver Transplant,Cardiac Plan,86301,59,11581,4.1,19,HeartCare Inc.
+818,27,33.1,Yes,Diabetes,"Blurred Vision, Frequent Urination",High,Ultrasound,Medication,Critical Illness,136692,57,4892,3.7,17,KidneySafe Ins.
+819,60,24.5,Yes,Arthritis,"Stiffness, Joint Pain",High,ECG,Surgery,Senior Citizen,148187,77,13072,4.7,19,XYZ Insurance
+820,80,26.1,Yes,Kidney Disease,"Swelling, Shortness of Breath",Low,MRI,Transplant,Accident Cover,47962,52,3470,3.3,7,HeartCare Inc.
+821,69,29.3,Yes,Arthritis,"Swelling, Stiffness",High,MRI,Surgery,Senior Citizen,122905,68,18398,4.7,8,KidneySafe Ins.
+822,51,22.3,Yes,Heart Disease,"Chest Pain, Breathlessness",High,Blood Test,Surgery,Critical Illness,184792,52,19739,2.4,8,KidneySafe Ins.
+823,44,20.0,No,Heart Disease,"Chest Pain, Fatigue",High,ECG,Lifestyle Changes,Health Insurance,175227,77,12170,2.2,27,XYZ Insurance
+824,74,20.6,Yes,Arthritis,"Fatigue, Swelling",Low,X-ray,Medication,Critical Illness,59996,58,14491,4.7,8,XYZ Insurance
+825,38,25.8,Yes,Alzheimer’s,"Memory Loss, Difficulty Speaking",High,MRI,Medication,Accident Cover,176587,89,18102,3.7,21,XYZ Insurance
+826,34,28.0,No,Heart Disease,"Fatigue, Chest Pain",High,MRI,Lifestyle Changes,Accident Cover,194366,80,18725,4.2,25,LifeShield
+827,64,20.1,Yes,Arthritis,"Joint Pain, Swelling",Medium,Ultrasound,Surgery,Health Insurance,99414,74,2910,4.8,12,XYZ Insurance
+828,45,21.3,Yes,Arthritis,"Stiffness, Swelling",High,Biopsy,Medication,Critical Illness,125503,78,2364,3.2,21,XYZ Insurance
+829,21,21.2,No,Kidney Disease,"Fatigue, Swelling",Medium,CT Scan,Transplant,Accident Cover,88644,64,17367,3.2,28,HeartCare Inc.
+830,52,28.1,Yes,Arthritis,"Fatigue, Stiffness",Low,Blood Test,Surgery,Cardiac Plan,123382,91,18488,3.7,19,HeartCare Inc.
+831,34,29.0,Yes,Diabetes,"Fatigue, Increased Thirst",Medium,ECG,Medication,Senior Citizen,147360,87,12508,3.4,7,ABC Health
+832,65,22.8,Yes,Kidney Disease,"Shortness of Breath, Swelling",High,Blood Test,Dialysis,Senior Citizen,43818,80,6721,3.8,23,ABC Health
+833,24,19.3,Yes,Cancer,"Fatigue, Pain",Medium,ECG,Chemotherapy,Health Insurance,109488,72,15711,2.2,23,XYZ Insurance
+834,35,22.3,No,Arthritis,"Swelling, Fatigue",Low,CT Scan,Medication,Cardiac Plan,49423,73,1144,3.6,30,XYZ Insurance
+835,76,31.1,Yes,Diabetes,"Increased Thirst, Fatigue",Medium,Ultrasound,Lifestyle Changes,Senior Citizen,178123,74,17913,4.2,9,ABC Health
+836,26,26.7,No,Alzheimer’s,"Memory Loss, Confusion",High,MRI,Medication,Health Insurance,170437,50,12023,4.5,20,HeartCare Inc.
+837,32,33.5,Yes,Liver Disease,"Abdominal Pain, Yellow Skin",Low,CT Scan,Dietary Changes,Health Insurance,177458,94,8815,4.7,30,MediCover
+838,43,23.1,Yes,Alzheimer’s,"Confusion, Difficulty Speaking",Low,X-ray,Medication,Accident Cover,152454,82,13228,3.1,26,LifeShield
+839,33,22.3,No,Cancer,"Lumps, Bleeding",High,MRI,Chemotherapy,Critical Illness,185169,90,8734,3.5,14,XYZ Insurance
+840,75,21.4,No,Cancer,"Pain, Weight Loss",High,X-ray,Radiation Therapy,Accident Cover,100083,88,19229,2.5,27,XYZ Insurance
+841,69,26.2,Yes,Asthma,"Chest Tightness, Wheezing",High,Blood Test,Inhalers,Cardiac Plan,102902,95,18165,4.3,13,KidneySafe Ins.
+842,42,18.9,Yes,Cancer,"Pain, Lumps",Low,X-ray,Surgery,Cardiac Plan,65075,86,9523,2.8,16,HeartCare Inc.
+843,46,29.3,No,Arthritis,"Swelling, Stiffness",Medium,X-ray,Medication,Critical Illness,85699,77,3163,4.7,23,HeartCare Inc.
+844,30,20.3,Yes,Kidney Disease,"Nausea, Fatigue",Medium,Blood Test,Medication,Cardiac Plan,54418,94,11276,4.4,22,ABC Health
+845,19,22.5,Yes,Alzheimer’s,"Confusion, Mood Changes",High,Biopsy,Medication,Accident Cover,50735,90,16680,4.8,7,ABC Health
+846,54,20.3,No,Heart Disease,"Dizziness, Chest Pain",Low,CT Scan,Surgery,Senior Citizen,138075,66,10815,4.6,10,MediCover
+847,59,32.1,No,Cancer,"Bleeding, Lumps",High,CT Scan,Chemotherapy,Accident Cover,20199,74,5973,4.4,22,ABC Health
+848,47,22.2,No,Alzheimer’s,"Confusion, Memory Loss",Medium,Biopsy,Medication,Accident Cover,55063,54,9326,2.1,23,XYZ Insurance
+849,65,32.5,No,Kidney Disease,"Swelling, Nausea",Low,ECG,Dialysis,Senior Citizen,28877,63,17412,4.8,29,ABC Health
+850,55,22.5,Yes,Asthma,"Coughing, Shortness of Breath",High,CT Scan,Medication,Accident Cover,78633,62,9390,2.9,15,KidneySafe Ins.
+851,54,19.3,No,Liver Disease,"Yellow Skin, Abdominal Pain",Medium,X-ray,Dietary Changes,Critical Illness,32085,75,19673,4.9,16,MediCover
+852,24,29.4,Yes,Diabetes,"Frequent Urination, Fatigue",Medium,CT Scan,Lifestyle Changes,Health Insurance,116952,73,7812,4.2,26,ABC Health
+853,18,18.7,No,Arthritis,"Swelling, Fatigue",Medium,Ultrasound,Surgery,Critical Illness,37368,59,3904,2.8,15,KidneySafe Ins.
+854,73,19.1,No,Arthritis,"Stiffness, Fatigue",Low,Biopsy,Surgery,Critical Illness,155645,83,17831,2.8,18,HeartCare Inc.
+855,40,29.2,Yes,Arthritis,"Fatigue, Joint Pain",Low,X-ray,Medication,Accident Cover,46243,91,13933,2.1,21,KidneySafe Ins.
+856,78,21.5,No,Cancer,"Weight Loss, Fatigue",Low,MRI,Radiation Therapy,Cardiac Plan,182773,62,14210,4.8,9,MediCover
+857,67,20.1,No,Heart Disease,"Breathlessness, Fatigue",High,Biopsy,Medication,Cardiac Plan,103326,62,18503,3.0,28,ABC Health
+858,72,18.3,Yes,Arthritis,"Joint Pain, Swelling",Medium,CT Scan,Physical Therapy,Senior Citizen,103775,94,17387,4.5,13,ABC Health
+859,70,30.4,No,Liver Disease,"Yellow Skin, Dark Urine",High,Blood Test,Dietary Changes,Cardiac Plan,44527,83,16738,3.6,7,LifeShield
+860,38,28.2,Yes,Asthma,"Wheezing, Chest Tightness",High,ECG,Inhalers,Senior Citizen,103156,85,12061,4.3,15,LifeShield
+861,23,32.4,Yes,Arthritis,"Stiffness, Fatigue",Medium,Biopsy,Physical Therapy,Cardiac Plan,126368,89,9781,3.1,17,MediCover
+862,73,33.1,No,Heart Disease,"Breathlessness, Fatigue",High,ECG,Lifestyle Changes,Critical Illness,160822,93,5905,4.8,21,ABC Health
+863,39,32.4,Yes,Liver Disease,"Itchy Skin, Yellow Skin",Low,X-ray,Medication,Health Insurance,101026,80,5796,2.2,9,LifeShield
+864,71,34.7,No,Cancer,"Lumps, Weight Loss",Low,X-ray,Chemotherapy,Senior Citizen,179816,78,18416,3.4,7,ABC Health
+865,68,32.7,No,Heart Disease,"Dizziness, Chest Pain",Medium,CT Scan,Lifestyle Changes,Cardiac Plan,150103,95,5609,2.3,26,KidneySafe Ins.
+866,32,18.5,Yes,Heart Disease,"Fatigue, Dizziness",Low,Blood Test,Lifestyle Changes,Accident Cover,101513,66,3631,3.6,14,LifeShield
+867,37,24.5,No,Liver Disease,"Dark Urine, Abdominal Pain",High,X-ray,Liver Transplant,Health Insurance,143397,54,8247,4.9,6,MediCover
+868,30,32.6,No,Alzheimer’s,"Confusion, Memory Loss",Medium,Biopsy,Medication,Health Insurance,157548,71,10649,3.1,12,ABC Health
+869,20,29.6,No,Liver Disease,"Abdominal Pain, Dark Urine",Low,Ultrasound,Medication,Accident Cover,84344,76,17478,4.5,19,XYZ Insurance
+870,38,31.4,Yes,Heart Disease,"Fatigue, Dizziness",Low,CT Scan,Lifestyle Changes,Accident Cover,139187,73,17774,4.4,9,ABC Health
+871,70,33.7,Yes,Kidney Disease,"Shortness of Breath, Nausea",Low,CT Scan,Dialysis,Cardiac Plan,135147,63,9203,3.9,23,MediCover
+872,39,18.6,No,Alzheimer’s,"Difficulty Speaking, Mood Changes",Low,Ultrasound,Medication,Health Insurance,47295,66,7783,4.8,20,MediCover
+873,61,22.1,Yes,Diabetes,"Increased Thirst, Fatigue",Medium,Blood Test,Lifestyle Changes,Accident Cover,99489,71,19779,4.4,20,KidneySafe Ins.
+874,43,27.0,No,Alzheimer’s,"Mood Changes, Confusion",Medium,Ultrasound,Cognitive Therapy,Accident Cover,66964,81,11534,3.6,24,MediCover
+875,31,30.8,Yes,Asthma,"Coughing, Shortness of Breath",High,MRI,Inhalers,Senior Citizen,51192,73,19994,4.9,29,KidneySafe Ins.
+876,76,34.5,Yes,Diabetes,"Frequent Urination, Fatigue",Low,X-ray,Medication,Critical Illness,189191,84,14378,2.4,7,ABC Health
+877,20,30.3,Yes,Heart Disease,"Fatigue, Breathlessness",High,ECG,Surgery,Critical Illness,33892,95,17486,3.0,30,MediCover
+878,31,29.2,No,Alzheimer’s,"Mood Changes, Memory Loss",Medium,CT Scan,Medication,Cardiac Plan,93620,81,8073,3.9,17,XYZ Insurance
+879,80,20.5,Yes,Cancer,"Fatigue, Weight Loss",High,X-ray,Chemotherapy,Senior Citizen,78226,52,19894,2.8,5,KidneySafe Ins.
+880,44,29.9,Yes,Heart Disease,"Chest Pain, Fatigue",High,Blood Test,Lifestyle Changes,Critical Illness,97947,55,14017,3.4,6,HeartCare Inc.
+881,45,26.5,Yes,Kidney Disease,"Swelling, Fatigue",Medium,MRI,Dialysis,Senior Citizen,157951,83,8990,4.5,5,KidneySafe Ins.
+882,46,22.2,No,Diabetes,"Fatigue, Frequent Urination",Low,MRI,Medication,Cardiac Plan,38606,87,16675,4.4,14,LifeShield
+883,70,21.9,Yes,Heart Disease,"Dizziness, Breathlessness",High,Ultrasound,Medication,Critical Illness,183942,57,6039,2.4,29,KidneySafe Ins.
+884,78,26.7,Yes,Alzheimer’s,"Difficulty Speaking, Confusion",High,Ultrasound,Medication,Cardiac Plan,153136,65,17528,3.4,19,MediCover
+885,71,34.1,Yes,Heart Disease,"Breathlessness, Chest Pain",Low,MRI,Lifestyle Changes,Health Insurance,122998,59,3785,2.3,9,ABC Health
+886,49,20.0,Yes,Alzheimer’s,"Mood Changes, Confusion",Medium,Blood Test,Cognitive Therapy,Cardiac Plan,67335,92,4909,2.3,24,ABC Health
+887,68,28.1,Yes,Diabetes,"Frequent Urination, Fatigue",Low,MRI,Medication,Cardiac Plan,179181,69,18403,3.5,17,ABC Health
+888,43,20.7,No,Alzheimer’s,"Mood Changes, Memory Loss",Medium,CT Scan,Cognitive Therapy,Senior Citizen,118294,76,1416,3.9,14,HeartCare Inc.
+889,55,29.0,Yes,Asthma,"Coughing, Wheezing",High,ECG,Medication,Health Insurance,65360,69,1271,2.0,28,MediCover
+890,73,24.4,No,Kidney Disease,"Swelling, Fatigue",Low,Ultrasound,Transplant,Critical Illness,33544,65,18551,4.0,30,HeartCare Inc.
+891,39,24.8,Yes,Arthritis,"Stiffness, Swelling",Medium,X-ray,Physical Therapy,Cardiac Plan,116561,91,4516,3.0,16,HeartCare Inc.
+892,35,30.2,No,Diabetes,"Fatigue, Blurred Vision",Low,Blood Test,Insulin Therapy,Critical Illness,147443,76,19055,4.7,24,LifeShield
+893,28,19.9,No,Arthritis,"Stiffness, Joint Pain",Low,MRI,Physical Therapy,Critical Illness,142414,94,5649,2.9,21,MediCover
+894,40,30.2,Yes,Heart Disease,"Fatigue, Dizziness",High,Ultrasound,Medication,Senior Citizen,113404,66,2927,3.4,23,XYZ Insurance
+895,18,21.8,No,Asthma,"Coughing, Shortness of Breath",Medium,Blood Test,Inhalers,Senior Citizen,131873,90,19058,4.6,22,KidneySafe Ins.
+896,32,19.4,No,Asthma,"Wheezing, Coughing",Low,Blood Test,Lifestyle Changes,Health Insurance,139584,51,13884,4.8,9,KidneySafe Ins.
+897,70,32.2,No,Asthma,"Wheezing, Chest Tightness",Medium,ECG,Medication,Health Insurance,109096,61,3381,4.3,20,MediCover
+898,77,31.7,No,Heart Disease,"Dizziness, Chest Pain",Medium,X-ray,Lifestyle Changes,Senior Citizen,118602,67,2501,4.6,7,XYZ Insurance
+899,75,35.0,Yes,Kidney Disease,"Shortness of Breath, Fatigue",Low,MRI,Dialysis,Accident Cover,191880,90,9776,4.6,25,KidneySafe Ins.
+900,21,26.0,Yes,Kidney Disease,"Nausea, Swelling",Low,Biopsy,Medication,Cardiac Plan,34240,82,1157,4.4,9,LifeShield
+901,59,18.6,Yes,Heart Disease,"Dizziness, Breathlessness",High,Ultrasound,Lifestyle Changes,Health Insurance,32877,76,15184,3.2,9,ABC Health
+902,29,19.1,Yes,Alzheimer’s,"Memory Loss, Difficulty Speaking",Low,Ultrasound,Medication,Senior Citizen,169636,86,12069,2.9,7,HeartCare Inc.
+903,46,29.2,Yes,Diabetes,"Increased Thirst, Fatigue",High,ECG,Medication,Critical Illness,50686,88,3984,4.6,12,XYZ Insurance
+904,69,31.7,Yes,Asthma,"Chest Tightness, Wheezing",Low,Biopsy,Medication,Accident Cover,32416,81,10534,2.1,25,LifeShield
+905,77,25.5,Yes,Liver Disease,"Itchy Skin, Dark Urine",Low,Biopsy,Dietary Changes,Senior Citizen,97847,67,4309,4.3,19,KidneySafe Ins.
+906,23,22.4,No,Kidney Disease,"Shortness of Breath, Fatigue",Low,MRI,Transplant,Critical Illness,164649,50,12076,4.0,14,MediCover
+907,62,29.4,No,Cancer,"Bleeding, Pain",High,MRI,Radiation Therapy,Health Insurance,195617,76,12248,4.7,12,HeartCare Inc.
+908,51,28.2,No,Arthritis,"Stiffness, Swelling",High,Blood Test,Surgery,Cardiac Plan,53469,58,17693,2.0,25,XYZ Insurance
+909,66,27.1,No,Heart Disease,"Breathlessness, Fatigue",Low,ECG,Lifestyle Changes,Cardiac Plan,85713,69,8488,2.0,21,KidneySafe Ins.
+910,47,29.6,No,Heart Disease,"Chest Pain, Dizziness",High,CT Scan,Lifestyle Changes,Health Insurance,173816,83,14362,4.5,24,HeartCare Inc.
+911,72,23.7,No,Heart Disease,"Chest Pain, Breathlessness",Medium,CT Scan,Surgery,Health Insurance,40042,90,4909,2.9,16,MediCover
+912,66,33.2,No,Diabetes,"Increased Thirst, Blurred Vision",Medium,Biopsy,Medication,Critical Illness,58252,70,1709,2.2,18,KidneySafe Ins.
+913,23,28.3,Yes,Alzheimer’s,"Difficulty Speaking, Confusion",High,CT Scan,Medication,Critical Illness,62577,94,18451,3.2,26,LifeShield
+914,55,20.2,No,Kidney Disease,"Nausea, Swelling",High,X-ray,Transplant,Senior Citizen,133373,61,3398,2.8,24,XYZ Insurance
+915,63,26.3,No,Arthritis,"Swelling, Fatigue",Medium,CT Scan,Medication,Senior Citizen,44850,82,6619,3.6,27,XYZ Insurance
+916,37,26.3,Yes,Alzheimer’s,"Difficulty Speaking, Mood Changes",Medium,Blood Test,Cognitive Therapy,Accident Cover,194385,55,17517,3.8,9,XYZ Insurance
+917,71,23.1,No,Diabetes,"Fatigue, Increased Thirst",High,Ultrasound,Lifestyle Changes,Health Insurance,155975,93,19595,2.4,18,ABC Health
+918,20,30.3,Yes,Heart Disease,"Chest Pain, Fatigue",Low,X-ray,Lifestyle Changes,Senior Citizen,56798,51,9847,4.9,5,KidneySafe Ins.
+919,66,28.5,No,Asthma,"Shortness of Breath, Chest Tightness",Low,CT Scan,Medication,Critical Illness,84157,80,5730,2.8,12,XYZ Insurance
+920,71,25.1,No,Alzheimer’s,"Confusion, Memory Loss",High,Biopsy,Cognitive Therapy,Accident Cover,132533,86,17475,2.6,14,LifeShield
+921,60,31.0,Yes,Liver Disease,"Abdominal Pain, Dark Urine",Medium,X-ray,Liver Transplant,Critical Illness,64332,91,19664,2.7,22,XYZ Insurance
+922,21,26.0,Yes,Arthritis,"Joint Pain, Stiffness",Low,Blood Test,Physical Therapy,Critical Illness,22246,56,15301,3.4,30,HeartCare Inc.
+923,27,22.1,No,Alzheimer’s,"Difficulty Speaking, Confusion",Low,MRI,Cognitive Therapy,Critical Illness,89634,82,5437,4.2,25,LifeShield
+924,31,21.1,Yes,Liver Disease,"Itchy Skin, Abdominal Pain",Medium,ECG,Dietary Changes,Critical Illness,112742,62,4029,2.4,22,MediCover
+925,34,19.6,No,Kidney Disease,"Swelling, Nausea",High,Blood Test,Dialysis,Critical Illness,109739,79,19671,4.7,6,ABC Health
+926,69,18.8,Yes,Cancer,"Fatigue, Pain",Low,X-ray,Radiation Therapy,Accident Cover,127383,79,13353,2.7,18,LifeShield
+927,74,29.2,Yes,Arthritis,"Stiffness, Joint Pain",Low,MRI,Surgery,Health Insurance,84841,73,11028,3.5,14,KidneySafe Ins.
+928,22,26.0,No,Diabetes,"Increased Thirst, Blurred Vision",Medium,Biopsy,Lifestyle Changes,Health Insurance,186041,85,6177,3.2,5,ABC Health
+929,64,21.4,Yes,Cancer,"Weight Loss, Lumps",Medium,Biopsy,Chemotherapy,Accident Cover,57805,69,17927,2.6,28,XYZ Insurance
+930,75,18.7,No,Arthritis,"Swelling, Joint Pain",Low,Blood Test,Surgery,Accident Cover,124532,92,18739,2.7,15,MediCover
+931,37,21.3,No,Asthma,"Chest Tightness, Coughing",Medium,CT Scan,Medication,Cardiac Plan,199457,74,12751,2.9,19,ABC Health
+932,19,22.9,Yes,Asthma,"Wheezing, Coughing",High,Ultrasound,Inhalers,Cardiac Plan,189081,91,4901,4.3,16,ABC Health
+933,68,27.2,Yes,Diabetes,"Blurred Vision, Increased Thirst",Low,Blood Test,Medication,Health Insurance,157328,69,13846,3.0,12,LifeShield
+934,35,28.1,No,Liver Disease,"Abdominal Pain, Dark Urine",Low,CT Scan,Medication,Health Insurance,198604,65,4361,2.4,25,HeartCare Inc.
+935,31,22.6,Yes,Arthritis,"Joint Pain, Swelling",Low,MRI,Medication,Health Insurance,87597,64,2537,4.3,8,ABC Health
+936,40,27.4,Yes,Alzheimer’s,"Confusion, Difficulty Speaking",Low,MRI,Medication,Critical Illness,30012,78,7042,2.9,17,LifeShield
+937,27,19.2,Yes,Asthma,"Coughing, Shortness of Breath",Medium,Ultrasound,Inhalers,Health Insurance,143927,93,19413,3.3,14,KidneySafe Ins.
+938,55,18.9,No,Liver Disease,"Yellow Skin, Itchy Skin",Low,Biopsy,Dietary Changes,Cardiac Plan,100810,73,14555,2.6,15,LifeShield
+939,43,20.2,Yes,Alzheimer’s,"Memory Loss, Difficulty Speaking",Low,MRI,Cognitive Therapy,Cardiac Plan,97477,50,16544,4.6,9,ABC Health
+940,45,24.5,No,Arthritis,"Joint Pain, Stiffness",High,Blood Test,Surgery,Critical Illness,187750,73,10068,3.6,21,KidneySafe Ins.
+941,62,29.8,No,Cancer,"Bleeding, Pain",High,ECG,Chemotherapy,Critical Illness,197736,54,4037,2.5,21,MediCover
+942,44,28.3,No,Cancer,"Fatigue, Lumps",Low,X-ray,Chemotherapy,Cardiac Plan,67023,58,12083,4.5,24,MediCover
+943,58,33.7,Yes,Cancer,"Bleeding, Weight Loss",Low,MRI,Chemotherapy,Senior Citizen,197797,92,6372,3.8,18,XYZ Insurance
+944,75,21.4,Yes,Heart Disease,"Chest Pain, Dizziness",Medium,CT Scan,Surgery,Cardiac Plan,34135,76,8179,4.5,23,ABC Health
+945,65,23.5,No,Heart Disease,"Breathlessness, Dizziness",High,Ultrasound,Lifestyle Changes,Health Insurance,60222,81,3202,2.0,7,MediCover
+946,34,21.4,Yes,Liver Disease,"Yellow Skin, Itchy Skin",Low,Ultrasound,Medication,Health Insurance,109940,69,10300,3.2,22,XYZ Insurance
+947,73,34.8,No,Kidney Disease,"Nausea, Swelling",Low,Blood Test,Transplant,Critical Illness,122124,78,11405,4.1,6,HeartCare Inc.
+948,28,20.3,Yes,Heart Disease,"Chest Pain, Dizziness",High,Ultrasound,Lifestyle Changes,Critical Illness,122264,50,17891,2.7,19,ABC Health
+949,57,21.8,Yes,Arthritis,"Joint Pain, Stiffness",High,ECG,Physical Therapy,Critical Illness,117371,80,16650,3.2,6,ABC Health
+950,36,32.6,No,Diabetes,"Frequent Urination, Blurred Vision",Low,Ultrasound,Insulin Therapy,Senior Citizen,54868,70,7893,2.1,5,KidneySafe Ins.
+951,47,24.8,Yes,Arthritis,"Swelling, Stiffness",Medium,Blood Test,Physical Therapy,Health Insurance,48480,54,12333,3.9,7,KidneySafe Ins.
+952,20,32.5,No,Heart Disease,"Dizziness, Chest Pain",High,ECG,Surgery,Cardiac Plan,113467,92,10580,2.1,5,XYZ Insurance
+953,36,27.3,Yes,Arthritis,"Stiffness, Joint Pain",High,Blood Test,Medication,Health Insurance,28617,58,8450,2.2,19,LifeShield
+954,59,23.9,Yes,Liver Disease,"Yellow Skin, Abdominal Pain",High,Biopsy,Liver Transplant,Senior Citizen,149774,59,10986,2.3,14,ABC Health
+955,66,21.8,Yes,Liver Disease,"Abdominal Pain, Yellow Skin",High,Ultrasound,Dietary Changes,Accident Cover,72643,67,15935,4.1,20,HeartCare Inc.
+956,41,21.7,No,Alzheimer’s,"Memory Loss, Confusion",Low,Biopsy,Cognitive Therapy,Senior Citizen,135196,71,11157,2.6,5,XYZ Insurance
+957,58,20.7,Yes,Alzheimer’s,"Difficulty Speaking, Confusion",Medium,CT Scan,Medication,Senior Citizen,114450,89,11937,3.4,13,KidneySafe Ins.
+958,29,24.1,Yes,Asthma,"Chest Tightness, Coughing",Low,CT Scan,Inhalers,Critical Illness,146600,51,9765,4.2,16,KidneySafe Ins.
+959,57,29.4,Yes,Arthritis,"Stiffness, Fatigue",High,Blood Test,Surgery,Critical Illness,157800,78,14467,2.2,20,ABC Health
+960,52,22.4,Yes,Liver Disease,"Yellow Skin, Abdominal Pain",Low,Biopsy,Dietary Changes,Health Insurance,40112,57,14036,3.2,8,KidneySafe Ins.
+961,55,25.7,No,Arthritis,"Joint Pain, Swelling",Low,Blood Test,Physical Therapy,Senior Citizen,174144,52,13482,3.9,19,KidneySafe Ins.
+962,26,22.3,Yes,Arthritis,"Swelling, Stiffness",High,MRI,Physical Therapy,Health Insurance,150755,89,9196,2.5,14,MediCover
+963,73,25.2,Yes,Asthma,"Shortness of Breath, Chest Tightness",Medium,CT Scan,Lifestyle Changes,Accident Cover,111386,60,7000,4.6,22,HeartCare Inc.
+964,43,32.3,Yes,Diabetes,"Fatigue, Increased Thirst",Low,CT Scan,Medication,Health Insurance,169498,67,5196,4.2,30,LifeShield
+965,19,19.1,No,Kidney Disease,"Shortness of Breath, Swelling",Medium,CT Scan,Medication,Health Insurance,113298,93,12844,3.0,22,HeartCare Inc.
+966,37,25.1,Yes,Arthritis,"Fatigue, Swelling",Low,CT Scan,Medication,Critical Illness,185470,82,13992,4.2,10,XYZ Insurance
+967,62,30.0,Yes,Kidney Disease,"Fatigue, Shortness of Breath",Low,X-ray,Transplant,Senior Citizen,76950,94,4508,2.5,20,LifeShield
+968,65,21.4,No,Liver Disease,"Abdominal Pain, Itchy Skin",Low,Biopsy,Dietary Changes,Health Insurance,140770,93,11239,4.4,28,XYZ Insurance
+969,48,31.6,No,Liver Disease,"Itchy Skin, Abdominal Pain",High,X-ray,Dietary Changes,Critical Illness,173339,68,5580,2.2,30,HeartCare Inc.
+970,64,28.9,Yes,Alzheimer’s,"Difficulty Speaking, Confusion",High,CT Scan,Cognitive Therapy,Critical Illness,109248,76,7755,2.7,10,XYZ Insurance
+971,30,23.3,Yes,Alzheimer’s,"Confusion, Memory Loss",Low,Biopsy,Medication,Accident Cover,48309,85,8038,3.2,30,HeartCare Inc.
+972,37,33.6,No,Cancer,"Fatigue, Weight Loss",Low,ECG,Chemotherapy,Health Insurance,98381,94,14199,3.4,17,HeartCare Inc.
+973,21,25.9,Yes,Cancer,"Fatigue, Bleeding",High,CT Scan,Chemotherapy,Health Insurance,154243,85,19896,2.1,16,XYZ Insurance
+974,29,34.6,Yes,Alzheimer’s,"Confusion, Memory Loss",High,CT Scan,Cognitive Therapy,Cardiac Plan,186279,54,6863,4.2,22,LifeShield
+975,61,24.0,Yes,Asthma,"Shortness of Breath, Chest Tightness",High,CT Scan,Inhalers,Health Insurance,142430,88,14396,4.6,21,LifeShield
+976,48,24.7,No,Alzheimer’s,"Mood Changes, Confusion",Medium,MRI,Medication,Accident Cover,180328,92,9110,3.3,25,XYZ Insurance
+977,34,33.6,Yes,Asthma,"Chest Tightness, Wheezing",Low,Blood Test,Inhalers,Health Insurance,86574,65,6522,4.4,19,LifeShield
+978,58,28.0,Yes,Cancer,"Fatigue, Bleeding",High,X-ray,Radiation Therapy,Critical Illness,64675,70,13377,4.1,5,XYZ Insurance
+979,58,29.9,No,Alzheimer’s,"Difficulty Speaking, Memory Loss",Low,MRI,Medication,Cardiac Plan,73364,94,17962,4.1,11,HeartCare Inc.
+980,44,29.4,No,Kidney Disease,"Fatigue, Nausea",High,Biopsy,Transplant,Cardiac Plan,90016,70,9837,2.0,18,HeartCare Inc.
+981,28,33.2,No,Diabetes,"Increased Thirst, Blurred Vision",Medium,CT Scan,Medication,Cardiac Plan,172599,90,4191,4.6,23,LifeShield
+982,39,25.2,No,Heart Disease,"Dizziness, Fatigue",High,CT Scan,Surgery,Senior Citizen,78596,88,19724,4.4,11,LifeShield
+983,40,34.7,No,Kidney Disease,"Swelling, Fatigue",Low,ECG,Medication,Senior Citizen,59668,86,1792,4.5,9,KidneySafe Ins.
+984,32,20.5,No,Heart Disease,"Fatigue, Chest Pain",Low,CT Scan,Lifestyle Changes,Accident Cover,92258,81,14619,4.5,17,KidneySafe Ins.
+985,59,31.7,No,Cancer,"Lumps, Fatigue",High,Ultrasound,Surgery,Critical Illness,59434,74,16780,2.0,6,ABC Health
+986,30,30.4,Yes,Liver Disease,"Dark Urine, Abdominal Pain",High,ECG,Liver Transplant,Cardiac Plan,49050,57,2604,3.1,13,LifeShield
+987,22,31.4,No,Cancer,"Lumps, Bleeding",Medium,CT Scan,Chemotherapy,Accident Cover,95249,91,7099,4.9,9,XYZ Insurance
+988,41,21.4,Yes,Arthritis,"Joint Pain, Stiffness",High,CT Scan,Physical Therapy,Senior Citizen,126909,86,1157,4.5,22,MediCover
+989,37,26.7,No,Kidney Disease,"Shortness of Breath, Swelling",Medium,CT Scan,Transplant,Accident Cover,100764,77,12520,2.4,8,MediCover
+990,54,24.5,Yes,Alzheimer’s,"Difficulty Speaking, Mood Changes",Low,ECG,Medication,Accident Cover,151761,50,6626,4.4,12,XYZ Insurance
+991,72,28.4,Yes,Diabetes,"Blurred Vision, Increased Thirst",Low,Ultrasound,Medication,Critical Illness,73230,65,10708,4.9,20,KidneySafe Ins.
+992,50,34.5,No,Diabetes,"Increased Thirst, Fatigue",High,X-ray,Medication,Senior Citizen,24885,72,2478,2.8,18,XYZ Insurance
+993,40,21.2,Yes,Liver Disease,"Yellow Skin, Abdominal Pain",High,Blood Test,Medication,Health Insurance,92096,63,5117,4.3,12,KidneySafe Ins.
+994,74,30.3,Yes,Heart Disease,"Fatigue, Breathlessness",High,Blood Test,Medication,Cardiac Plan,70156,92,16281,4.0,27,MediCover
+995,67,32.7,Yes,Cancer,"Fatigue, Weight Loss",Low,CT Scan,Surgery,Critical Illness,97883,59,19930,2.9,18,HeartCare Inc.
+996,79,21.3,Yes,Diabetes,"Blurred Vision, Increased Thirst",Medium,Biopsy,Medication,Senior Citizen,77469,76,7208,4.3,19,ABC Health
+997,38,19.5,No,Alzheimer’s,"Difficulty Speaking, Memory Loss",Low,X-ray,Medication,Health Insurance,99259,71,11604,3.4,13,MediCover
+998,53,21.8,No,Diabetes,"Blurred Vision, Frequent Urination",High,Biopsy,Insulin Therapy,Health Insurance,79971,83,5138,3.7,10,LifeShield
+999,46,29.9,Yes,Alzheimer’s,"Difficulty Speaking, Confusion",Medium,CT Scan,Cognitive Therapy,Critical Illness,104506,87,1188,2.1,11,MediCover
+1000,18,34.7,Yes,Heart Disease,"Fatigue, Dizziness",High,CT Scan,Lifestyle Changes,Cardiac Plan,147913,62,2510,2.5,17,HeartCare Inc.

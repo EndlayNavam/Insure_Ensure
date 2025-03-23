@@ -1,0 +1,1001 @@
+Age,Income,Health Conditions,Family Size,Past Claims,Recommended Policy
+21,152737,Diabetes,1,4,Health Insurance
+45,107423,None,4,5,Health Insurance
+52,95038,Heart Disease,2,3,Health Insurance
+56,159715,None,2,5,Health Insurance
+42,192831,Asthma,1,5,Health Insurance
+28,182221,None,3,4,Health Insurance
+43,190552,Asthma,3,2,Health Insurance
+67,20338,None,6,3,Health Insurance
+21,95634,None,5,3,Health Insurance
+67,155994,Heart Disease,5,2,Health Insurance
+66,194206,None,1,2,Health Insurance
+48,93335,None,4,0,Premium Life Insurance
+59,54657,None,3,3,Health Insurance
+44,83973,Diabetes,5,3,Health Insurance
+66,127039,Asthma,3,5,Health Insurance
+63,198260,None,5,1,Senior Citizen Plan
+45,119754,None,4,5,Health Insurance
+53,63655,Asthma,1,3,Health Insurance
+22,178435,None,3,0,Premium Life Insurance
+50,145682,Asthma,1,3,Health Insurance
+44,33729,Diabetes,4,0,Health Insurance
+33,129221,None,1,5,Health Insurance
+57,78256,Diabetes,3,4,Health Insurance
+51,70186,None,4,3,Health Insurance
+36,171730,None,3,3,Health Insurance
+18,110919,Heart Disease,3,4,Health Insurance
+27,194610,Asthma,1,0,Health Insurance
+33,148654,Diabetes,6,0,Health Insurance
+33,148395,Asthma,5,3,Health Insurance
+42,164871,Heart Disease,5,1,Health Insurance
+57,96484,Heart Disease,3,4,Health Insurance
+40,72460,None,4,0,Basic Life Insurance
+49,35385,None,3,2,Health Insurance
+26,123549,Heart Disease,3,2,Health Insurance
+57,32035,Diabetes,4,0,Health Insurance
+55,55240,None,2,4,Health Insurance
+35,120701,None,5,0,Premium Life Insurance
+52,163289,Diabetes,4,1,Health Insurance
+44,191043,None,2,1,Premium Life Insurance
+59,166500,Diabetes,3,0,Health Insurance
+56,126951,None,5,2,Health Insurance
+19,140278,Asthma,1,1,Health Insurance
+59,196606,Asthma,3,4,Health Insurance
+38,25372,None,3,1,Basic Life Insurance
+38,99955,Diabetes,3,4,Health Insurance
+50,112470,Heart Disease,1,0,Health Insurance
+36,67209,Asthma,6,3,Health Insurance
+57,165196,None,4,1,Senior Citizen Plan
+53,110505,Heart Disease,2,4,Health Insurance
+67,134446,Diabetes,1,0,Health Insurance
+45,66996,Heart Disease,4,2,Health Insurance
+21,142458,Diabetes,4,5,Health Insurance
+50,109457,Asthma,6,3,Health Insurance
+25,91704,Asthma,4,5,Health Insurance
+57,43308,None,3,3,Health Insurance
+19,139452,None,2,0,Premium Life Insurance
+47,55784,Asthma,3,3,Health Insurance
+35,107135,None,6,1,Premium Life Insurance
+60,125967,Heart Disease,4,3,Health Insurance
+66,198008,Asthma,6,4,Health Insurance
+67,26818,Asthma,4,1,Health Insurance
+28,116784,Heart Disease,5,2,Health Insurance
+26,115279,Asthma,1,1,Health Insurance
+49,166931,Heart Disease,4,0,Health Insurance
+65,126029,Heart Disease,6,0,Health Insurance
+68,72327,Asthma,1,5,Health Insurance
+18,96149,Asthma,1,2,Health Insurance
+70,51176,Asthma,2,3,Health Insurance
+36,69794,Heart Disease,4,4,Health Insurance
+54,55320,None,1,0,Senior Citizen Plan
+47,172978,Diabetes,1,1,Health Insurance
+36,28438,Asthma,5,0,Health Insurance
+49,57248,None,4,4,Health Insurance
+45,155518,Asthma,5,1,Health Insurance
+18,23953,Diabetes,5,2,Health Insurance
+49,44030,Diabetes,6,5,Health Insurance
+29,151380,None,1,2,Health Insurance
+18,192053,None,5,2,Health Insurance
+47,173881,Diabetes,6,4,Health Insurance
+20,188528,None,2,2,Health Insurance
+49,161459,Asthma,1,2,Health Insurance
+40,116374,Asthma,2,0,Health Insurance
+28,137630,None,5,5,Health Insurance
+63,61116,Heart Disease,2,0,Health Insurance
+47,46989,Asthma,1,0,Health Insurance
+50,107957,Heart Disease,1,0,Health Insurance
+51,30557,Asthma,1,4,Health Insurance
+57,114841,None,6,3,Health Insurance
+61,51228,Diabetes,3,3,Health Insurance
+32,180750,Heart Disease,4,3,Health Insurance
+42,150277,None,3,3,Health Insurance
+34,165195,Heart Disease,6,0,Health Insurance
+40,174941,Heart Disease,4,3,Health Insurance
+64,63842,Heart Disease,1,3,Health Insurance
+39,92045,Diabetes,3,2,Health Insurance
+35,91419,Diabetes,1,2,Health Insurance
+34,62342,None,4,1,Basic Life Insurance
+68,55701,Diabetes,3,0,Health Insurance
+46,120719,None,2,0,Premium Life Insurance
+31,155064,Heart Disease,1,3,Health Insurance
+69,111511,Diabetes,2,0,Health Insurance
+36,48872,Asthma,6,2,Health Insurance
+47,154957,None,3,3,Health Insurance
+23,105875,Asthma,3,4,Health Insurance
+39,70248,Heart Disease,5,1,Health Insurance
+51,164447,Asthma,2,1,Health Insurance
+66,68780,Asthma,4,5,Health Insurance
+40,59995,Diabetes,4,0,Health Insurance
+46,170553,Diabetes,6,1,Health Insurance
+62,169839,Heart Disease,2,1,Health Insurance
+56,51850,None,6,4,Health Insurance
+31,125581,None,2,4,Health Insurance
+57,186285,Heart Disease,1,0,Health Insurance
+18,28199,Asthma,3,2,Health Insurance
+55,139076,Heart Disease,4,1,Health Insurance
+37,78642,None,3,2,Health Insurance
+55,152877,Diabetes,4,2,Health Insurance
+67,122380,Asthma,6,3,Health Insurance
+51,169978,None,4,4,Health Insurance
+56,101731,None,1,3,Health Insurance
+47,21556,Asthma,3,2,Health Insurance
+33,87728,None,1,5,Health Insurance
+38,64729,None,4,1,Basic Life Insurance
+46,114709,Diabetes,6,2,Health Insurance
+53,197869,Diabetes,1,3,Health Insurance
+54,167167,Asthma,5,4,Health Insurance
+60,194653,Heart Disease,2,5,Health Insurance
+57,80625,None,3,4,Health Insurance
+36,75986,Asthma,5,1,Health Insurance
+28,173287,None,2,3,Health Insurance
+19,69066,Asthma,5,0,Health Insurance
+61,194427,None,1,4,Health Insurance
+20,127078,Heart Disease,4,2,Health Insurance
+61,56015,Diabetes,2,3,Health Insurance
+52,120031,None,2,4,Health Insurance
+19,37953,None,2,4,Health Insurance
+54,22118,Diabetes,3,4,Health Insurance
+29,189532,Diabetes,4,1,Health Insurance
+68,170482,Heart Disease,2,3,Health Insurance
+24,113192,None,3,5,Health Insurance
+36,159945,Asthma,1,0,Health Insurance
+54,51535,None,5,1,Senior Citizen Plan
+37,89650,Diabetes,4,1,Health Insurance
+28,197233,Heart Disease,4,4,Health Insurance
+55,20968,Heart Disease,5,4,Health Insurance
+61,69817,Diabetes,2,2,Health Insurance
+67,49696,Heart Disease,4,2,Health Insurance
+24,112389,None,6,0,Premium Life Insurance
+56,31047,Asthma,5,2,Health Insurance
+67,51159,Heart Disease,6,4,Health Insurance
+69,147534,Asthma,6,3,Health Insurance
+67,189310,Heart Disease,2,4,Health Insurance
+35,49693,Diabetes,4,0,Health Insurance
+47,120719,Asthma,1,2,Health Insurance
+67,30837,Asthma,1,0,Health Insurance
+45,110210,Diabetes,4,2,Health Insurance
+33,46210,Heart Disease,3,5,Health Insurance
+39,159279,Diabetes,2,5,Health Insurance
+48,114590,Asthma,5,5,Health Insurance
+50,85228,Asthma,6,5,Health Insurance
+53,96493,Asthma,1,0,Health Insurance
+68,32364,Heart Disease,3,4,Health Insurance
+63,61305,Diabetes,6,2,Health Insurance
+67,195524,Diabetes,6,3,Health Insurance
+21,20643,Asthma,1,0,Health Insurance
+65,85938,Diabetes,2,2,Health Insurance
+60,61805,None,2,0,Senior Citizen Plan
+25,40805,Diabetes,1,1,Health Insurance
+61,112168,Diabetes,3,3,Health Insurance
+21,56051,Diabetes,4,3,Health Insurance
+43,196801,Heart Disease,5,5,Health Insurance
+65,59649,Heart Disease,6,2,Health Insurance
+69,125472,Asthma,1,4,Health Insurance
+19,185641,Asthma,2,1,Health Insurance
+60,42849,None,6,4,Health Insurance
+31,147998,None,5,5,Health Insurance
+25,39877,Diabetes,3,2,Health Insurance
+50,142186,Heart Disease,2,0,Health Insurance
+24,91716,Heart Disease,6,0,Health Insurance
+49,163782,Asthma,3,0,Health Insurance
+57,92422,Diabetes,4,3,Health Insurance
+38,53362,Heart Disease,3,1,Health Insurance
+28,37225,Asthma,5,4,Health Insurance
+47,128910,Heart Disease,1,5,Health Insurance
+55,173734,None,3,3,Health Insurance
+24,138664,Asthma,2,3,Health Insurance
+52,117023,Diabetes,5,5,Health Insurance
+18,150858,Heart Disease,3,1,Health Insurance
+47,70649,Asthma,6,5,Health Insurance
+30,190611,Diabetes,5,4,Health Insurance
+56,169749,None,1,2,Health Insurance
+42,67452,None,2,0,Basic Life Insurance
+19,33129,Heart Disease,1,0,Health Insurance
+65,60528,Heart Disease,5,1,Health Insurance
+43,184075,Diabetes,1,5,Health Insurance
+43,79206,Asthma,5,0,Health Insurance
+65,114336,Asthma,2,5,Health Insurance
+27,105081,Heart Disease,1,3,Health Insurance
+53,78234,None,2,2,Health Insurance
+25,157296,Diabetes,5,1,Health Insurance
+60,54996,Asthma,1,3,Health Insurance
+64,106381,Heart Disease,6,5,Health Insurance
+36,112566,None,1,0,Premium Life Insurance
+43,73103,Asthma,1,5,Health Insurance
+61,25562,Asthma,5,5,Health Insurance
+68,184805,Heart Disease,2,1,Health Insurance
+21,71015,Diabetes,4,4,Health Insurance
+31,58150,Asthma,2,1,Health Insurance
+30,130180,Diabetes,2,3,Health Insurance
+30,191311,Asthma,3,0,Health Insurance
+33,139296,None,5,1,Premium Life Insurance
+39,185358,None,5,5,Health Insurance
+24,135691,Asthma,5,4,Health Insurance
+46,24842,None,5,1,Basic Life Insurance
+68,23454,Diabetes,5,0,Health Insurance
+22,132595,Asthma,4,5,Health Insurance
+28,41846,Asthma,2,3,Health Insurance
+39,38998,Heart Disease,3,1,Health Insurance
+52,53493,Asthma,5,4,Health Insurance
+64,105879,None,4,5,Health Insurance
+29,59702,Diabetes,5,4,Health Insurance
+65,70487,Heart Disease,6,3,Health Insurance
+31,173750,Diabetes,1,0,Health Insurance
+28,76756,Heart Disease,2,3,Health Insurance
+43,100573,None,6,3,Health Insurance
+27,193435,Heart Disease,5,4,Health Insurance
+47,25155,None,4,3,Health Insurance
+66,63089,Heart Disease,1,4,Health Insurance
+67,133212,Asthma,5,1,Health Insurance
+49,124639,Heart Disease,6,5,Health Insurance
+42,83502,Asthma,1,3,Health Insurance
+50,62017,Asthma,1,3,Health Insurance
+28,55212,Diabetes,4,4,Health Insurance
+36,44560,Heart Disease,1,4,Health Insurance
+70,61776,Diabetes,4,0,Health Insurance
+43,46066,Heart Disease,6,4,Health Insurance
+66,49171,Asthma,6,1,Health Insurance
+53,166641,Diabetes,4,0,Health Insurance
+50,115155,Diabetes,4,2,Health Insurance
+35,32429,Diabetes,4,4,Health Insurance
+58,102442,None,4,5,Health Insurance
+39,96728,Heart Disease,5,2,Health Insurance
+22,30563,None,3,2,Health Insurance
+25,34312,Diabetes,6,3,Health Insurance
+69,196021,Diabetes,1,4,Health Insurance
+41,71492,Asthma,4,5,Health Insurance
+59,34669,None,1,0,Senior Citizen Plan
+66,193418,Heart Disease,5,3,Health Insurance
+30,146514,Asthma,2,1,Health Insurance
+55,112193,Diabetes,2,1,Health Insurance
+57,175850,Heart Disease,3,4,Health Insurance
+41,189306,Heart Disease,6,5,Health Insurance
+35,167628,Asthma,5,1,Health Insurance
+31,185422,Asthma,4,2,Health Insurance
+29,59067,Heart Disease,4,1,Health Insurance
+32,114473,Diabetes,4,5,Health Insurance
+66,108006,Heart Disease,6,0,Health Insurance
+27,36605,Asthma,2,1,Health Insurance
+55,89572,None,6,1,Senior Citizen Plan
+47,80855,None,4,2,Health Insurance
+41,149521,None,3,2,Health Insurance
+32,21546,Heart Disease,1,3,Health Insurance
+44,111462,Heart Disease,1,2,Health Insurance
+34,141628,Asthma,1,0,Health Insurance
+58,28328,Asthma,2,4,Health Insurance
+19,57333,Asthma,3,4,Health Insurance
+49,138580,None,3,1,Premium Life Insurance
+21,178271,Asthma,2,3,Health Insurance
+23,100779,None,6,5,Health Insurance
+67,111725,Heart Disease,6,2,Health Insurance
+34,184598,None,3,2,Health Insurance
+30,93098,Asthma,4,1,Health Insurance
+33,102566,Heart Disease,5,3,Health Insurance
+61,25987,Asthma,5,4,Health Insurance
+27,90166,Asthma,3,2,Health Insurance
+25,115465,Diabetes,3,1,Health Insurance
+70,27040,Heart Disease,3,0,Health Insurance
+48,110748,Asthma,3,2,Health Insurance
+45,180749,None,4,3,Health Insurance
+66,28406,None,6,3,Health Insurance
+46,60893,None,4,5,Health Insurance
+28,176652,Asthma,1,0,Health Insurance
+58,133279,Heart Disease,6,3,Health Insurance
+20,143449,None,5,1,Premium Life Insurance
+53,39331,Heart Disease,2,5,Health Insurance
+36,108498,Heart Disease,6,4,Health Insurance
+42,101745,Diabetes,3,1,Health Insurance
+30,50177,Diabetes,4,0,Health Insurance
+25,126717,Diabetes,2,5,Health Insurance
+30,182348,None,5,2,Health Insurance
+32,199938,Asthma,3,0,Health Insurance
+33,162142,None,2,1,Premium Life Insurance
+22,150351,Heart Disease,4,4,Health Insurance
+38,48333,None,6,3,Health Insurance
+63,183016,Heart Disease,1,3,Health Insurance
+47,141929,Asthma,1,5,Health Insurance
+62,51439,Asthma,5,1,Health Insurance
+50,186177,None,5,1,Premium Life Insurance
+52,194291,None,3,4,Health Insurance
+50,134502,Heart Disease,5,4,Health Insurance
+41,74812,Asthma,4,3,Health Insurance
+44,192891,Diabetes,3,5,Health Insurance
+54,29178,Asthma,3,3,Health Insurance
+59,110236,Diabetes,4,2,Health Insurance
+35,64257,Asthma,1,4,Health Insurance
+18,84993,Diabetes,5,4,Health Insurance
+22,74313,None,4,5,Health Insurance
+50,41093,Asthma,2,3,Health Insurance
+35,118339,Diabetes,2,0,Health Insurance
+64,83118,None,5,4,Health Insurance
+34,176715,Diabetes,5,3,Health Insurance
+42,170890,Heart Disease,1,0,Health Insurance
+57,26998,Heart Disease,1,2,Health Insurance
+30,152454,Diabetes,4,4,Health Insurance
+66,151418,Heart Disease,4,2,Health Insurance
+38,190030,Asthma,6,3,Health Insurance
+22,166826,Diabetes,2,5,Health Insurance
+27,100777,Diabetes,4,5,Health Insurance
+60,190071,Heart Disease,6,0,Health Insurance
+56,79124,Asthma,6,1,Health Insurance
+53,107280,Diabetes,1,1,Health Insurance
+53,75257,Asthma,2,2,Health Insurance
+20,186871,Diabetes,6,3,Health Insurance
+43,119491,Asthma,1,5,Health Insurance
+47,154488,Diabetes,3,1,Health Insurance
+27,143642,None,5,1,Premium Life Insurance
+24,88189,None,4,0,Premium Life Insurance
+18,143940,Diabetes,1,4,Health Insurance
+22,62300,Asthma,6,3,Health Insurance
+42,183273,Asthma,5,4,Health Insurance
+48,48668,Diabetes,4,5,Health Insurance
+61,104056,Diabetes,5,4,Health Insurance
+48,127163,Asthma,3,1,Health Insurance
+65,59953,Diabetes,1,0,Health Insurance
+31,131824,Asthma,3,4,Health Insurance
+33,194220,Asthma,6,2,Health Insurance
+58,76227,Heart Disease,2,2,Health Insurance
+35,45821,None,1,3,Health Insurance
+62,175827,None,2,4,Health Insurance
+19,148259,Heart Disease,2,0,Health Insurance
+48,78765,Diabetes,3,4,Health Insurance
+46,50370,Diabetes,5,5,Health Insurance
+52,132027,Asthma,1,2,Health Insurance
+32,180319,Asthma,3,3,Health Insurance
+41,92335,Asthma,4,5,Health Insurance
+24,36941,Heart Disease,3,4,Health Insurance
+39,75435,Diabetes,1,2,Health Insurance
+54,172055,Diabetes,5,2,Health Insurance
+21,25838,Diabetes,6,5,Health Insurance
+35,181830,Diabetes,3,5,Health Insurance
+68,59102,Heart Disease,6,2,Health Insurance
+55,42221,Diabetes,6,2,Health Insurance
+54,77737,Diabetes,5,2,Health Insurance
+55,95242,None,1,2,Health Insurance
+32,112341,Diabetes,5,5,Health Insurance
+18,183299,Asthma,4,0,Health Insurance
+33,42360,Diabetes,2,0,Health Insurance
+64,28032,Heart Disease,2,1,Health Insurance
+48,90149,None,1,2,Health Insurance
+60,160498,None,4,5,Health Insurance
+34,55947,Heart Disease,6,3,Health Insurance
+18,151207,Heart Disease,2,5,Health Insurance
+32,147404,None,6,5,Health Insurance
+25,127150,Asthma,5,0,Health Insurance
+30,23175,Heart Disease,5,5,Health Insurance
+40,152283,None,2,2,Health Insurance
+58,151063,Asthma,4,5,Health Insurance
+24,69779,Asthma,4,5,Health Insurance
+47,152998,None,4,1,Premium Life Insurance
+38,56329,Heart Disease,2,4,Health Insurance
+18,169397,Diabetes,6,1,Health Insurance
+54,121675,Diabetes,5,2,Health Insurance
+56,73780,Heart Disease,4,4,Health Insurance
+69,184401,Asthma,4,1,Health Insurance
+34,90019,Diabetes,3,0,Health Insurance
+33,198728,None,2,3,Health Insurance
+37,50515,Heart Disease,2,0,Health Insurance
+66,148319,Heart Disease,1,2,Health Insurance
+61,55671,Asthma,3,4,Health Insurance
+55,134047,Heart Disease,1,4,Health Insurance
+20,141745,Diabetes,5,1,Health Insurance
+67,107044,Asthma,1,3,Health Insurance
+27,45065,Heart Disease,2,2,Health Insurance
+53,177871,Heart Disease,1,2,Health Insurance
+42,67927,Heart Disease,1,5,Health Insurance
+32,194513,Diabetes,5,3,Health Insurance
+20,178661,Diabetes,2,2,Health Insurance
+64,172607,Heart Disease,4,3,Health Insurance
+27,175791,Diabetes,4,5,Health Insurance
+28,194029,Diabetes,4,0,Health Insurance
+18,197661,Diabetes,4,2,Health Insurance
+44,149245,Heart Disease,6,0,Health Insurance
+60,193856,None,2,5,Health Insurance
+18,70127,Diabetes,1,3,Health Insurance
+53,37709,Heart Disease,1,4,Health Insurance
+28,189039,None,5,4,Health Insurance
+18,80722,Heart Disease,4,2,Health Insurance
+42,85009,Heart Disease,2,4,Health Insurance
+61,23840,Diabetes,2,2,Health Insurance
+69,159577,None,5,1,Senior Citizen Plan
+48,139067,Heart Disease,3,1,Health Insurance
+68,123182,Heart Disease,6,0,Health Insurance
+64,118973,Diabetes,4,3,Health Insurance
+66,55777,None,2,2,Health Insurance
+32,82276,None,4,2,Health Insurance
+48,28060,Asthma,5,1,Health Insurance
+25,67973,Asthma,4,4,Health Insurance
+22,133022,Diabetes,1,2,Health Insurance
+63,136830,Heart Disease,6,5,Health Insurance
+49,183878,Heart Disease,6,2,Health Insurance
+55,100639,None,3,2,Health Insurance
+35,70542,Diabetes,2,5,Health Insurance
+54,55019,Asthma,2,4,Health Insurance
+60,28056,None,3,2,Health Insurance
+23,80819,None,6,5,Health Insurance
+47,51172,Asthma,6,5,Health Insurance
+47,99294,Heart Disease,3,5,Health Insurance
+41,121103,Heart Disease,4,0,Health Insurance
+63,190018,Diabetes,3,0,Health Insurance
+58,108825,Heart Disease,3,4,Health Insurance
+54,176061,Diabetes,6,4,Health Insurance
+49,133863,Diabetes,5,0,Health Insurance
+56,55197,Heart Disease,5,5,Health Insurance
+34,103743,Heart Disease,4,2,Health Insurance
+37,44018,Asthma,5,3,Health Insurance
+45,127277,Asthma,2,2,Health Insurance
+35,194507,Heart Disease,2,5,Health Insurance
+44,103291,Heart Disease,4,1,Health Insurance
+49,93039,Asthma,2,1,Health Insurance
+50,35594,Heart Disease,2,1,Health Insurance
+59,137303,None,4,0,Senior Citizen Plan
+26,92193,Diabetes,4,5,Health Insurance
+55,169384,Heart Disease,1,2,Health Insurance
+63,24766,Heart Disease,3,1,Health Insurance
+33,29983,Heart Disease,2,5,Health Insurance
+30,155267,None,5,1,Premium Life Insurance
+35,109183,Heart Disease,4,2,Health Insurance
+20,100176,None,6,3,Health Insurance
+28,140386,Asthma,5,3,Health Insurance
+23,49717,Asthma,5,0,Health Insurance
+22,112596,None,5,2,Health Insurance
+33,35272,None,6,4,Health Insurance
+46,170781,Diabetes,5,0,Health Insurance
+40,150994,Diabetes,5,2,Health Insurance
+58,31254,Asthma,6,2,Health Insurance
+23,198538,Asthma,5,2,Health Insurance
+29,191276,Diabetes,5,3,Health Insurance
+62,72084,None,3,3,Health Insurance
+20,160797,Heart Disease,6,0,Health Insurance
+31,28088,Diabetes,6,5,Health Insurance
+35,100863,Heart Disease,4,2,Health Insurance
+22,81424,Asthma,3,4,Health Insurance
+65,67946,None,4,5,Health Insurance
+55,116147,None,6,5,Health Insurance
+24,39157,Diabetes,5,0,Health Insurance
+32,156279,None,2,2,Health Insurance
+23,117194,Asthma,6,2,Health Insurance
+64,45272,Asthma,4,0,Health Insurance
+38,116178,Asthma,3,0,Health Insurance
+24,87131,None,6,3,Health Insurance
+45,122967,Asthma,2,3,Health Insurance
+35,111834,None,5,2,Health Insurance
+63,84688,Diabetes,3,0,Health Insurance
+25,98305,Heart Disease,1,3,Health Insurance
+67,93861,None,3,3,Health Insurance
+68,93763,Diabetes,5,1,Health Insurance
+67,158818,None,6,3,Health Insurance
+31,42393,None,1,1,Basic Life Insurance
+32,50623,Diabetes,6,0,Health Insurance
+64,144598,Diabetes,4,4,Health Insurance
+47,35851,Asthma,4,1,Health Insurance
+46,34165,Diabetes,2,4,Health Insurance
+60,120655,Heart Disease,3,1,Health Insurance
+23,28434,None,2,1,Basic Life Insurance
+36,120984,Asthma,2,2,Health Insurance
+64,144489,Asthma,4,5,Health Insurance
+50,128328,Asthma,2,3,Health Insurance
+38,21637,Diabetes,2,1,Health Insurance
+30,102910,None,2,3,Health Insurance
+49,185351,None,4,5,Health Insurance
+27,110509,None,3,2,Health Insurance
+56,175472,None,2,4,Health Insurance
+19,45804,Asthma,1,5,Health Insurance
+40,162139,None,2,3,Health Insurance
+67,140413,Diabetes,6,2,Health Insurance
+56,23315,None,4,0,Senior Citizen Plan
+62,28867,Asthma,3,4,Health Insurance
+46,168711,Asthma,2,4,Health Insurance
+24,167726,None,2,3,Health Insurance
+50,144424,Heart Disease,5,2,Health Insurance
+60,73641,Asthma,5,3,Health Insurance
+26,116959,Asthma,1,3,Health Insurance
+36,24421,None,4,4,Health Insurance
+53,109608,Diabetes,2,4,Health Insurance
+51,37650,Diabetes,2,3,Health Insurance
+35,160612,Diabetes,2,2,Health Insurance
+28,24389,Diabetes,3,5,Health Insurance
+35,40902,Diabetes,3,1,Health Insurance
+48,58043,Heart Disease,2,0,Health Insurance
+70,109827,None,6,1,Senior Citizen Plan
+61,133478,None,1,0,Senior Citizen Plan
+26,188582,Heart Disease,3,2,Health Insurance
+28,193357,None,2,0,Premium Life Insurance
+26,189011,Heart Disease,4,0,Health Insurance
+19,44905,Diabetes,4,1,Health Insurance
+49,56091,Heart Disease,2,3,Health Insurance
+41,65643,Asthma,3,0,Health Insurance
+28,159463,Heart Disease,4,2,Health Insurance
+26,190782,Diabetes,3,2,Health Insurance
+69,113823,Diabetes,2,2,Health Insurance
+41,145487,Heart Disease,3,0,Health Insurance
+70,21398,Heart Disease,1,3,Health Insurance
+69,169964,Asthma,4,2,Health Insurance
+48,195176,None,2,3,Health Insurance
+57,185445,None,4,1,Senior Citizen Plan
+33,25514,Heart Disease,5,2,Health Insurance
+39,105247,Heart Disease,5,4,Health Insurance
+29,73144,Heart Disease,1,3,Health Insurance
+62,47111,None,6,2,Health Insurance
+27,86251,Diabetes,1,0,Health Insurance
+61,141489,Asthma,6,2,Health Insurance
+39,37814,Heart Disease,1,5,Health Insurance
+32,74005,Asthma,5,0,Health Insurance
+41,123458,Diabetes,3,4,Health Insurance
+25,140681,Heart Disease,2,3,Health Insurance
+44,161220,Diabetes,4,0,Health Insurance
+22,28380,Heart Disease,2,3,Health Insurance
+25,161874,None,3,5,Health Insurance
+22,111756,Heart Disease,3,0,Health Insurance
+55,141276,Heart Disease,5,3,Health Insurance
+33,52720,Heart Disease,3,5,Health Insurance
+70,153855,Diabetes,3,2,Health Insurance
+35,182018,Asthma,5,3,Health Insurance
+31,185463,Heart Disease,3,4,Health Insurance
+62,184804,None,6,3,Health Insurance
+21,156108,Asthma,6,1,Health Insurance
+37,149409,None,3,0,Premium Life Insurance
+19,191593,Asthma,4,2,Health Insurance
+18,165213,Asthma,3,0,Health Insurance
+46,186563,Diabetes,1,2,Health Insurance
+20,83091,Diabetes,2,2,Health Insurance
+39,176438,None,1,5,Health Insurance
+35,156137,Diabetes,2,1,Health Insurance
+63,166261,Heart Disease,4,3,Health Insurance
+29,28534,Asthma,1,5,Health Insurance
+33,131390,Asthma,2,5,Health Insurance
+67,141248,Asthma,4,1,Health Insurance
+40,34733,Diabetes,5,2,Health Insurance
+28,148909,Heart Disease,3,2,Health Insurance
+60,45707,Heart Disease,5,3,Health Insurance
+55,142441,Diabetes,4,2,Health Insurance
+36,113775,Diabetes,5,2,Health Insurance
+54,125622,Asthma,3,3,Health Insurance
+41,161604,None,3,5,Health Insurance
+35,89568,None,1,4,Health Insurance
+70,129664,Asthma,6,0,Health Insurance
+35,161089,Asthma,5,4,Health Insurance
+57,132668,Heart Disease,4,3,Health Insurance
+58,111846,Heart Disease,2,3,Health Insurance
+62,138960,Asthma,2,0,Health Insurance
+64,115942,Heart Disease,6,2,Health Insurance
+29,96722,Heart Disease,5,5,Health Insurance
+52,154057,Diabetes,1,0,Health Insurance
+43,48871,Asthma,1,3,Health Insurance
+54,154674,None,2,3,Health Insurance
+20,147294,Heart Disease,2,4,Health Insurance
+45,193184,Asthma,3,1,Health Insurance
+66,41269,None,5,4,Health Insurance
+39,20072,Heart Disease,2,3,Health Insurance
+67,63030,Heart Disease,2,2,Health Insurance
+26,91212,Diabetes,5,0,Health Insurance
+68,110327,Diabetes,2,4,Health Insurance
+46,64606,Heart Disease,2,5,Health Insurance
+66,73367,Asthma,1,0,Health Insurance
+48,89587,Diabetes,1,4,Health Insurance
+25,165323,Heart Disease,5,0,Health Insurance
+33,151466,None,5,0,Premium Life Insurance
+38,193205,Heart Disease,6,0,Health Insurance
+46,63506,Asthma,6,3,Health Insurance
+33,134163,Diabetes,5,3,Health Insurance
+57,47503,Asthma,4,0,Health Insurance
+55,37919,Asthma,4,0,Health Insurance
+51,105810,Asthma,6,3,Health Insurance
+48,100658,Diabetes,6,3,Health Insurance
+25,161147,Asthma,3,4,Health Insurance
+40,183423,Asthma,6,3,Health Insurance
+25,176836,None,3,4,Health Insurance
+34,99456,Heart Disease,5,5,Health Insurance
+46,146417,None,4,2,Health Insurance
+48,40952,None,1,4,Health Insurance
+64,86074,Asthma,3,4,Health Insurance
+35,52873,None,2,4,Health Insurance
+27,180005,Diabetes,3,3,Health Insurance
+31,147718,Heart Disease,6,5,Health Insurance
+29,193313,None,4,4,Health Insurance
+46,149617,Asthma,2,1,Health Insurance
+19,128936,None,2,0,Premium Life Insurance
+28,120567,Diabetes,6,0,Health Insurance
+48,157649,None,5,3,Health Insurance
+49,106628,Heart Disease,4,5,Health Insurance
+29,99937,Asthma,5,5,Health Insurance
+67,56162,Heart Disease,2,2,Health Insurance
+62,184680,Asthma,6,0,Health Insurance
+65,107666,Asthma,2,0,Health Insurance
+36,199435,Diabetes,5,1,Health Insurance
+25,192582,Diabetes,2,1,Health Insurance
+40,77991,Diabetes,4,0,Health Insurance
+28,25243,None,1,4,Health Insurance
+52,167747,Asthma,3,2,Health Insurance
+29,47990,Diabetes,1,5,Health Insurance
+49,27965,Diabetes,4,0,Health Insurance
+61,97131,Asthma,5,5,Health Insurance
+51,124806,Asthma,5,0,Health Insurance
+67,164756,Diabetes,1,4,Health Insurance
+65,44798,None,5,2,Health Insurance
+64,121165,Diabetes,5,5,Health Insurance
+33,74578,Diabetes,5,4,Health Insurance
+69,162612,None,5,3,Health Insurance
+19,96683,Asthma,1,1,Health Insurance
+33,39351,Asthma,1,1,Health Insurance
+59,73446,Asthma,6,2,Health Insurance
+63,154131,None,6,2,Health Insurance
+59,29492,Asthma,1,2,Health Insurance
+37,165272,Heart Disease,6,5,Health Insurance
+60,117667,Diabetes,4,4,Health Insurance
+64,112641,Asthma,4,2,Health Insurance
+42,67694,None,5,2,Health Insurance
+44,127282,Diabetes,3,0,Health Insurance
+45,148245,Heart Disease,5,3,Health Insurance
+67,35648,Heart Disease,1,5,Health Insurance
+66,32044,Asthma,1,5,Health Insurance
+49,163036,None,4,5,Health Insurance
+58,163362,None,5,1,Senior Citizen Plan
+41,32735,Asthma,2,3,Health Insurance
+46,100687,Asthma,6,3,Health Insurance
+60,83102,Diabetes,6,0,Health Insurance
+48,86620,Heart Disease,4,5,Health Insurance
+40,177450,Diabetes,6,2,Health Insurance
+44,128679,Diabetes,3,2,Health Insurance
+18,108638,None,4,4,Health Insurance
+54,38986,Diabetes,1,5,Health Insurance
+54,65300,None,3,0,Senior Citizen Plan
+25,191331,Diabetes,3,3,Health Insurance
+58,39427,Diabetes,2,2,Health Insurance
+47,56836,Heart Disease,4,3,Health Insurance
+38,42274,Heart Disease,5,0,Health Insurance
+56,165957,None,4,2,Health Insurance
+62,138114,Diabetes,5,2,Health Insurance
+54,87573,None,1,3,Health Insurance
+19,159440,Heart Disease,4,0,Health Insurance
+28,191829,Diabetes,4,3,Health Insurance
+49,37312,Heart Disease,2,4,Health Insurance
+41,111813,Asthma,1,0,Health Insurance
+57,169990,Diabetes,1,2,Health Insurance
+62,33715,Diabetes,3,0,Health Insurance
+21,54512,Heart Disease,4,4,Health Insurance
+63,140174,None,6,5,Health Insurance
+27,196723,Asthma,2,5,Health Insurance
+26,183208,Asthma,2,3,Health Insurance
+36,103490,Diabetes,2,0,Health Insurance
+35,86821,Diabetes,4,0,Health Insurance
+23,162762,Asthma,2,2,Health Insurance
+53,31203,Asthma,3,1,Health Insurance
+56,38272,None,4,3,Health Insurance
+24,43852,Heart Disease,5,3,Health Insurance
+50,197694,Heart Disease,6,3,Health Insurance
+36,76242,Heart Disease,4,2,Health Insurance
+58,54434,Asthma,3,3,Health Insurance
+18,199668,Diabetes,3,3,Health Insurance
+46,189859,None,4,1,Premium Life Insurance
+54,82054,Heart Disease,1,5,Health Insurance
+26,80028,Asthma,6,1,Health Insurance
+31,189510,Diabetes,4,1,Health Insurance
+22,142364,Heart Disease,1,0,Health Insurance
+23,189421,Diabetes,4,3,Health Insurance
+34,128213,Heart Disease,1,5,Health Insurance
+36,124628,Asthma,4,4,Health Insurance
+58,89990,None,1,2,Health Insurance
+39,36989,Heart Disease,5,3,Health Insurance
+28,20676,None,3,2,Health Insurance
+29,173999,Diabetes,4,3,Health Insurance
+46,176073,Diabetes,6,1,Health Insurance
+62,141455,Asthma,4,0,Health Insurance
+24,60296,Heart Disease,1,3,Health Insurance
+32,174558,Heart Disease,2,5,Health Insurance
+59,64955,Asthma,5,5,Health Insurance
+50,79160,Heart Disease,3,5,Health Insurance
+65,170688,Diabetes,6,0,Health Insurance
+70,80375,Asthma,6,2,Health Insurance
+25,127466,Heart Disease,5,0,Health Insurance
+19,178326,Heart Disease,3,2,Health Insurance
+38,67420,Heart Disease,4,0,Health Insurance
+22,106672,Diabetes,5,1,Health Insurance
+67,174175,Heart Disease,1,2,Health Insurance
+52,109022,Asthma,5,2,Health Insurance
+22,187987,Asthma,6,5,Health Insurance
+21,49290,None,3,5,Health Insurance
+56,82735,None,5,4,Health Insurance
+50,54620,Heart Disease,5,5,Health Insurance
+55,187566,None,3,0,Senior Citizen Plan
+62,94228,Asthma,1,0,Health Insurance
+44,59637,Asthma,1,5,Health Insurance
+39,182668,Asthma,2,2,Health Insurance
+57,115673,Diabetes,1,2,Health Insurance
+47,106138,Asthma,2,0,Health Insurance
+35,51130,None,6,4,Health Insurance
+51,42222,Asthma,5,3,Health Insurance
+44,195721,Diabetes,6,1,Health Insurance
+48,184971,Asthma,3,1,Health Insurance
+31,172992,None,6,3,Health Insurance
+47,83940,Asthma,5,0,Health Insurance
+22,157193,Diabetes,1,2,Health Insurance
+31,98465,None,3,3,Health Insurance
+19,199239,Diabetes,6,2,Health Insurance
+51,148168,None,5,1,Senior Citizen Plan
+57,28363,Heart Disease,1,1,Health Insurance
+45,43233,None,6,5,Health Insurance
+62,195969,Heart Disease,6,2,Health Insurance
+68,152824,Diabetes,4,2,Health Insurance
+30,42016,Diabetes,6,0,Health Insurance
+33,106042,Heart Disease,6,3,Health Insurance
+57,42710,Asthma,6,1,Health Insurance
+54,88479,Heart Disease,2,0,Health Insurance
+49,137800,Diabetes,1,4,Health Insurance
+26,84023,None,5,5,Health Insurance
+68,180991,None,4,0,Senior Citizen Plan
+63,79599,None,2,3,Health Insurance
+33,174966,Diabetes,2,0,Health Insurance
+44,33597,Heart Disease,3,2,Health Insurance
+35,188700,None,3,4,Health Insurance
+69,23359,None,5,5,Health Insurance
+38,55647,Diabetes,3,1,Health Insurance
+66,37273,Heart Disease,1,0,Health Insurance
+34,109176,Diabetes,1,1,Health Insurance
+54,44223,Heart Disease,4,1,Health Insurance
+45,181202,Asthma,1,5,Health Insurance
+31,26206,Asthma,3,1,Health Insurance
+62,76852,None,2,0,Senior Citizen Plan
+53,63574,Diabetes,5,0,Health Insurance
+57,103863,Asthma,4,0,Health Insurance
+64,136202,None,1,2,Health Insurance
+31,34511,None,2,1,Basic Life Insurance
+40,92210,None,6,5,Health Insurance
+26,183800,None,3,1,Premium Life Insurance
+62,22182,Diabetes,5,1,Health Insurance
+18,71568,None,3,3,Health Insurance
+42,101099,None,1,3,Health Insurance
+54,77717,Asthma,2,0,Health Insurance
+66,149007,None,4,5,Health Insurance
+25,42334,Asthma,5,2,Health Insurance
+26,104830,Heart Disease,3,0,Health Insurance
+23,164088,None,2,1,Premium Life Insurance
+53,95692,None,5,1,Senior Citizen Plan
+22,85387,Heart Disease,6,3,Health Insurance
+29,134653,Asthma,4,4,Health Insurance
+35,191201,None,3,3,Health Insurance
+46,198235,Asthma,2,1,Health Insurance
+65,21953,Asthma,3,2,Health Insurance
+33,62075,None,1,0,Basic Life Insurance
+30,38570,Asthma,2,3,Health Insurance
+22,126831,Asthma,3,0,Health Insurance
+41,177802,Diabetes,4,1,Health Insurance
+70,159038,Heart Disease,1,3,Health Insurance
+41,77723,Heart Disease,6,3,Health Insurance
+41,116242,Diabetes,1,4,Health Insurance
+37,196843,Diabetes,5,2,Health Insurance
+52,181918,Asthma,3,5,Health Insurance
+44,188173,Diabetes,5,2,Health Insurance
+49,109433,Asthma,5,1,Health Insurance
+28,33195,None,4,5,Health Insurance
+58,115920,Heart Disease,5,2,Health Insurance
+60,181290,Heart Disease,1,2,Health Insurance
+28,162103,None,4,4,Health Insurance
+62,127801,Heart Disease,5,5,Health Insurance
+23,35477,Heart Disease,2,1,Health Insurance
+58,116863,Diabetes,5,2,Health Insurance
+30,101761,None,3,2,Health Insurance
+70,153363,None,4,1,Senior Citizen Plan
+51,34274,None,6,0,Senior Citizen Plan
+56,44446,Diabetes,3,3,Health Insurance
+55,54119,Heart Disease,1,5,Health Insurance
+21,80401,Asthma,3,5,Health Insurance
+53,171531,Heart Disease,2,4,Health Insurance
+21,149666,Asthma,2,4,Health Insurance
+38,107899,Diabetes,3,2,Health Insurance
+18,196224,Heart Disease,3,2,Health Insurance
+56,153256,Heart Disease,5,2,Health Insurance
+48,100513,Diabetes,5,4,Health Insurance
+22,109005,Diabetes,2,2,Health Insurance
+60,72200,Asthma,5,0,Health Insurance
+65,149413,None,5,0,Senior Citizen Plan
+21,30256,None,3,2,Health Insurance
+48,73019,None,5,3,Health Insurance
+32,61627,Heart Disease,2,3,Health Insurance
+56,178366,Diabetes,6,5,Health Insurance
+54,164554,Asthma,2,1,Health Insurance
+18,65629,Heart Disease,3,2,Health Insurance
+46,173984,Diabetes,4,3,Health Insurance
+48,81997,Asthma,4,4,Health Insurance
+33,128720,None,5,2,Health Insurance
+20,118244,Diabetes,5,0,Health Insurance
+51,24660,Heart Disease,1,1,Health Insurance
+54,20889,Heart Disease,5,2,Health Insurance
+46,89078,None,5,4,Health Insurance
+26,93138,Diabetes,1,0,Health Insurance
+55,39269,Asthma,3,5,Health Insurance
+23,199760,None,6,5,Health Insurance
+52,161418,Heart Disease,2,1,Health Insurance
+43,23153,Heart Disease,5,5,Health Insurance
+58,191525,Asthma,3,0,Health Insurance
+53,159036,Diabetes,4,4,Health Insurance
+35,29828,Diabetes,1,5,Health Insurance
+56,171433,Asthma,2,0,Health Insurance
+65,86323,Heart Disease,2,1,Health Insurance
+30,69282,Asthma,1,3,Health Insurance
+38,133268,Diabetes,1,3,Health Insurance
+25,164129,Diabetes,1,3,Health Insurance
+28,95928,Asthma,3,1,Health Insurance
+46,52967,Heart Disease,5,3,Health Insurance
+25,27141,Heart Disease,6,4,Health Insurance
+61,155683,Diabetes,3,5,Health Insurance
+51,61201,Heart Disease,4,1,Health Insurance
+22,189090,None,1,5,Health Insurance
+55,140131,Diabetes,6,0,Health Insurance
+55,187884,Heart Disease,4,2,Health Insurance
+47,54573,Diabetes,4,1,Health Insurance
+28,195758,Asthma,4,3,Health Insurance
+52,162802,Diabetes,4,4,Health Insurance
+59,112831,None,5,5,Health Insurance
+34,102019,Asthma,5,0,Health Insurance
+61,30536,Diabetes,6,1,Health Insurance
+28,167695,Asthma,2,0,Health Insurance
+31,78258,Heart Disease,5,2,Health Insurance
+46,160277,None,2,5,Health Insurance
+54,26904,Heart Disease,4,4,Health Insurance
+69,66431,Diabetes,3,0,Health Insurance
+22,99817,Diabetes,3,5,Health Insurance
+63,21370,Heart Disease,1,0,Health Insurance
+70,164243,Asthma,6,2,Health Insurance
+49,75914,Heart Disease,2,1,Health Insurance
+21,60631,Heart Disease,3,5,Health Insurance
+64,188080,Asthma,1,0,Health Insurance
+31,177335,Asthma,2,2,Health Insurance
+33,188409,Asthma,2,1,Health Insurance
+25,114819,Asthma,5,5,Health Insurance
+62,110737,Asthma,6,2,Health Insurance
+27,36723,Heart Disease,1,1,Health Insurance
+39,71747,Heart Disease,4,0,Health Insurance
+68,47184,Heart Disease,3,5,Health Insurance
+37,84878,None,5,3,Health Insurance
+67,194079,Heart Disease,5,3,Health Insurance
+52,22051,Diabetes,4,5,Health Insurance
+58,56889,None,1,1,Senior Citizen Plan
+20,127007,Diabetes,4,4,Health Insurance
+35,186348,None,6,0,Premium Life Insurance
+28,92301,Heart Disease,2,5,Health Insurance
+33,29548,Asthma,5,4,Health Insurance
+49,134596,Diabetes,5,1,Health Insurance
+28,52956,None,2,1,Basic Life Insurance
+47,22905,None,3,3,Health Insurance
+59,37730,Diabetes,5,1,Health Insurance
+62,158082,Heart Disease,6,0,Health Insurance
+25,123863,Asthma,3,3,Health Insurance
+38,110958,Diabetes,5,3,Health Insurance
+37,119488,None,5,2,Health Insurance
+48,26520,Diabetes,3,3,Health Insurance
+41,114604,Heart Disease,3,3,Health Insurance
+45,53801,None,1,2,Health Insurance
+55,143460,Heart Disease,5,2,Health Insurance
+33,187404,Heart Disease,1,1,Health Insurance
+36,52191,Asthma,1,2,Health Insurance
+60,130002,None,2,2,Health Insurance
+57,42098,Heart Disease,6,4,Health Insurance
+61,191739,Diabetes,2,5,Health Insurance
+22,50365,Diabetes,1,4,Health Insurance
+32,26224,None,4,5,Health Insurance
+49,81674,Diabetes,6,3,Health Insurance
+68,191052,Heart Disease,5,0,Health Insurance
+69,82240,Heart Disease,3,1,Health Insurance
+20,92383,Diabetes,5,4,Health Insurance
+62,56487,Heart Disease,1,3,Health Insurance
+50,93594,Diabetes,4,2,Health Insurance
+58,195212,None,5,1,Senior Citizen Plan
+45,122555,Asthma,5,1,Health Insurance
+54,68890,Asthma,2,2,Health Insurance
+30,115811,Asthma,2,3,Health Insurance
+62,86152,Asthma,4,5,Health Insurance
+64,127594,None,3,2,Health Insurance
+23,152671,Diabetes,4,2,Health Insurance
+28,22809,Asthma,5,3,Health Insurance
+23,37731,None,1,3,Health Insurance
+32,177925,Asthma,1,1,Health Insurance
+37,182055,Asthma,1,5,Health Insurance
+26,151589,Heart Disease,2,5,Health Insurance
+70,27941,Heart Disease,2,3,Health Insurance
+62,64827,Heart Disease,1,0,Health Insurance
+68,90049,Diabetes,1,3,Health Insurance
+20,194968,Heart Disease,3,5,Health Insurance
+61,194754,Heart Disease,6,4,Health Insurance
+20,191451,None,5,4,Health Insurance
+50,71507,Heart Disease,4,0,Health Insurance
+61,124215,Diabetes,1,5,Health Insurance
+51,116330,None,1,5,Health Insurance
+65,169505,Heart Disease,2,3,Health Insurance
+56,34044,None,6,0,Senior Citizen Plan
+39,119155,Asthma,1,2,Health Insurance
+41,145607,Heart Disease,4,2,Health Insurance
+23,21443,Diabetes,2,4,Health Insurance
+40,147193,Asthma,1,4,Health Insurance
+18,165028,Diabetes,5,0,Health Insurance
+47,62760,Diabetes,4,0,Health Insurance
+41,126629,Diabetes,1,3,Health Insurance
+50,93754,Asthma,1,4,Health Insurance
+70,59378,Asthma,6,0,Health Insurance
+31,82490,None,4,0,Premium Life Insurance
+39,47195,Heart Disease,6,0,Health Insurance
+46,168449,None,2,0,Premium Life Insurance
+59,91958,Heart Disease,3,0,Health Insurance
+58,141725,Diabetes,6,0,Health Insurance
+35,91514,Heart Disease,3,5,Health Insurance
+29,118897,Diabetes,2,2,Health Insurance
+43,29690,None,2,4,Health Insurance
+34,161174,None,6,0,Premium Life Insurance
+19,137172,Heart Disease,3,5,Health Insurance
+55,33110,Asthma,6,1,Health Insurance
+49,133179,Asthma,4,3,Health Insurance
+25,97860,None,2,2,Health Insurance
+35,191346,Diabetes,6,1,Health Insurance
+59,199211,Diabetes,1,5,Health Insurance
+45,132557,Diabetes,1,0,Health Insurance
+35,188979,Diabetes,6,2,Health Insurance
+70,23920,Heart Disease,4,5,Health Insurance
+39,162410,Asthma,5,1,Health Insurance
+44,153990,Heart Disease,4,5,Health Insurance
+60,59613,Heart Disease,4,1,Health Insurance
+30,146890,Diabetes,4,0,Health Insurance
+44,151304,None,5,1,Premium Life Insurance
+64,155706,Heart Disease,5,1,Health Insurance
+65,114297,Diabetes,4,5,Health Insurance
+59,64776,Heart Disease,1,2,Health Insurance
+70,143011,Diabetes,2,2,Health Insurance
+47,112111,None,4,1,Premium Life Insurance
+18,85866,Heart Disease,1,4,Health Insurance
+69,113040,Diabetes,4,1,Health Insurance
+24,194497,Asthma,4,2,Health Insurance
+57,50330,Diabetes,6,2,Health Insurance
+48,131450,Heart Disease,6,2,Health Insurance
+44,178740,None,3,2,Health Insurance
+54,138502,Asthma,3,3,Health Insurance
+37,173796,Asthma,2,3,Health Insurance
+55,34059,Asthma,4,3,Health Insurance
+42,189132,Heart Disease,1,1,Health Insurance
+63,153973,Diabetes,2,1,Health Insurance
+48,151416,None,4,0,Premium Life Insurance
+69,176406,Diabetes,1,5,Health Insurance
+61,47368,Asthma,1,3,Health Insurance
+69,47003,None,3,4,Health Insurance
+57,176022,None,1,3,Health Insurance
+31,120194,Diabetes,2,1,Health Insurance
+54,181926,Diabetes,5,5,Health Insurance
+19,95603,Asthma,4,1,Health Insurance
+49,49405,Asthma,3,2,Health Insurance
+47,136032,Asthma,6,4,Health Insurance
+28,163651,Heart Disease,5,4,Health Insurance
+35,95929,Diabetes,5,1,Health Insurance
+46,192962,None,6,0,Premium Life Insurance
+37,75876,Heart Disease,6,4,Health Insurance
+59,126588,None,4,4,Health Insurance
+50,35647,Diabetes,2,5,Health Insurance
+20,91278,Asthma,5,0,Health Insurance
+51,96415,Heart Disease,3,5,Health Insurance
+66,110922,Asthma,3,5,Health Insurance
+18,158439,None,3,4,Health Insurance
+47,75355,Heart Disease,3,0,Health Insurance
+60,80886,Heart Disease,5,1,Health Insurance
+56,21519,Asthma,5,5,Health Insurance
+64,89037,Asthma,4,1,Health Insurance
+23,173520,Diabetes,6,2,Health Insurance
+42,171760,Diabetes,4,5,Health Insurance
+70,147639,Asthma,4,4,Health Insurance
+21,97219,Asthma,4,3,Health Insurance
+68,25585,None,2,2,Health Insurance
+27,83704,Asthma,4,3,Health Insurance
+26,35907,Heart Disease,5,2,Health Insurance
+44,98588,Asthma,5,1,Health Insurance
+48,131705,Diabetes,2,5,Health Insurance
+19,106697,Heart Disease,6,4,Health Insurance
+28,135773,Diabetes,3,4,Health Insurance
+18,49133,Asthma,5,0,Health Insurance
+27,47820,Asthma,3,0,Health Insurance
+24,134752,Asthma,5,5,Health Insurance
+26,94810,Asthma,4,3,Health Insurance
+26,140435,Asthma,5,3,Health Insurance
+24,101264,None,3,0,Premium Life Insurance
+23,127139,None,5,5,Health Insurance
+20,181868,None,6,0,Premium Life Insurance
+66,50273,Asthma,6,5,Health Insurance
+61,121562,Heart Disease,4,3,Health Insurance
+27,35948,Heart Disease,5,1,Health Insurance
+36,95104,Heart Disease,3,5,Health Insurance

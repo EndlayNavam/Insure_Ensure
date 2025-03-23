@@ -1,0 +1,222 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+/* Header */
+header {
+  background: #ff4d4d;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 24px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Features Section */
+.features-section {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.features-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.feature {
+  background: white;
+  padding: 20px;
+  width: 220px; /* Fixed width for equal size */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: transform 0.3s;
+}
+
+.feature:hover {
+  transform: translateY(-5px);
+}
+
+/* Image Styling */
+.feature img {
+  width: 80px;  /* Adjust image size */
+  height: 80px;
+  object-fit: contain; /* Prevents stretching */
+  margin-bottom: 10px;
+}
+
+/* Button Section */
+.policy-section {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.policy-btn {
+  background: #ff4d4d;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+}
+.feature-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.feature-link .feature {
+  transition: transform 0.2s ease-in-out;
+}
+
+.feature-link .feature:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+/* General Styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffe6e6; /* Light pink background */
+  color: #333;
+}
+
+/* Header */
+header {
+  background: #ff4d4d;
+  color: white;
+  padding: 15px 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Features Section */
+.features-section {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.features-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.feature {
+  background: white;
+  padding: 20px;
+  width: 220px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  transition: transform 0.3s;
+  font-weight: bold;
+}
+
+.feature:hover {
+  transform: translateY(-5px);
+}
+
+/* Image Styling */
+.feature img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #333;
+  color: white;
+  margin-top: 20px;
+}
+
+.policy-btn:hover {
+  background: #e60000;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #333;
+  color: white;
+  margin-top: 20px;
+}
+
+.policy-btn, .back-btn {
+  display: inline-block;
+  background-color: #ff4d4d;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.policy-btn:hover, .back-btn:hover {
+  background-color: #e60000;
+}
+
+/* Center Button */
+.policy-section {
+  text-align: center;
+  margin-top: 30px;
+}
+
+header .back-btn {
+  display: block;
+  margin-top: 10px;
+}

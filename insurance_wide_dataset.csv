@@ -1,0 +1,1001 @@
+ID,Age,Income,Family Size,Employment Type,Health Conditions,Existing Policy,Past Claims,Claim Amount,Claim Approved,Reimbursement Time (Days),Claim Success Rate (%),Customer Satisfaction,Recommended Policy
+1,37,161036,3,Self-Employed,Hypertension,Travel,3,182830,Yes,13,96,4,Health Insurance
+2,57,26816,1,Unemployed,Diabetes,Motor,1,9393,No,18,62,4.8,Health Insurance
+3,79,154599,3,Retired,Diabetes,Home,5,5207,Yes,28,90,4.3,Health Insurance
+4,55,189006,2,Govt Job,Asthma,Health,4,197625,Yes,13,75,4.2,Health Insurance
+5,63,95883,3,Unemployed,Hypertension,Business,3,139557,Yes,9,66,4.7,Health Insurance
+6,55,157195,4,Self-Employed,Diabetes,Senior Citizen,5,195558,Yes,12,83,4.6,Health Insurance
+7,52,138522,2,Retired,Asthma,Home,3,172863,Yes,15,66,4.1,Health Insurance
+8,74,94934,1,Retired,None,Home,3,77748,Yes,9,77,3.9,Health Insurance
+9,59,43431,3,Unemployed,None,Senior Citizen,1,74304,Yes,18,68,4.1,Senior Citizen Plan
+10,48,29529,3,Unemployed,Asthma,Travel,3,50017,Yes,17,60,4.8,Health Insurance
+11,59,27380,1,Retired,Hypertension,Life,2,138578,Yes,24,54,3.5,Health Insurance
+12,63,28082,3,Govt Job,Asthma,Senior Citizen,1,62738,Yes,14,87,2.8,Health Insurance
+13,47,153796,3,Govt Job,Cancer,Senior Citizen,5,184757,Yes,29,94,2.8,Health Insurance
+14,37,116728,1,Unemployed,None,Home,1,124520,Yes,11,52,4.2,Premium Life Insurance
+15,42,98407,1,Private Job,Asthma,Life,5,163394,Yes,23,58,2.8,Health Insurance
+16,27,122549,2,Self-Employed,Diabetes,Travel,3,128016,Yes,15,54,4.4,Health Insurance
+17,72,123098,6,Govt Job,Asthma,Senior Citizen,4,16033,No,8,61,2.8,Health Insurance
+18,42,55699,5,Govt Job,Asthma,Home,2,167834,Yes,17,62,3.5,Health Insurance
+19,79,130102,6,Private Job,None,Health,5,142294,Yes,30,83,2.8,Health Insurance
+20,53,170590,1,Self-Employed,None,Home,2,191087,Yes,5,64,3.6,Senior Citizen Plan
+21,43,42900,4,Self-Employed,Hypertension,Life,4,123246,Yes,18,71,4.7,Health Insurance
+22,46,71596,4,Self-Employed,Asthma,Health,3,130019,Yes,22,86,4.7,Health Insurance
+23,80,143792,1,Unemployed,Cancer,Health,4,175117,No,11,62,3.7,Health Insurance
+24,23,54467,4,Self-Employed,Diabetes,None,1,10310,Yes,19,64,4.1,Health Insurance
+25,65,62318,3,Self-Employed,Diabetes,Health,3,14767,Yes,9,62,4.6,Health Insurance
+26,56,152261,4,Retired,Hypertension,Senior Citizen,5,38749,Yes,15,63,3.5,Health Insurance
+27,31,145028,6,Private Job,None,Health,1,39129,Yes,28,95,4.7,Premium Life Insurance
+28,37,51888,6,Self-Employed,Diabetes,Life,0,193334,Yes,27,93,3.3,Health Insurance
+29,28,51512,5,Private Job,Diabetes,Business,4,19386,Yes,20,99,4.4,Health Insurance
+30,63,162054,3,Private Job,Diabetes,Business,5,60142,Yes,15,62,4.5,Health Insurance
+31,51,24047,5,Unemployed,None,Motor,0,112842,Yes,5,55,3.7,Senior Citizen Plan
+32,30,50536,6,Retired,Heart Disease,Travel,4,110793,Yes,16,75,3.3,Health Insurance
+33,79,129605,6,Unemployed,Asthma,Business,4,184838,Yes,16,87,4,Health Insurance
+34,39,191759,4,Unemployed,None,Home,4,48758,No,11,93,2.7,Health Insurance
+35,46,166234,4,Unemployed,Cancer,Home,1,150827,Yes,9,64,2.7,Health Insurance
+36,60,97495,2,Retired,Heart Disease,Travel,4,83517,No,9,73,4.2,Health Insurance
+37,33,178060,6,Self-Employed,None,Motor,2,170848,No,5,65,4.8,Premium Life Insurance
+38,62,119433,6,Private Job,Heart Disease,Travel,3,168277,Yes,8,84,3.6,Health Insurance
+39,39,50212,4,Self-Employed,Heart Disease,Travel,3,143827,Yes,16,56,4.1,Health Insurance
+40,80,68193,3,Private Job,Cancer,Senior Citizen,1,130519,Yes,10,100,3.7,Health Insurance
+41,77,177555,1,Govt Job,Asthma,Senior Citizen,0,112023,Yes,10,90,3.3,Health Insurance
+42,29,87465,1,Retired,Diabetes,Health,3,65444,No,7,99,4.5,Health Insurance
+43,25,67350,4,Govt Job,Asthma,Health,5,36541,Yes,10,69,3.8,Health Insurance
+44,78,148711,1,Govt Job,Heart Disease,Health,3,127734,Yes,29,87,3.6,Health Insurance
+45,33,114742,3,Govt Job,Cancer,Senior Citizen,3,25749,Yes,11,62,2.7,Health Insurance
+46,32,37549,5,Govt Job,None,Health,0,40055,No,29,89,2.9,Basic Life Insurance
+47,29,72285,5,Govt Job,None,Business,1,193852,Yes,7,90,4.2,Basic Life Insurance
+48,28,130748,6,Unemployed,None,Life,4,57756,No,18,69,2.6,Health Insurance
+49,29,194552,2,Private Job,Heart Disease,Senior Citizen,4,48213,No,22,97,4.4,Health Insurance
+50,18,83017,1,Retired,Diabetes,Health,2,18289,Yes,6,72,3.8,Health Insurance
+51,53,118419,3,Retired,None,Home,1,140529,No,11,74,2.7,Senior Citizen Plan
+52,68,83319,5,Unemployed,Cancer,Life,4,176564,Yes,14,91,3.9,Health Insurance
+53,40,91902,5,Self-Employed,None,Senior Citizen,2,159241,Yes,16,62,3.1,Premium Life Insurance
+54,60,144975,5,Retired,None,None,5,44159,Yes,26,83,4.4,Health Insurance
+55,22,92513,5,Govt Job,Diabetes,Business,1,28281,Yes,15,97,4,Health Insurance
+56,71,51387,3,Private Job,Heart Disease,Senior Citizen,0,111751,Yes,23,52,4.8,Health Insurance
+57,30,156749,6,Govt Job,Asthma,Home,3,37376,Yes,22,76,3.4,Health Insurance
+58,71,22466,1,Unemployed,Diabetes,Life,4,108878,Yes,26,98,3,Health Insurance
+59,32,22852,4,Govt Job,Heart Disease,Senior Citizen,4,183326,Yes,15,69,4.5,Health Insurance
+60,76,167483,4,Retired,None,Motor,4,50304,Yes,7,52,3.4,Health Insurance
+61,67,189800,4,Unemployed,Asthma,Travel,0,54593,Yes,17,100,2.7,Health Insurance
+62,28,35327,3,Self-Employed,Diabetes,Travel,4,165247,Yes,26,89,2.6,Health Insurance
+63,39,34761,5,Private Job,Asthma,Business,4,154633,Yes,10,58,4.6,Health Insurance
+64,51,69891,1,Unemployed,None,Business,4,67355,Yes,30,72,3.6,Health Insurance
+65,76,109613,5,Self-Employed,Asthma,Motor,5,138390,Yes,23,94,4,Health Insurance
+66,19,199588,3,Private Job,Cancer,Business,1,163348,Yes,11,59,3.1,Health Insurance
+67,69,131558,5,Self-Employed,None,Health,0,162335,Yes,30,75,3.2,Senior Citizen Plan
+68,43,129157,3,Govt Job,Asthma,Motor,2,171263,Yes,9,73,4.8,Health Insurance
+69,23,73132,4,Private Job,Diabetes,Motor,5,120684,No,12,71,4.6,Health Insurance
+70,45,22883,5,Retired,Diabetes,Health,1,146624,Yes,27,60,3.4,Health Insurance
+71,73,87875,1,Retired,Cancer,None,2,35275,Yes,19,61,3.5,Health Insurance
+72,30,158285,2,Retired,None,Motor,4,162561,Yes,5,82,2.9,Health Insurance
+73,67,65761,5,Private Job,Cancer,None,4,188425,No,28,71,4.6,Health Insurance
+74,23,139488,5,Self-Employed,None,Home,4,22979,Yes,10,99,3.2,Health Insurance
+75,66,91879,1,Unemployed,Heart Disease,Business,4,143294,Yes,14,51,3.2,Health Insurance
+76,66,191119,5,Self-Employed,None,Senior Citizen,3,101382,Yes,14,65,4.5,Health Insurance
+77,40,90856,1,Govt Job,Heart Disease,Travel,4,159016,No,13,93,4.7,Health Insurance
+78,78,75558,6,Self-Employed,Heart Disease,Business,3,27033,Yes,7,85,4.9,Health Insurance
+79,50,116119,2,Govt Job,Cancer,Senior Citizen,4,151452,Yes,28,68,5,Health Insurance
+80,76,54423,1,Retired,Diabetes,Business,3,82970,Yes,23,79,3,Health Insurance
+81,67,194536,4,Self-Employed,Hypertension,None,5,163270,Yes,23,62,3.1,Health Insurance
+82,53,166754,1,Unemployed,Cancer,Senior Citizen,2,12340,Yes,17,81,4.6,Health Insurance
+83,68,80635,5,Self-Employed,None,Motor,1,27086,Yes,29,61,4.7,Senior Citizen Plan
+84,28,158459,1,Retired,None,None,3,61435,No,11,84,4.3,Health Insurance
+85,43,94180,1,Retired,Asthma,Life,3,43622,Yes,13,55,2.6,Health Insurance
+86,55,160850,2,Govt Job,None,Motor,1,148043,Yes,26,99,4.1,Senior Citizen Plan
+87,33,150422,5,Private Job,None,None,0,119803,No,23,86,4.2,Premium Life Insurance
+88,33,189139,6,Govt Job,Cancer,Senior Citizen,2,148614,Yes,29,96,3.8,Health Insurance
+89,49,131461,4,Self-Employed,Cancer,Home,1,12003,No,24,81,2.7,Health Insurance
+90,71,194178,1,Govt Job,Diabetes,Business,3,56448,Yes,12,73,2.6,Health Insurance
+91,74,127820,4,Retired,Diabetes,Life,5,109500,Yes,13,80,3.9,Health Insurance
+92,78,20039,1,Self-Employed,None,Travel,1,96718,Yes,22,60,3,Senior Citizen Plan
+93,38,194142,4,Govt Job,Cancer,Business,1,60631,Yes,23,69,4.5,Health Insurance
+94,20,68116,2,Self-Employed,Hypertension,Travel,0,92264,No,15,66,3.7,Health Insurance
+95,65,131915,3,Private Job,Hypertension,Life,1,91589,No,18,94,4.6,Health Insurance
+96,59,160773,2,Retired,None,Travel,3,40258,Yes,16,74,3,Health Insurance
+97,48,197500,6,Govt Job,None,Life,0,139274,Yes,12,60,3,Premium Life Insurance
+98,44,172531,3,Retired,Hypertension,Home,4,131410,No,19,66,2.6,Health Insurance
+99,74,196845,2,Govt Job,Hypertension,Health,0,106926,Yes,15,51,3.8,Health Insurance
+100,73,107012,5,Retired,Asthma,Travel,4,58961,Yes,13,96,3,Health Insurance
+101,44,88370,4,Unemployed,Cancer,Business,0,184010,Yes,23,95,3,Health Insurance
+102,75,57395,2,Unemployed,None,Life,5,120415,No,11,67,4.7,Health Insurance
+103,34,129249,6,Govt Job,Heart Disease,Life,4,169672,Yes,19,78,4.6,Health Insurance
+104,73,149511,2,Self-Employed,Heart Disease,Home,1,172252,No,30,83,4.1,Health Insurance
+105,62,87577,5,Unemployed,None,None,5,196875,Yes,13,59,4.9,Health Insurance
+106,22,29500,4,Retired,Hypertension,Business,2,135317,Yes,15,85,4.3,Health Insurance
+107,20,70562,6,Retired,Asthma,Health,4,55270,Yes,23,90,3.2,Health Insurance
+108,41,39430,2,Retired,Cancer,Home,4,157787,Yes,10,82,3.7,Health Insurance
+109,50,178230,1,Private Job,Asthma,Health,1,111061,Yes,23,85,4.4,Health Insurance
+110,58,42810,6,Govt Job,Heart Disease,Business,2,177531,Yes,17,92,3.7,Health Insurance
+111,74,135911,4,Unemployed,Asthma,Health,1,19557,Yes,14,100,3.1,Health Insurance
+112,60,143946,5,Retired,None,Business,4,73722,No,22,67,4.2,Health Insurance
+113,48,189986,3,Private Job,Cancer,Motor,0,158832,Yes,14,82,3,Health Insurance
+114,38,100094,1,Private Job,Diabetes,None,3,156171,No,20,96,2.8,Health Insurance
+115,63,146775,1,Private Job,Heart Disease,Travel,2,184884,Yes,27,88,3,Health Insurance
+116,29,156075,3,Govt Job,Cancer,Life,4,50888,Yes,16,81,4.9,Health Insurance
+117,27,36810,4,Self-Employed,Diabetes,Business,3,101655,Yes,14,77,2.9,Health Insurance
+118,29,152725,5,Private Job,Heart Disease,Motor,3,10093,Yes,22,93,3.5,Health Insurance
+119,68,163442,5,Govt Job,None,Business,0,191201,Yes,9,90,3.9,Senior Citizen Plan
+120,59,161541,4,Self-Employed,Asthma,Health,4,58765,Yes,27,52,3.4,Health Insurance
+121,53,101364,5,Unemployed,Hypertension,Motor,1,65524,Yes,6,72,4.9,Health Insurance
+122,60,194138,3,Private Job,Asthma,Life,2,40873,Yes,30,97,4,Health Insurance
+123,74,35591,3,Private Job,Diabetes,None,3,191801,Yes,27,61,4.5,Health Insurance
+124,48,65954,1,Private Job,Diabetes,Business,1,98621,No,15,87,4.5,Health Insurance
+125,38,142961,1,Unemployed,None,Motor,4,44839,Yes,29,92,3.4,Health Insurance
+126,39,151762,6,Self-Employed,Cancer,Home,0,117329,Yes,26,77,4.4,Health Insurance
+127,64,101566,3,Self-Employed,Hypertension,Motor,3,65326,No,13,88,3.5,Health Insurance
+128,74,32443,4,Govt Job,Hypertension,Travel,4,196457,Yes,10,71,2.7,Health Insurance
+129,44,172396,1,Retired,None,Senior Citizen,1,60057,Yes,28,81,2.8,Premium Life Insurance
+130,31,52887,5,Unemployed,Hypertension,Home,3,150148,Yes,13,93,4,Health Insurance
+131,47,194247,3,Retired,Hypertension,Travel,4,156089,Yes,19,52,2.7,Health Insurance
+132,65,122175,5,Private Job,Cancer,Motor,2,150833,Yes,14,61,4.8,Health Insurance
+133,47,176327,2,Private Job,None,Life,2,170462,No,7,88,4.6,Premium Life Insurance
+134,24,85872,5,Unemployed,Hypertension,Life,5,28943,No,23,66,3.1,Health Insurance
+135,46,34834,2,Retired,Heart Disease,Travel,3,176454,Yes,10,71,2.6,Health Insurance
+136,21,193412,1,Unemployed,Hypertension,Senior Citizen,1,104646,Yes,19,98,3.6,Health Insurance
+137,63,64249,6,Retired,Hypertension,Motor,0,171019,Yes,10,57,3,Health Insurance
+138,67,49447,3,Govt Job,Heart Disease,Business,2,20516,No,5,68,4.5,Health Insurance
+139,42,24161,5,Unemployed,Hypertension,Health,1,90958,Yes,14,94,4.9,Health Insurance
+140,26,119648,1,Self-Employed,None,Senior Citizen,2,160061,Yes,21,97,2.9,Premium Life Insurance
+141,79,54830,5,Retired,None,None,0,100408,No,6,96,3.7,Senior Citizen Plan
+142,50,104718,6,Govt Job,Diabetes,Life,1,107421,Yes,25,74,3.1,Health Insurance
+143,21,171996,2,Govt Job,Asthma,Home,1,55210,Yes,20,57,4.2,Health Insurance
+144,69,199021,4,Unemployed,Heart Disease,Home,2,147220,Yes,25,93,4.9,Health Insurance
+145,42,65545,3,Self-Employed,Cancer,Life,4,55589,No,19,83,4.5,Health Insurance
+146,27,54575,6,Private Job,None,Home,4,38358,No,25,85,3.2,Health Insurance
+147,68,164831,5,Retired,Asthma,None,5,15740,No,8,56,3.2,Health Insurance
+148,38,183988,5,Private Job,Asthma,None,2,66120,Yes,5,50,4.6,Health Insurance
+149,43,165953,6,Unemployed,Asthma,Travel,4,80866,Yes,16,88,3.5,Health Insurance
+150,70,44533,5,Self-Employed,Diabetes,Business,3,176488,Yes,7,81,3.3,Health Insurance
+151,72,192599,6,Unemployed,Hypertension,Travel,2,8524,Yes,22,55,3.8,Health Insurance
+152,24,32122,2,Private Job,Heart Disease,Business,0,33564,Yes,27,99,2.9,Health Insurance
+153,22,40251,2,Self-Employed,None,Health,0,185304,Yes,22,82,4.3,Basic Life Insurance
+154,56,187069,6,Govt Job,Heart Disease,Life,1,8166,No,23,90,3.2,Health Insurance
+155,19,100635,6,Govt Job,Heart Disease,Business,4,190014,Yes,11,51,3.2,Health Insurance
+156,33,63593,3,Govt Job,Hypertension,Travel,5,174485,Yes,17,54,2.6,Health Insurance
+157,47,126891,6,Govt Job,Asthma,Senior Citizen,0,95075,No,11,70,2.8,Health Insurance
+158,39,92431,6,Private Job,Diabetes,Motor,2,118735,No,24,81,3.8,Health Insurance
+159,36,87668,6,Retired,None,None,2,58095,Yes,26,67,4.8,Premium Life Insurance
+160,26,196125,6,Unemployed,Hypertension,None,2,121934,Yes,26,66,4.2,Health Insurance
+161,22,157981,4,Private Job,None,Business,0,54088,Yes,22,83,2.8,Premium Life Insurance
+162,39,108749,5,Unemployed,Cancer,Motor,0,105729,Yes,26,59,3.8,Health Insurance
+163,58,79842,3,Unemployed,Diabetes,None,1,195810,Yes,10,72,4,Health Insurance
+164,41,81118,3,Retired,Asthma,Life,5,82544,Yes,6,76,4,Health Insurance
+165,18,106402,3,Private Job,None,None,2,40777,Yes,19,61,3.8,Premium Life Insurance
+166,18,109338,4,Retired,Cancer,Motor,2,92411,Yes,14,61,4.1,Health Insurance
+167,32,160435,2,Retired,Asthma,None,2,78359,Yes,29,65,4.1,Health Insurance
+168,60,148049,2,Retired,Hypertension,Motor,5,58631,No,28,73,4.7,Health Insurance
+169,74,62598,4,Govt Job,Heart Disease,Business,4,197271,Yes,27,62,4.1,Health Insurance
+170,49,199467,4,Private Job,Asthma,Motor,1,144046,Yes,20,77,4.7,Health Insurance
+171,70,96897,6,Retired,Heart Disease,None,3,58378,Yes,29,83,4.1,Health Insurance
+172,55,98583,3,Govt Job,Heart Disease,Senior Citizen,1,140649,Yes,8,84,4.8,Health Insurance
+173,60,59051,4,Unemployed,None,Business,3,23856,Yes,11,70,4.7,Health Insurance
+174,72,118513,1,Unemployed,Asthma,None,2,168378,No,30,54,3.5,Health Insurance
+175,76,31869,5,Unemployed,Hypertension,Health,5,191099,Yes,17,74,3.1,Health Insurance
+176,73,92778,5,Retired,Hypertension,Home,5,141569,Yes,10,75,2.6,Health Insurance
+177,21,73497,4,Self-Employed,Cancer,None,0,112673,Yes,20,91,4.9,Health Insurance
+178,50,178642,6,Unemployed,Diabetes,Travel,1,28827,Yes,16,70,3.3,Health Insurance
+179,58,152966,5,Govt Job,Heart Disease,Travel,0,49915,Yes,12,97,4.9,Health Insurance
+180,62,162803,3,Self-Employed,Hypertension,Health,0,169274,Yes,14,90,2.6,Health Insurance
+181,78,148463,4,Private Job,Hypertension,Health,1,87276,Yes,26,56,4.6,Health Insurance
+182,66,130227,5,Unemployed,Diabetes,Business,1,157389,No,6,79,3.6,Health Insurance
+183,39,24252,3,Private Job,Heart Disease,Travel,4,33947,No,8,64,3.4,Health Insurance
+184,69,161916,6,Unemployed,Heart Disease,Senior Citizen,5,196584,Yes,21,90,2.5,Health Insurance
+185,32,142839,1,Private Job,None,None,2,66263,No,23,92,4.5,Premium Life Insurance
+186,35,105633,5,Govt Job,Cancer,None,1,26206,Yes,19,60,4.1,Health Insurance
+187,31,159851,1,Self-Employed,Hypertension,Business,5,75492,Yes,30,70,3,Health Insurance
+188,56,124631,2,Unemployed,Cancer,Health,3,152767,No,24,95,4,Health Insurance
+189,35,100741,2,Retired,Hypertension,Senior Citizen,1,40208,No,29,82,2.7,Health Insurance
+190,71,51771,4,Self-Employed,Heart Disease,Business,1,115183,Yes,17,58,3,Health Insurance
+191,28,167989,6,Govt Job,Hypertension,Health,2,93482,Yes,18,86,4.3,Health Insurance
+192,22,88389,2,Unemployed,Hypertension,Health,1,135912,No,15,93,4.8,Health Insurance
+193,58,41609,3,Private Job,Asthma,Senior Citizen,4,146892,Yes,9,54,2.9,Health Insurance
+194,64,178459,2,Govt Job,Asthma,Senior Citizen,4,19339,Yes,18,51,3.3,Health Insurance
+195,57,193857,3,Unemployed,Diabetes,Life,4,106088,Yes,20,57,3.5,Health Insurance
+196,30,41368,4,Govt Job,Hypertension,Health,5,95334,Yes,19,98,2.6,Health Insurance
+197,58,29489,3,Unemployed,Cancer,Business,5,196228,No,7,96,3,Health Insurance
+198,29,191768,2,Unemployed,Heart Disease,Motor,3,121913,Yes,14,99,4.9,Health Insurance
+199,64,184113,5,Govt Job,Heart Disease,Health,1,95995,Yes,18,62,5,Health Insurance
+200,64,179694,3,Retired,Cancer,Home,1,120754,No,11,56,4.8,Health Insurance
+201,23,184840,4,Retired,None,Business,5,70687,Yes,8,90,3.5,Health Insurance
+202,41,85332,2,Retired,Heart Disease,None,4,153310,No,24,71,2.6,Health Insurance
+203,38,42493,5,Retired,Asthma,Senior Citizen,5,168493,Yes,16,53,3.3,Health Insurance
+204,50,66519,2,Self-Employed,Heart Disease,Motor,2,44093,Yes,27,66,2.7,Health Insurance
+205,73,170727,2,Self-Employed,Heart Disease,Senior Citizen,5,143971,Yes,18,51,4.2,Health Insurance
+206,80,87157,1,Retired,Asthma,Health,0,167680,Yes,29,68,4.4,Health Insurance
+207,60,184739,6,Private Job,Asthma,Business,3,192909,Yes,7,85,3.8,Health Insurance
+208,74,143957,5,Retired,None,Travel,1,70092,Yes,20,67,2.6,Senior Citizen Plan
+209,56,155630,1,Govt Job,Asthma,Senior Citizen,4,145464,Yes,10,89,3.7,Health Insurance
+210,74,94534,5,Private Job,Diabetes,Home,1,132740,No,19,95,3.1,Health Insurance
+211,41,170806,6,Unemployed,Hypertension,Home,3,73596,No,14,93,2.8,Health Insurance
+212,65,82060,5,Private Job,Diabetes,Motor,5,170552,Yes,26,72,4.4,Health Insurance
+213,58,183150,4,Private Job,Hypertension,None,5,182556,Yes,5,91,3,Health Insurance
+214,79,166975,3,Unemployed,Heart Disease,Life,5,140175,No,10,76,4.7,Health Insurance
+215,79,89478,3,Private Job,Cancer,Senior Citizen,5,35049,No,13,73,2.7,Health Insurance
+216,33,84974,5,Retired,Asthma,Business,5,41367,Yes,14,73,4.1,Health Insurance
+217,69,41388,1,Retired,Asthma,None,2,89511,Yes,10,88,4.5,Health Insurance
+218,28,56622,3,Private Job,Asthma,Senior Citizen,5,132426,Yes,30,93,2.7,Health Insurance
+219,18,35678,5,Unemployed,Heart Disease,Health,0,140301,Yes,8,60,4.7,Health Insurance
+220,49,132262,6,Govt Job,Heart Disease,Business,2,199596,Yes,8,81,2.6,Health Insurance
+221,50,182732,3,Private Job,Asthma,None,0,64094,Yes,19,63,4.1,Health Insurance
+222,51,132491,3,Retired,Cancer,Motor,5,134368,No,29,92,3.9,Health Insurance
+223,33,21426,4,Retired,Diabetes,Home,5,91878,No,9,90,2.9,Health Insurance
+224,75,106604,3,Private Job,Heart Disease,Home,0,31967,Yes,17,93,4.4,Health Insurance
+225,67,177951,5,Unemployed,None,Business,5,168410,Yes,12,74,4.5,Health Insurance
+226,27,87085,5,Govt Job,None,Life,2,128948,Yes,27,84,2.8,Premium Life Insurance
+227,59,128150,3,Retired,None,Life,3,157386,Yes,12,63,3.5,Health Insurance
+228,48,75471,1,Unemployed,Diabetes,None,0,25147,Yes,13,56,4.3,Health Insurance
+229,47,116772,5,Self-Employed,Heart Disease,Life,1,26433,Yes,15,61,2.9,Health Insurance
+230,70,197820,1,Retired,Hypertension,Motor,3,66320,Yes,16,56,3.5,Health Insurance
+231,62,196302,5,Private Job,Asthma,Travel,2,138396,No,8,69,3.8,Health Insurance
+232,42,183100,1,Unemployed,Hypertension,Senior Citizen,4,139258,Yes,28,96,4,Health Insurance
+233,64,74790,4,Private Job,Cancer,Travel,5,166322,Yes,18,85,2.8,Health Insurance
+234,34,190293,1,Unemployed,None,Motor,2,76968,No,22,74,4.4,Premium Life Insurance
+235,31,183012,1,Self-Employed,Heart Disease,Senior Citizen,4,152668,Yes,13,54,2.8,Health Insurance
+236,61,32412,1,Private Job,Heart Disease,Health,5,25672,Yes,20,95,2.9,Health Insurance
+237,53,45614,4,Govt Job,None,Home,2,102691,Yes,19,91,3.2,Senior Citizen Plan
+238,48,174974,4,Self-Employed,Diabetes,Health,1,161681,Yes,10,91,2.9,Health Insurance
+239,39,117402,4,Unemployed,Cancer,Business,5,143870,Yes,14,63,4.3,Health Insurance
+240,32,32323,1,Private Job,Heart Disease,Home,1,164843,Yes,16,71,4.6,Health Insurance
+241,73,105296,2,Private Job,Diabetes,Life,0,89578,No,15,86,3.1,Health Insurance
+242,19,81498,1,Private Job,Cancer,None,4,81422,Yes,5,75,3,Health Insurance
+243,20,181975,5,Unemployed,Asthma,Travel,1,33410,No,26,56,2.9,Health Insurance
+244,64,36346,1,Govt Job,Cancer,Senior Citizen,2,40325,No,11,52,3.5,Health Insurance
+245,57,116652,5,Govt Job,None,Home,4,113266,No,15,84,2.6,Health Insurance
+246,52,128318,2,Govt Job,None,Motor,3,179829,Yes,17,68,2.9,Health Insurance
+247,40,29936,3,Govt Job,Asthma,Life,5,30420,Yes,13,67,3.8,Health Insurance
+248,42,91647,2,Private Job,Heart Disease,None,2,141712,Yes,20,50,2.8,Health Insurance
+249,76,119532,3,Self-Employed,Hypertension,None,5,119151,Yes,12,67,4.1,Health Insurance
+250,20,183774,1,Unemployed,Heart Disease,Health,3,114795,Yes,17,98,4.6,Health Insurance
+251,47,172638,2,Self-Employed,Heart Disease,Home,0,190814,Yes,17,81,5,Health Insurance
+252,18,83547,3,Unemployed,Asthma,Business,1,128217,Yes,12,52,4.5,Health Insurance
+253,24,91004,2,Retired,Heart Disease,Business,4,55886,Yes,13,66,3.1,Health Insurance
+254,59,161126,3,Self-Employed,Hypertension,None,1,10964,Yes,19,85,3.3,Health Insurance
+255,76,98888,1,Retired,Diabetes,Life,4,50067,Yes,18,51,2.5,Health Insurance
+256,61,66233,2,Self-Employed,Hypertension,Motor,2,100747,Yes,15,87,3.7,Health Insurance
+257,34,43743,5,Private Job,None,Travel,2,112976,Yes,22,69,3.6,Basic Life Insurance
+258,79,76954,4,Private Job,Diabetes,Travel,2,188425,Yes,17,78,3.2,Health Insurance
+259,55,83019,5,Govt Job,Hypertension,Motor,1,162338,Yes,10,91,2.6,Health Insurance
+260,29,86040,5,Unemployed,Diabetes,None,2,116375,No,6,80,3.6,Health Insurance
+261,38,126276,2,Retired,None,Motor,0,82664,No,20,64,3.5,Premium Life Insurance
+262,72,155441,2,Unemployed,Heart Disease,Senior Citizen,5,159473,Yes,10,87,3.2,Health Insurance
+263,54,96869,6,Govt Job,Heart Disease,Senior Citizen,0,165912,Yes,5,78,3.3,Health Insurance
+264,20,122225,4,Private Job,Cancer,Home,0,39124,Yes,21,80,2.6,Health Insurance
+265,18,102044,6,Unemployed,None,Life,1,118922,No,16,50,2.6,Premium Life Insurance
+266,71,135463,5,Unemployed,Hypertension,Home,2,170342,Yes,22,61,3.1,Health Insurance
+267,80,41616,1,Private Job,Hypertension,Motor,2,14538,Yes,17,56,4.2,Health Insurance
+268,69,121043,4,Govt Job,Hypertension,Travel,0,133813,Yes,21,98,2.5,Health Insurance
+269,50,125335,3,Govt Job,None,Travel,1,107018,Yes,15,54,4.2,Premium Life Insurance
+270,77,126584,2,Private Job,Hypertension,Motor,2,141780,Yes,30,97,4,Health Insurance
+271,56,80979,6,Govt Job,Cancer,Life,5,68611,No,5,87,3.8,Health Insurance
+272,22,127513,2,Private Job,Heart Disease,Home,5,39046,Yes,26,69,2.9,Health Insurance
+273,28,58730,2,Retired,Asthma,Travel,5,166516,Yes,23,84,2.9,Health Insurance
+274,21,152823,6,Govt Job,Cancer,None,3,15745,No,13,98,2.6,Health Insurance
+275,33,149771,4,Private Job,Heart Disease,Senior Citizen,2,170375,Yes,16,89,4.4,Health Insurance
+276,25,54150,1,Govt Job,Hypertension,Motor,3,185304,No,24,90,4.9,Health Insurance
+277,68,79865,3,Unemployed,None,Health,4,40128,Yes,24,97,4.6,Health Insurance
+278,79,55353,4,Retired,Cancer,Travel,2,159018,No,15,70,3,Health Insurance
+279,53,85922,2,Govt Job,None,Home,0,165810,Yes,27,83,3.9,Senior Citizen Plan
+280,51,135570,1,Self-Employed,Heart Disease,Travel,3,5218,Yes,28,62,3.5,Health Insurance
+281,75,192197,4,Private Job,Cancer,Health,0,52070,Yes,12,59,4.1,Health Insurance
+282,39,21412,5,Unemployed,Heart Disease,Business,5,64566,Yes,12,73,3.7,Health Insurance
+283,69,75916,6,Govt Job,None,Business,0,198832,Yes,29,58,3.8,Senior Citizen Plan
+284,78,177390,6,Retired,Hypertension,Home,2,122877,Yes,9,86,2.8,Health Insurance
+285,57,86512,1,Self-Employed,Heart Disease,None,0,156482,Yes,10,78,4.5,Health Insurance
+286,58,133628,5,Retired,Hypertension,Senior Citizen,5,161054,Yes,30,85,2.7,Health Insurance
+287,29,153773,4,Self-Employed,Asthma,Life,1,182344,No,18,69,4.5,Health Insurance
+288,51,138786,2,Retired,Asthma,None,3,112139,Yes,24,71,4.4,Health Insurance
+289,41,59593,5,Retired,None,None,3,145294,Yes,19,72,2.7,Health Insurance
+290,79,144768,4,Unemployed,None,None,2,16028,Yes,29,52,4.5,Senior Citizen Plan
+291,43,129853,1,Unemployed,Heart Disease,Travel,3,69856,Yes,12,63,3.6,Health Insurance
+292,73,163855,5,Private Job,Heart Disease,Travel,3,42960,Yes,8,88,3.3,Health Insurance
+293,65,29144,6,Self-Employed,Diabetes,Motor,3,197141,Yes,6,79,4.2,Health Insurance
+294,22,75720,2,Self-Employed,Hypertension,Home,3,115683,No,16,52,4.5,Health Insurance
+295,42,44975,2,Self-Employed,None,Travel,4,168538,Yes,23,67,3.7,Health Insurance
+296,74,151336,5,Govt Job,Cancer,None,0,15315,Yes,23,66,3.7,Health Insurance
+297,72,59876,3,Retired,Cancer,Senior Citizen,3,126342,Yes,9,69,3.9,Health Insurance
+298,74,105276,2,Private Job,Hypertension,Senior Citizen,4,155105,Yes,11,87,4.1,Health Insurance
+299,48,111450,1,Unemployed,Hypertension,Motor,3,63686,Yes,9,67,4.8,Health Insurance
+300,64,182484,6,Self-Employed,Hypertension,Health,3,135270,Yes,17,100,4.4,Health Insurance
+301,28,62366,2,Govt Job,None,Home,3,135528,Yes,6,78,3.4,Health Insurance
+302,20,147447,1,Self-Employed,Diabetes,Senior Citizen,1,18517,No,24,61,4.5,Health Insurance
+303,33,95672,2,Self-Employed,Asthma,Motor,4,78398,Yes,12,84,4.6,Health Insurance
+304,75,132243,2,Private Job,Asthma,Senior Citizen,5,32569,Yes,28,61,4.4,Health Insurance
+305,40,162890,6,Private Job,Asthma,Home,3,180765,Yes,29,72,2.5,Health Insurance
+306,46,86471,2,Self-Employed,Hypertension,Senior Citizen,2,45968,Yes,26,95,3.1,Health Insurance
+307,52,20223,6,Private Job,Hypertension,Travel,2,99948,Yes,23,68,4.8,Health Insurance
+308,48,80181,6,Govt Job,Asthma,Travel,5,168581,Yes,11,51,4.5,Health Insurance
+309,66,68459,5,Self-Employed,Cancer,Life,5,51484,Yes,22,81,3.7,Health Insurance
+310,72,34196,3,Self-Employed,Hypertension,Home,0,18251,Yes,30,91,3.4,Health Insurance
+311,25,180777,4,Self-Employed,Cancer,Travel,3,50374,Yes,28,85,4.5,Health Insurance
+312,21,153541,4,Retired,None,Health,0,101743,Yes,17,68,3.3,Premium Life Insurance
+313,50,46419,1,Unemployed,Hypertension,None,4,84373,Yes,7,73,4.7,Health Insurance
+314,46,74055,1,Private Job,Hypertension,Senior Citizen,5,70472,No,7,55,4.5,Health Insurance
+315,50,131213,3,Private Job,Asthma,Motor,5,39706,Yes,17,79,3.9,Health Insurance
+316,59,130693,6,Retired,Diabetes,None,3,62132,No,27,74,3.1,Health Insurance
+317,75,165885,5,Govt Job,Diabetes,None,2,196972,Yes,9,94,3,Health Insurance
+318,47,173447,4,Unemployed,Cancer,None,4,117754,Yes,9,94,4.4,Health Insurance
+319,25,165520,6,Govt Job,Heart Disease,Motor,3,124119,Yes,17,74,3.5,Health Insurance
+320,65,53209,5,Private Job,Cancer,Senior Citizen,3,38440,No,18,62,4.2,Health Insurance
+321,76,93616,6,Govt Job,Cancer,None,2,183167,Yes,6,61,4,Health Insurance
+322,76,139530,3,Self-Employed,Diabetes,Life,4,137419,Yes,27,51,3.7,Health Insurance
+323,57,99891,2,Self-Employed,Diabetes,Home,0,194928,Yes,18,83,2.7,Health Insurance
+324,56,85449,3,Retired,Hypertension,Travel,1,59416,Yes,29,88,3.2,Health Insurance
+325,55,194476,5,Govt Job,Asthma,Travel,3,162004,Yes,29,59,3.9,Health Insurance
+326,69,91057,3,Retired,Cancer,None,3,20128,Yes,16,66,3.2,Health Insurance
+327,71,194607,1,Self-Employed,Heart Disease,Health,2,78368,Yes,9,60,2.9,Health Insurance
+328,73,164059,1,Self-Employed,Heart Disease,Senior Citizen,1,192119,No,13,60,4.6,Health Insurance
+329,67,23293,5,Retired,Asthma,Senior Citizen,0,156708,Yes,24,97,4.6,Health Insurance
+330,22,157449,3,Retired,Heart Disease,Senior Citizen,2,193317,Yes,5,87,4,Health Insurance
+331,30,181025,4,Unemployed,Heart Disease,Motor,3,181365,Yes,14,97,2.6,Health Insurance
+332,77,115672,6,Govt Job,Asthma,Home,0,136237,Yes,23,73,3,Health Insurance
+333,30,130209,6,Self-Employed,None,None,4,103994,Yes,14,67,2.6,Health Insurance
+334,50,31927,2,Self-Employed,Hypertension,Travel,2,64708,Yes,28,85,2.8,Health Insurance
+335,65,108199,5,Private Job,Diabetes,Life,0,184175,Yes,9,52,4.6,Health Insurance
+336,27,50093,1,Unemployed,None,Home,3,188161,No,13,75,3.7,Health Insurance
+337,72,35786,5,Retired,Diabetes,None,1,45687,Yes,29,81,4.6,Health Insurance
+338,76,65784,2,Unemployed,Heart Disease,Health,5,159688,Yes,5,80,2.6,Health Insurance
+339,29,155657,5,Unemployed,Diabetes,Health,2,5829,Yes,13,66,4.3,Health Insurance
+340,25,176140,2,Unemployed,None,Motor,1,52896,Yes,26,65,3.4,Premium Life Insurance
+341,78,152240,6,Retired,Hypertension,Travel,4,34567,Yes,15,95,3.5,Health Insurance
+342,66,120545,5,Self-Employed,Asthma,Life,0,186611,Yes,25,67,3.8,Health Insurance
+343,19,95456,1,Private Job,Heart Disease,Travel,5,171085,Yes,28,56,5,Health Insurance
+344,24,96960,3,Self-Employed,Cancer,Health,3,69448,Yes,11,70,3.8,Health Insurance
+345,61,169678,6,Unemployed,Heart Disease,Home,1,116733,Yes,13,80,3.9,Health Insurance
+346,27,154783,2,Unemployed,Asthma,Home,0,95017,No,17,74,3.9,Health Insurance
+347,60,138533,1,Govt Job,Cancer,Life,5,150781,Yes,20,61,4.3,Health Insurance
+348,65,79432,6,Govt Job,Asthma,Senior Citizen,4,67456,Yes,15,72,3.4,Health Insurance
+349,31,193219,2,Govt Job,Diabetes,Life,3,92739,No,26,88,4.2,Health Insurance
+350,22,111225,4,Retired,Hypertension,Motor,3,84622,Yes,5,56,4.7,Health Insurance
+351,59,84227,1,Govt Job,None,Travel,0,177107,Yes,16,73,4.6,Senior Citizen Plan
+352,36,68840,3,Retired,Cancer,Health,3,159846,Yes,6,66,4.4,Health Insurance
+353,29,179400,4,Self-Employed,None,Motor,4,74776,Yes,23,61,3.3,Health Insurance
+354,43,160944,2,Private Job,Cancer,Business,2,135592,Yes,7,84,4.4,Health Insurance
+355,65,199909,2,Retired,Cancer,Life,0,16015,Yes,5,93,3.3,Health Insurance
+356,44,175296,4,Unemployed,Cancer,Home,2,80929,Yes,22,84,3.7,Health Insurance
+357,53,37414,6,Retired,Diabetes,Business,0,140581,Yes,10,86,2.9,Health Insurance
+358,65,166626,6,Retired,Cancer,Business,4,119901,Yes,24,72,4.5,Health Insurance
+359,31,106005,3,Retired,Cancer,None,1,151517,Yes,21,85,3.9,Health Insurance
+360,59,169433,2,Private Job,None,Life,1,87840,Yes,5,55,4.3,Senior Citizen Plan
+361,43,43126,4,Self-Employed,Diabetes,Senior Citizen,3,158793,Yes,8,53,3.3,Health Insurance
+362,57,161334,6,Govt Job,None,Life,3,190172,Yes,17,62,3.6,Health Insurance
+363,44,119018,6,Govt Job,None,Home,0,60683,Yes,15,51,4.8,Premium Life Insurance
+364,43,20663,6,Self-Employed,Diabetes,Health,0,188999,Yes,21,82,4.6,Health Insurance
+365,41,117680,4,Private Job,None,Business,5,42563,Yes,19,70,3.5,Health Insurance
+366,80,20344,1,Retired,Asthma,Travel,4,76835,No,27,97,4.5,Health Insurance
+367,48,114372,5,Unemployed,None,Senior Citizen,4,23727,Yes,10,66,3.4,Health Insurance
+368,68,168666,1,Retired,Hypertension,None,1,157681,Yes,28,100,3.9,Health Insurance
+369,74,91126,4,Private Job,None,Health,0,59662,Yes,26,81,4.8,Senior Citizen Plan
+370,23,63204,4,Unemployed,Heart Disease,Senior Citizen,2,171345,Yes,7,90,4.8,Health Insurance
+371,31,184289,6,Govt Job,Heart Disease,Travel,5,186512,Yes,20,91,4.6,Health Insurance
+372,75,189581,3,Govt Job,Heart Disease,Senior Citizen,1,19577,No,7,87,3,Health Insurance
+373,61,91688,5,Private Job,None,Senior Citizen,4,198196,Yes,12,96,4.4,Health Insurance
+374,76,160591,6,Private Job,None,Travel,4,20104,No,27,56,4.1,Health Insurance
+375,79,24554,1,Retired,Diabetes,Senior Citizen,1,94471,Yes,17,58,4.2,Health Insurance
+376,59,134287,1,Private Job,Heart Disease,Home,0,61715,Yes,28,55,3.5,Health Insurance
+377,65,148855,6,Self-Employed,Asthma,Life,5,63146,No,11,98,3.8,Health Insurance
+378,36,110844,1,Unemployed,Diabetes,Health,2,45957,No,6,51,4.4,Health Insurance
+379,59,194272,6,Unemployed,Cancer,Motor,2,81556,Yes,13,54,3.6,Health Insurance
+380,24,52510,3,Retired,Hypertension,Senior Citizen,1,127746,Yes,6,63,3.7,Health Insurance
+381,40,83176,4,Govt Job,Cancer,Health,4,195525,Yes,29,68,3.7,Health Insurance
+382,25,114619,3,Unemployed,Diabetes,Travel,3,29759,Yes,28,62,3.8,Health Insurance
+383,31,111046,5,Private Job,None,Senior Citizen,4,76310,Yes,7,100,3,Health Insurance
+384,39,133592,6,Unemployed,Asthma,Motor,3,121263,Yes,6,75,4.8,Health Insurance
+385,21,174450,6,Unemployed,Heart Disease,Business,5,60814,Yes,28,85,3.6,Health Insurance
+386,23,187264,3,Retired,Asthma,Home,5,107545,Yes,18,71,2.6,Health Insurance
+387,77,30632,4,Self-Employed,None,Home,2,38797,Yes,28,70,3.9,Senior Citizen Plan
+388,30,151701,2,Govt Job,Diabetes,Life,2,186810,Yes,9,91,3.1,Health Insurance
+389,20,154438,3,Unemployed,Cancer,Travel,3,164084,Yes,7,98,4.7,Health Insurance
+390,41,163663,5,Retired,Asthma,Senior Citizen,2,158397,Yes,23,53,2.9,Health Insurance
+391,19,34752,4,Retired,Heart Disease,Business,0,168890,Yes,14,77,3,Health Insurance
+392,60,197130,2,Private Job,Asthma,Health,2,186346,Yes,19,57,3.7,Health Insurance
+393,46,91545,3,Retired,Heart Disease,Home,2,165619,Yes,14,75,3.7,Health Insurance
+394,75,48534,4,Unemployed,Diabetes,None,4,138051,Yes,8,91,3.6,Health Insurance
+395,29,193405,2,Govt Job,None,Home,5,176150,Yes,8,61,3.9,Health Insurance
+396,75,180589,2,Self-Employed,Heart Disease,Home,3,168235,Yes,25,63,4,Health Insurance
+397,53,92971,1,Private Job,None,Motor,3,47306,Yes,20,58,2.6,Health Insurance
+398,71,81276,1,Retired,Heart Disease,Senior Citizen,1,75243,Yes,27,99,4.9,Health Insurance
+399,55,147079,2,Govt Job,Cancer,Business,3,57777,No,16,61,3.3,Health Insurance
+400,30,81197,6,Retired,Cancer,None,5,185370,Yes,10,73,2.6,Health Insurance
+401,35,92213,2,Govt Job,Heart Disease,Home,4,183163,Yes,27,90,4.5,Health Insurance
+402,70,75850,4,Private Job,Asthma,None,3,33147,No,18,100,2.5,Health Insurance
+403,56,198642,3,Govt Job,Cancer,Senior Citizen,0,6386,Yes,7,50,3.9,Health Insurance
+404,47,138723,4,Unemployed,Asthma,Life,3,133437,Yes,27,65,3.8,Health Insurance
+405,67,25767,3,Unemployed,Cancer,Motor,3,96948,Yes,23,90,4.1,Health Insurance
+406,65,191861,2,Self-Employed,Diabetes,None,4,114479,Yes,10,52,4.8,Health Insurance
+407,56,142214,2,Retired,Diabetes,Health,4,46186,Yes,14,50,4,Health Insurance
+408,47,59783,5,Govt Job,Diabetes,Business,4,21004,Yes,13,94,3.9,Health Insurance
+409,68,123194,2,Unemployed,Cancer,Home,3,86483,Yes,19,64,3.8,Health Insurance
+410,30,24632,2,Private Job,Cancer,Home,4,178199,Yes,26,68,2.8,Health Insurance
+411,71,118986,5,Govt Job,Diabetes,Life,2,37801,Yes,21,64,3.1,Health Insurance
+412,39,112345,3,Private Job,Asthma,Business,4,114848,Yes,5,95,3.5,Health Insurance
+413,58,39378,1,Self-Employed,None,None,3,5037,Yes,28,67,3.5,Health Insurance
+414,63,146245,5,Unemployed,Hypertension,Senior Citizen,5,6166,Yes,29,83,4.1,Health Insurance
+415,39,32246,2,Govt Job,None,Health,1,73917,Yes,22,86,4.4,Basic Life Insurance
+416,76,111775,1,Self-Employed,None,Senior Citizen,0,25619,Yes,20,61,2.7,Senior Citizen Plan
+417,58,81200,1,Govt Job,Heart Disease,Motor,5,193812,Yes,20,86,2.5,Health Insurance
+418,52,66046,1,Unemployed,Cancer,Business,5,36123,No,21,98,4.5,Health Insurance
+419,74,187249,6,Private Job,Cancer,Health,2,142501,Yes,14,94,3.9,Health Insurance
+420,31,98388,1,Unemployed,Hypertension,Senior Citizen,4,179496,Yes,19,71,3.4,Health Insurance
+421,28,51520,4,Govt Job,Diabetes,Life,0,57418,Yes,10,78,4.3,Health Insurance
+422,26,77912,2,Self-Employed,None,Health,2,96750,No,8,94,4.2,Basic Life Insurance
+423,70,104406,3,Govt Job,Cancer,Life,2,76378,Yes,8,69,4.4,Health Insurance
+424,60,173391,1,Retired,Hypertension,None,3,92490,No,5,95,4.8,Health Insurance
+425,60,65117,1,Govt Job,Cancer,Senior Citizen,5,74886,Yes,28,81,4.2,Health Insurance
+426,46,105556,2,Retired,None,Travel,5,13004,No,18,68,3.7,Health Insurance
+427,49,21372,1,Private Job,Heart Disease,Business,4,9227,No,20,80,4.3,Health Insurance
+428,62,43455,5,Private Job,Diabetes,Health,3,32578,Yes,5,50,4.1,Health Insurance
+429,32,187618,2,Retired,Heart Disease,Senior Citizen,0,34841,Yes,29,76,4.6,Health Insurance
+430,21,141757,1,Retired,None,Business,5,168726,Yes,25,60,4.3,Health Insurance
+431,47,128386,6,Self-Employed,Cancer,Business,0,157141,No,12,75,4.1,Health Insurance
+432,19,196251,4,Unemployed,Cancer,Life,4,157838,Yes,16,54,3,Health Insurance
+433,77,153655,3,Retired,Heart Disease,Business,3,129169,Yes,24,50,4,Health Insurance
+434,47,188754,6,Private Job,Hypertension,Business,3,188412,No,20,73,2.6,Health Insurance
+435,66,88128,1,Unemployed,Asthma,Life,5,11015,Yes,20,60,4.5,Health Insurance
+436,26,191660,3,Self-Employed,Heart Disease,Travel,0,108195,Yes,16,76,3.7,Health Insurance
+437,58,148790,2,Govt Job,Diabetes,None,1,145966,Yes,26,99,2.6,Health Insurance
+438,49,67440,6,Self-Employed,Cancer,Senior Citizen,1,65049,Yes,15,51,3.7,Health Insurance
+439,48,104036,1,Govt Job,Hypertension,Home,5,111926,Yes,7,92,4.7,Health Insurance
+440,33,105990,6,Govt Job,Asthma,Business,3,194923,No,21,86,3.5,Health Insurance
+441,39,50165,1,Govt Job,Diabetes,Home,0,17662,Yes,8,66,4.1,Health Insurance
+442,59,168553,4,Govt Job,Heart Disease,Home,5,181861,Yes,19,50,3.7,Health Insurance
+443,47,132871,4,Retired,Hypertension,Business,1,94735,Yes,30,99,3.4,Health Insurance
+444,18,142904,2,Unemployed,None,Senior Citizen,4,53360,Yes,12,66,4.2,Health Insurance
+445,35,23209,6,Self-Employed,Asthma,Motor,2,196499,Yes,22,51,3.9,Health Insurance
+446,61,95536,5,Private Job,Asthma,Business,1,197148,Yes,21,85,2.9,Health Insurance
+447,76,81960,2,Private Job,Cancer,None,4,126995,Yes,30,98,3.6,Health Insurance
+448,48,123024,2,Govt Job,Hypertension,Life,1,63522,No,24,61,3.2,Health Insurance
+449,77,197943,3,Private Job,Diabetes,Motor,3,130419,Yes,26,52,2.7,Health Insurance
+450,41,29981,5,Self-Employed,Hypertension,Life,3,198403,No,6,56,4,Health Insurance
+451,43,89408,4,Private Job,Asthma,Business,4,106576,No,5,79,2.8,Health Insurance
+452,64,185301,3,Unemployed,None,Life,4,182792,Yes,9,85,3.1,Health Insurance
+453,59,94541,3,Unemployed,Hypertension,Travel,2,23111,Yes,20,70,4.3,Health Insurance
+454,52,30647,3,Unemployed,None,Life,1,127535,Yes,23,72,4.2,Senior Citizen Plan
+455,56,198808,2,Unemployed,Diabetes,Health,2,170972,No,11,95,4.7,Health Insurance
+456,74,163215,4,Unemployed,Hypertension,Business,3,158206,No,15,64,3.9,Health Insurance
+457,38,131794,5,Govt Job,Heart Disease,Motor,4,97381,Yes,30,85,4.8,Health Insurance
+458,67,30634,1,Retired,None,Travel,0,38379,No,28,87,3.4,Senior Citizen Plan
+459,77,23351,2,Retired,Heart Disease,Life,3,111879,Yes,29,56,4.3,Health Insurance
+460,19,186061,6,Govt Job,Diabetes,Travel,3,165577,Yes,14,62,4.5,Health Insurance
+461,71,63773,5,Unemployed,Hypertension,Health,1,66427,Yes,25,57,2.7,Health Insurance
+462,28,39518,4,Private Job,Diabetes,Business,2,23474,Yes,20,70,3,Health Insurance
+463,23,65029,2,Unemployed,None,Life,3,101951,Yes,5,60,4,Health Insurance
+464,64,76670,1,Govt Job,Cancer,Life,4,29252,Yes,14,67,3.7,Health Insurance
+465,69,145613,2,Unemployed,Cancer,Senior Citizen,0,154630,Yes,22,84,4.5,Health Insurance
+466,67,63040,1,Self-Employed,Asthma,Senior Citizen,2,146112,Yes,24,58,3.7,Health Insurance
+467,70,73087,5,Self-Employed,Cancer,Home,5,41411,Yes,7,96,4.7,Health Insurance
+468,66,196879,1,Private Job,Diabetes,Home,0,73088,Yes,28,55,4.8,Health Insurance
+469,66,64399,4,Self-Employed,None,Business,5,23580,Yes,27,64,3.8,Health Insurance
+470,33,55408,6,Private Job,None,Motor,4,53363,Yes,24,96,3.1,Health Insurance
+471,69,146319,3,Retired,Cancer,Life,2,179136,Yes,25,63,3.8,Health Insurance
+472,77,77258,2,Retired,None,Business,0,34374,Yes,17,70,3.5,Senior Citizen Plan
+473,70,103329,6,Private Job,Hypertension,Business,0,155581,No,5,53,4.5,Health Insurance
+474,51,25794,2,Retired,Heart Disease,Motor,5,101772,No,19,51,4.5,Health Insurance
+475,39,62697,5,Self-Employed,Diabetes,Travel,5,47933,No,20,100,4,Health Insurance
+476,50,33514,2,Private Job,Heart Disease,Motor,1,101092,Yes,8,63,2.7,Health Insurance
+477,76,82249,3,Self-Employed,Diabetes,Home,3,130687,Yes,14,100,2.7,Health Insurance
+478,66,124685,2,Govt Job,Cancer,Life,3,93058,Yes,8,74,4.2,Health Insurance
+479,55,186989,4,Govt Job,Diabetes,Travel,5,45173,Yes,29,53,2.6,Health Insurance
+480,33,83480,2,Self-Employed,Asthma,Motor,1,72212,No,13,66,4.4,Health Insurance
+481,63,148672,4,Govt Job,None,Senior Citizen,4,6663,Yes,19,62,3.8,Health Insurance
+482,39,146146,1,Govt Job,Cancer,Life,0,9690,Yes,15,86,3.2,Health Insurance
+483,24,141168,3,Govt Job,None,Business,0,116481,Yes,8,51,2.6,Premium Life Insurance
+484,45,187044,6,Unemployed,Diabetes,Senior Citizen,4,161688,Yes,11,90,4,Health Insurance
+485,75,133854,2,Self-Employed,Heart Disease,Health,0,166832,Yes,25,54,4.2,Health Insurance
+486,68,156538,1,Private Job,Asthma,None,0,79478,Yes,5,70,2.9,Health Insurance
+487,35,192725,1,Govt Job,Diabetes,Travel,2,22355,No,18,73,3.8,Health Insurance
+488,22,176347,4,Govt Job,Asthma,Life,3,128501,Yes,26,66,4.8,Health Insurance
+489,28,151974,4,Self-Employed,None,Senior Citizen,3,148958,Yes,21,87,4.2,Health Insurance
+490,73,88769,6,Private Job,Asthma,Senior Citizen,0,81179,Yes,15,93,2.7,Health Insurance
+491,62,31449,3,Self-Employed,Diabetes,Life,1,191308,Yes,11,56,4.7,Health Insurance
+492,47,95545,2,Govt Job,Cancer,Senior Citizen,4,127198,Yes,7,86,4.7,Health Insurance
+493,61,29268,1,Self-Employed,Cancer,Senior Citizen,0,75731,Yes,12,96,4.3,Health Insurance
+494,39,54167,3,Self-Employed,Heart Disease,None,4,162170,Yes,7,60,3.2,Health Insurance
+495,64,183062,1,Self-Employed,Hypertension,Health,2,96643,Yes,7,94,3.8,Health Insurance
+496,57,98271,4,Govt Job,Diabetes,Senior Citizen,0,176349,Yes,17,55,4.7,Health Insurance
+497,21,31903,5,Private Job,Heart Disease,Business,3,50459,Yes,12,89,4,Health Insurance
+498,69,197841,4,Govt Job,None,None,5,145756,Yes,16,53,4.2,Health Insurance
+499,79,34149,1,Private Job,Diabetes,Home,1,147784,Yes,23,54,2.8,Health Insurance
+500,77,29739,5,Retired,Diabetes,Motor,5,168507,Yes,9,98,4.9,Health Insurance
+501,33,80829,5,Retired,Hypertension,None,0,63843,Yes,23,100,4.5,Health Insurance
+502,43,153046,2,Unemployed,Hypertension,Home,5,9256,Yes,6,77,4.1,Health Insurance
+503,43,180026,6,Retired,Diabetes,Health,1,47580,Yes,22,78,4.6,Health Insurance
+504,32,161138,3,Unemployed,Asthma,Travel,5,39470,Yes,29,62,2.8,Health Insurance
+505,50,55382,2,Private Job,Hypertension,Travel,5,144771,Yes,5,58,2.8,Health Insurance
+506,41,106852,2,Govt Job,Cancer,Motor,3,67455,Yes,9,93,4.1,Health Insurance
+507,73,65027,4,Unemployed,None,Home,2,108000,Yes,6,78,4,Senior Citizen Plan
+508,54,32326,4,Retired,Hypertension,Motor,0,30357,Yes,11,92,4.3,Health Insurance
+509,59,167732,6,Private Job,Cancer,Home,4,172850,Yes,23,69,4.9,Health Insurance
+510,41,185978,2,Unemployed,Diabetes,Home,1,177406,Yes,16,87,2.6,Health Insurance
+511,71,21253,1,Retired,Diabetes,Motor,1,136602,Yes,17,77,4,Health Insurance
+512,67,51408,1,Self-Employed,Hypertension,Business,5,165595,Yes,18,66,4.3,Health Insurance
+513,58,76112,5,Retired,Cancer,Home,4,176698,No,6,82,2.7,Health Insurance
+514,22,186669,4,Private Job,Diabetes,Home,5,96988,Yes,9,80,3.5,Health Insurance
+515,71,40068,2,Retired,None,None,4,145928,Yes,23,85,2.5,Health Insurance
+516,72,91669,1,Private Job,Cancer,Motor,4,7736,Yes,17,74,3.5,Health Insurance
+517,77,114338,5,Govt Job,Cancer,Health,4,152960,No,28,52,3.9,Health Insurance
+518,53,161686,1,Self-Employed,Hypertension,None,5,150976,Yes,12,91,3.6,Health Insurance
+519,49,129787,4,Retired,Asthma,None,3,5053,Yes,27,67,3,Health Insurance
+520,27,96199,4,Govt Job,Asthma,Travel,5,192072,Yes,17,80,3.8,Health Insurance
+521,65,85764,1,Retired,Hypertension,Travel,1,28256,Yes,25,77,3.2,Health Insurance
+522,66,124156,6,Retired,None,Life,3,169448,Yes,30,70,4.5,Health Insurance
+523,80,68822,6,Unemployed,Hypertension,Business,3,68186,No,13,61,4.2,Health Insurance
+524,32,139913,5,Govt Job,None,Life,3,177582,Yes,12,85,2.6,Health Insurance
+525,35,168022,5,Retired,Hypertension,Senior Citizen,2,89246,Yes,22,60,3,Health Insurance
+526,34,31673,3,Self-Employed,None,Senior Citizen,1,104473,No,25,70,3.7,Basic Life Insurance
+527,39,197608,1,Private Job,Heart Disease,Travel,2,25813,No,7,73,3.2,Health Insurance
+528,45,109884,1,Retired,Heart Disease,Travel,1,184305,Yes,16,50,4,Health Insurance
+529,63,108746,1,Retired,Diabetes,Travel,5,85683,Yes,16,75,4.9,Health Insurance
+530,31,85843,1,Retired,None,Travel,4,21471,No,15,94,3.1,Health Insurance
+531,58,59908,4,Private Job,Heart Disease,Motor,2,41700,Yes,15,81,3.9,Health Insurance
+532,73,154266,5,Retired,Asthma,None,5,62019,Yes,22,58,3.6,Health Insurance
+533,22,157617,1,Self-Employed,Asthma,None,3,51312,No,15,61,4.2,Health Insurance
+534,42,145857,4,Retired,None,Motor,5,55597,Yes,20,84,4.9,Health Insurance
+535,62,62970,4,Self-Employed,Cancer,Home,3,135337,Yes,17,67,2.7,Health Insurance
+536,33,101230,4,Govt Job,Hypertension,Home,0,73121,Yes,12,68,3.6,Health Insurance
+537,46,55578,5,Unemployed,Hypertension,Life,4,32219,Yes,28,71,4.6,Health Insurance
+538,75,185217,3,Govt Job,Asthma,Life,5,122393,No,8,51,3.5,Health Insurance
+539,62,47789,5,Unemployed,Hypertension,Business,5,160308,Yes,8,85,4,Health Insurance
+540,43,87956,2,Govt Job,Diabetes,Home,3,121922,Yes,26,65,4.5,Health Insurance
+541,49,158331,5,Private Job,Cancer,Travel,1,178557,Yes,14,65,3.1,Health Insurance
+542,21,101146,5,Retired,Heart Disease,Business,2,30313,Yes,20,99,3.8,Health Insurance
+543,75,177526,6,Unemployed,Diabetes,Health,3,127956,No,10,87,4.1,Health Insurance
+544,29,44319,4,Retired,Diabetes,Life,4,94854,No,24,99,4.7,Health Insurance
+545,43,46489,5,Govt Job,Asthma,Health,1,198235,Yes,12,54,3.1,Health Insurance
+546,30,136255,3,Self-Employed,Cancer,Senior Citizen,4,70537,Yes,26,83,4.3,Health Insurance
+547,56,79679,5,Govt Job,Hypertension,Senior Citizen,3,88660,Yes,19,62,4.9,Health Insurance
+548,47,123586,2,Private Job,Hypertension,Senior Citizen,4,176648,No,12,76,5,Health Insurance
+549,45,148543,6,Unemployed,Asthma,Health,4,146629,Yes,13,93,4.2,Health Insurance
+550,47,75927,3,Self-Employed,None,Business,0,165560,Yes,14,67,4.8,Basic Life Insurance
+551,52,150713,5,Govt Job,Hypertension,Business,5,14541,Yes,19,53,4.3,Health Insurance
+552,70,122367,2,Private Job,Cancer,Travel,0,163309,Yes,8,63,4.9,Health Insurance
+553,53,32524,5,Govt Job,Cancer,Health,2,164057,Yes,5,87,2.6,Health Insurance
+554,40,45747,3,Retired,Cancer,Life,4,63449,Yes,14,74,4.9,Health Insurance
+555,42,196254,1,Govt Job,Heart Disease,None,1,24480,No,14,76,3.5,Health Insurance
+556,72,169536,6,Govt Job,Heart Disease,Health,3,25929,Yes,30,57,4.3,Health Insurance
+557,23,20087,3,Retired,Diabetes,Travel,1,124928,Yes,21,59,3.2,Health Insurance
+558,72,186096,1,Self-Employed,Diabetes,Health,0,167296,Yes,14,53,3.2,Health Insurance
+559,24,32694,3,Self-Employed,None,None,2,93089,Yes,26,70,4.4,Basic Life Insurance
+560,43,144395,1,Govt Job,Cancer,Motor,4,126082,Yes,17,61,3.2,Health Insurance
+561,30,40100,6,Self-Employed,Asthma,Health,4,85789,Yes,21,89,4.6,Health Insurance
+562,66,98016,5,Private Job,Cancer,Motor,5,6541,Yes,24,54,3.6,Health Insurance
+563,53,153045,5,Unemployed,Heart Disease,Senior Citizen,5,66880,Yes,30,77,3.7,Health Insurance
+564,72,183628,2,Private Job,None,Travel,1,7236,No,30,95,2.8,Senior Citizen Plan
+565,46,67342,5,Unemployed,Hypertension,Health,5,141675,No,21,92,4.3,Health Insurance
+566,55,144217,5,Private Job,Cancer,Home,4,161164,Yes,19,80,4.6,Health Insurance
+567,44,36659,1,Unemployed,Asthma,Health,2,160511,Yes,21,60,4.9,Health Insurance
+568,18,161721,2,Self-Employed,Hypertension,Life,2,140531,Yes,25,79,4.6,Health Insurance
+569,23,157916,4,Private Job,Hypertension,Life,5,97476,Yes,8,94,3.7,Health Insurance
+570,20,93119,3,Private Job,Asthma,Motor,0,26653,Yes,28,68,4.9,Health Insurance
+571,51,47799,4,Retired,Asthma,None,1,153817,No,15,97,3.8,Health Insurance
+572,34,108762,3,Govt Job,None,Home,3,46367,Yes,15,58,3.8,Health Insurance
+573,21,175485,6,Govt Job,Heart Disease,Home,1,50700,No,13,63,2.5,Health Insurance
+574,66,20855,5,Unemployed,None,Health,5,54664,Yes,23,99,3.6,Health Insurance
+575,33,64683,5,Private Job,Diabetes,Motor,0,86959,Yes,15,63,3.8,Health Insurance
+576,60,194004,6,Retired,Asthma,Motor,0,18475,Yes,9,56,4.4,Health Insurance
+577,43,100839,5,Private Job,Hypertension,Travel,3,22223,No,28,92,3.4,Health Insurance
+578,75,188635,1,Retired,Heart Disease,Health,5,133100,Yes,9,75,4.5,Health Insurance
+579,34,167949,2,Private Job,None,Health,0,6097,No,20,55,4.3,Premium Life Insurance
+580,63,67429,3,Self-Employed,Hypertension,Life,5,100259,No,18,61,4.1,Health Insurance
+581,54,74470,3,Retired,Hypertension,None,5,127576,No,13,68,4.9,Health Insurance
+582,72,190562,1,Retired,Cancer,Senior Citizen,0,177788,Yes,26,83,4.9,Health Insurance
+583,68,156107,2,Retired,None,Business,3,10502,Yes,8,77,3.2,Health Insurance
+584,62,126697,6,Private Job,Cancer,Health,4,123009,Yes,14,95,3.1,Health Insurance
+585,61,156330,2,Retired,Diabetes,Life,3,170661,Yes,24,63,3.5,Health Insurance
+586,47,26926,2,Self-Employed,Asthma,None,0,93728,Yes,16,70,4.1,Health Insurance
+587,58,145742,4,Retired,Heart Disease,Senior Citizen,5,81105,Yes,20,70,4.5,Health Insurance
+588,34,132032,4,Private Job,Hypertension,Motor,0,115324,Yes,11,56,2.6,Health Insurance
+589,50,166773,1,Private Job,Hypertension,Travel,3,112730,Yes,15,89,3.7,Health Insurance
+590,63,37503,6,Retired,Asthma,Motor,0,138722,Yes,5,74,4.6,Health Insurance
+591,65,184999,5,Private Job,None,Life,1,132353,Yes,23,53,2.5,Senior Citizen Plan
+592,71,58350,3,Self-Employed,Hypertension,Business,2,157936,No,29,93,4.7,Health Insurance
+593,54,188681,3,Govt Job,Asthma,Home,2,196946,No,27,67,4.8,Health Insurance
+594,33,124836,6,Private Job,Diabetes,Life,1,47937,Yes,20,89,4.5,Health Insurance
+595,30,177092,1,Private Job,None,Health,3,37461,No,11,71,3.9,Health Insurance
+596,69,92833,3,Self-Employed,Asthma,Life,0,149445,Yes,12,58,3,Health Insurance
+597,66,181558,2,Unemployed,Asthma,None,1,8532,Yes,17,88,5,Health Insurance
+598,32,40528,3,Retired,Cancer,Travel,5,121063,Yes,8,94,4,Health Insurance
+599,69,71309,4,Private Job,Cancer,Business,0,139554,Yes,19,84,3.5,Health Insurance
+600,71,142783,1,Retired,Asthma,Travel,3,140017,No,21,61,4,Health Insurance
+601,77,99830,2,Private Job,Asthma,None,1,125686,Yes,13,96,4.8,Health Insurance
+602,26,175930,1,Govt Job,Hypertension,Health,3,32798,No,7,77,2.8,Health Insurance
+603,79,105686,4,Private Job,Diabetes,Health,0,120727,Yes,17,88,2.7,Health Insurance
+604,77,102453,4,Retired,Cancer,Health,4,55920,Yes,17,59,3.3,Health Insurance
+605,47,142993,4,Unemployed,Asthma,Health,1,6170,Yes,27,70,3.3,Health Insurance
+606,52,74674,4,Self-Employed,Heart Disease,None,0,114426,Yes,28,66,4.9,Health Insurance
+607,71,150152,2,Retired,Hypertension,Life,0,13617,No,18,53,3.6,Health Insurance
+608,77,39751,1,Retired,Asthma,Life,5,125273,Yes,25,81,3.5,Health Insurance
+609,24,43914,6,Retired,Hypertension,Business,2,143544,Yes,29,74,2.9,Health Insurance
+610,64,58561,4,Govt Job,None,Life,4,60105,Yes,13,75,4.1,Health Insurance
+611,67,35688,4,Unemployed,Diabetes,Health,3,81113,Yes,25,63,3.6,Health Insurance
+612,58,196529,1,Govt Job,Heart Disease,Travel,3,153885,Yes,11,75,3.1,Health Insurance
+613,45,73312,2,Retired,Hypertension,Business,2,98588,Yes,15,83,4.6,Health Insurance
+614,43,105477,6,Unemployed,Heart Disease,Motor,5,38512,Yes,12,70,4.8,Health Insurance
+615,34,148496,2,Private Job,Heart Disease,Senior Citizen,0,131173,Yes,10,83,4.2,Health Insurance
+616,44,157696,2,Retired,Asthma,Life,4,56019,No,23,95,4.2,Health Insurance
+617,63,182600,2,Retired,Cancer,Home,1,155391,Yes,18,62,2.7,Health Insurance
+618,72,143102,4,Private Job,Hypertension,Business,0,70935,No,22,90,4.6,Health Insurance
+619,68,183586,6,Private Job,Diabetes,Business,3,157420,Yes,9,95,2.7,Health Insurance
+620,26,161154,4,Retired,Hypertension,Travel,5,172373,No,19,84,4.4,Health Insurance
+621,63,173328,1,Unemployed,Cancer,Health,4,47705,Yes,30,62,4.7,Health Insurance
+622,78,153332,2,Unemployed,None,Life,3,98624,No,11,84,4.5,Health Insurance
+623,42,160140,3,Unemployed,Asthma,Home,2,147874,Yes,11,89,2.9,Health Insurance
+624,78,179384,4,Govt Job,Cancer,Motor,3,125386,Yes,7,97,2.9,Health Insurance
+625,47,116786,1,Unemployed,Cancer,Life,2,96409,Yes,24,59,4,Health Insurance
+626,67,74161,6,Unemployed,Hypertension,Business,0,55572,Yes,22,50,3.9,Health Insurance
+627,29,141298,5,Retired,Hypertension,Life,4,165884,Yes,13,98,4.9,Health Insurance
+628,27,34223,1,Private Job,Cancer,Business,2,90512,Yes,27,63,5,Health Insurance
+629,31,85431,6,Govt Job,Asthma,Home,4,38266,Yes,5,69,4.9,Health Insurance
+630,76,104671,4,Unemployed,None,Senior Citizen,3,181998,Yes,13,85,4.7,Health Insurance
+631,36,131731,3,Self-Employed,Diabetes,Senior Citizen,0,130636,No,21,100,4.3,Health Insurance
+632,72,21877,3,Govt Job,None,Travel,1,164389,No,26,75,4.7,Senior Citizen Plan
+633,61,72795,6,Private Job,Cancer,Health,3,91655,Yes,23,96,4.6,Health Insurance
+634,50,99589,6,Self-Employed,Cancer,Travel,1,106364,No,6,53,4.2,Health Insurance
+635,79,82752,4,Govt Job,Cancer,Life,2,49226,Yes,20,53,2.8,Health Insurance
+636,48,36576,3,Govt Job,Asthma,Travel,0,91286,Yes,7,81,4.2,Health Insurance
+637,48,30737,6,Retired,Cancer,None,4,124474,Yes,24,76,3.3,Health Insurance
+638,44,148007,1,Govt Job,Hypertension,Business,1,45402,Yes,20,75,4.4,Health Insurance
+639,79,168615,6,Retired,Hypertension,None,1,124924,Yes,25,90,3.1,Health Insurance
+640,30,171004,1,Private Job,Heart Disease,Health,4,13329,No,6,79,4.3,Health Insurance
+641,48,69412,4,Unemployed,None,Health,0,54348,No,18,96,2.9,Basic Life Insurance
+642,52,126203,3,Govt Job,Asthma,Life,0,86261,Yes,18,77,4.4,Health Insurance
+643,42,148993,2,Private Job,Cancer,Health,2,103242,Yes,28,97,3.4,Health Insurance
+644,20,51960,5,Retired,Diabetes,Life,3,126801,No,17,50,4.6,Health Insurance
+645,60,100057,1,Govt Job,Diabetes,Life,4,72004,Yes,16,85,4.9,Health Insurance
+646,20,32242,1,Retired,None,Health,1,46009,Yes,26,70,4.1,Basic Life Insurance
+647,40,143186,6,Self-Employed,Hypertension,None,4,36157,Yes,20,71,3,Health Insurance
+648,34,122515,3,Unemployed,Diabetes,Home,0,126441,No,21,55,3,Health Insurance
+649,52,82404,6,Private Job,Heart Disease,Health,5,9851,Yes,25,94,4.2,Health Insurance
+650,45,39811,5,Unemployed,Hypertension,Travel,2,48000,Yes,30,71,2.8,Health Insurance
+651,19,185241,6,Unemployed,None,Health,2,189556,Yes,13,76,3.6,Premium Life Insurance
+652,47,109425,2,Retired,Heart Disease,Travel,2,167453,Yes,22,63,4.1,Health Insurance
+653,80,112804,2,Retired,Cancer,Business,3,26140,Yes,27,50,2.5,Health Insurance
+654,61,98236,2,Unemployed,Cancer,Life,2,70509,Yes,27,94,4.2,Health Insurance
+655,19,115090,1,Unemployed,Cancer,None,3,24809,Yes,10,69,2.9,Health Insurance
+656,35,174031,6,Private Job,None,Business,0,103177,Yes,24,94,3,Premium Life Insurance
+657,68,75314,5,Govt Job,Asthma,Life,2,43571,Yes,9,72,2.8,Health Insurance
+658,63,100027,6,Private Job,Diabetes,Travel,0,88623,Yes,11,79,3.4,Health Insurance
+659,75,48205,2,Govt Job,Diabetes,Business,1,60411,Yes,23,76,4.7,Health Insurance
+660,58,127098,6,Private Job,Diabetes,Health,0,40508,Yes,26,94,4.3,Health Insurance
+661,54,116316,1,Unemployed,Hypertension,Life,2,20565,Yes,30,99,4.5,Health Insurance
+662,66,188485,1,Private Job,Hypertension,Business,4,53595,Yes,23,85,3.8,Health Insurance
+663,33,96846,5,Retired,Cancer,Health,2,84976,Yes,12,61,3.2,Health Insurance
+664,42,29074,6,Retired,Heart Disease,Health,3,37214,Yes,8,52,3.8,Health Insurance
+665,74,154481,5,Private Job,None,Home,2,80720,Yes,5,62,4.7,Senior Citizen Plan
+666,34,68762,6,Private Job,Cancer,Business,5,138828,Yes,23,92,3.6,Health Insurance
+667,51,152918,2,Govt Job,Hypertension,Travel,4,113171,Yes,17,51,4.2,Health Insurance
+668,71,194086,2,Govt Job,Heart Disease,Business,3,167094,Yes,27,96,2.9,Health Insurance
+669,59,153258,3,Unemployed,Hypertension,Senior Citizen,1,40123,Yes,11,90,3.7,Health Insurance
+670,63,52536,3,Private Job,Asthma,Life,0,157119,No,7,83,2.6,Health Insurance
+671,74,24189,6,Retired,Heart Disease,Life,0,18826,Yes,12,88,3.9,Health Insurance
+672,35,173068,2,Retired,Hypertension,Life,3,73383,No,25,73,3.1,Health Insurance
+673,26,143869,1,Unemployed,Hypertension,Home,2,189815,Yes,16,57,2.8,Health Insurance
+674,43,185515,3,Private Job,Heart Disease,Health,3,94461,Yes,11,76,4.4,Health Insurance
+675,42,80971,5,Govt Job,Cancer,Life,0,124602,Yes,11,90,3.9,Health Insurance
+676,77,142870,3,Retired,Heart Disease,Motor,0,69783,Yes,12,54,4,Health Insurance
+677,62,36279,6,Retired,Asthma,Motor,1,189927,Yes,29,95,4.3,Health Insurance
+678,48,111072,3,Private Job,Diabetes,None,3,56086,Yes,24,76,4.6,Health Insurance
+679,20,167655,2,Retired,Asthma,Health,4,174071,No,16,79,2.6,Health Insurance
+680,27,181920,3,Retired,Hypertension,Home,4,46028,Yes,12,82,3.4,Health Insurance
+681,35,194780,2,Private Job,None,Health,4,16664,Yes,26,88,2.5,Health Insurance
+682,28,149145,3,Govt Job,Heart Disease,Business,2,60361,Yes,13,88,3.4,Health Insurance
+683,73,189636,4,Unemployed,None,Travel,4,51254,No,13,91,4,Health Insurance
+684,24,89832,1,Unemployed,Diabetes,Senior Citizen,0,77532,No,29,61,3.5,Health Insurance
+685,70,151575,3,Unemployed,Asthma,Travel,1,184031,Yes,24,51,3.2,Health Insurance
+686,51,167359,4,Unemployed,Hypertension,Home,3,146140,Yes,25,68,4.8,Health Insurance
+687,39,185806,4,Private Job,Cancer,Home,0,168861,Yes,29,87,4.2,Health Insurance
+688,76,127857,6,Unemployed,Diabetes,Business,2,72158,Yes,12,67,4.9,Health Insurance
+689,23,116764,2,Self-Employed,Diabetes,Motor,2,181841,Yes,25,55,3.4,Health Insurance
+690,69,29486,5,Self-Employed,Diabetes,Motor,5,41182,Yes,25,97,4.7,Health Insurance
+691,75,45818,6,Govt Job,Hypertension,Life,4,180796,Yes,6,70,2.8,Health Insurance
+692,68,163124,5,Unemployed,Hypertension,Senior Citizen,5,39389,Yes,22,92,4.2,Health Insurance
+693,38,195922,3,Self-Employed,Hypertension,Home,1,12165,Yes,5,80,3.7,Health Insurance
+694,22,175854,2,Private Job,Hypertension,Health,0,190385,No,14,68,3.4,Health Insurance
+695,64,55977,4,Private Job,Heart Disease,Business,2,124799,Yes,10,80,4.3,Health Insurance
+696,27,69328,5,Self-Employed,Cancer,Motor,3,121396,Yes,21,68,4.5,Health Insurance
+697,62,72295,5,Govt Job,Cancer,Business,3,159628,No,28,65,4,Health Insurance
+698,40,81248,2,Govt Job,Hypertension,Health,0,134918,Yes,22,88,4.8,Health Insurance
+699,75,97220,5,Unemployed,None,Business,4,121310,Yes,27,100,4,Health Insurance
+700,72,99472,3,Govt Job,Cancer,Motor,2,78395,Yes,23,77,3.3,Health Insurance
+701,70,87574,4,Retired,Hypertension,Motor,0,99457,Yes,13,94,4.6,Health Insurance
+702,19,106596,1,Unemployed,None,Health,3,11530,Yes,23,58,3.2,Health Insurance
+703,37,179098,5,Govt Job,Heart Disease,Business,2,10344,Yes,19,70,5,Health Insurance
+704,76,138908,4,Govt Job,None,Senior Citizen,0,11436,Yes,21,60,3.3,Senior Citizen Plan
+705,54,75617,1,Self-Employed,Hypertension,Travel,3,36971,Yes,29,56,4.1,Health Insurance
+706,34,180029,2,Self-Employed,Cancer,Travel,1,171691,No,30,57,3.1,Health Insurance
+707,19,153107,6,Govt Job,Heart Disease,Senior Citizen,0,34891,Yes,13,77,2.8,Health Insurance
+708,30,41074,1,Govt Job,Asthma,Home,1,117888,Yes,26,63,3.9,Health Insurance
+709,24,174034,1,Retired,None,Life,3,78236,Yes,27,95,3.2,Health Insurance
+710,22,28748,6,Unemployed,Cancer,Motor,4,7938,Yes,8,63,3.2,Health Insurance
+711,60,73459,4,Private Job,None,Business,4,177998,Yes,7,62,2.6,Health Insurance
+712,44,185948,4,Private Job,Asthma,Travel,0,117164,Yes,21,76,4.7,Health Insurance
+713,50,87615,6,Retired,Heart Disease,Life,0,187215,Yes,8,62,3.6,Health Insurance
+714,36,191242,2,Govt Job,Heart Disease,Health,5,46117,Yes,8,99,3.4,Health Insurance
+715,71,48005,3,Retired,Hypertension,Travel,3,96671,No,23,92,4.3,Health Insurance
+716,64,155991,4,Retired,None,Motor,5,182399,Yes,8,92,2.6,Health Insurance
+717,19,93214,4,Self-Employed,Hypertension,Life,4,19036,Yes,19,70,4.9,Health Insurance
+718,74,126020,3,Private Job,None,Business,3,121961,No,13,57,3.7,Health Insurance
+719,18,79449,6,Govt Job,None,Senior Citizen,2,44623,Yes,15,58,2.6,Basic Life Insurance
+720,71,39981,6,Retired,Heart Disease,Motor,1,33757,Yes,10,79,3.6,Health Insurance
+721,37,179198,4,Private Job,Cancer,Travel,0,28729,Yes,21,60,4.4,Health Insurance
+722,32,53160,1,Self-Employed,Hypertension,Business,5,96800,Yes,28,50,4.1,Health Insurance
+723,44,32105,3,Govt Job,Heart Disease,Home,5,19608,Yes,27,87,4,Health Insurance
+724,74,31706,4,Private Job,Cancer,Life,2,5106,Yes,25,97,2.9,Health Insurance
+725,44,195029,3,Self-Employed,Hypertension,Life,4,83318,Yes,18,56,2.7,Health Insurance
+726,59,88040,5,Govt Job,Asthma,Senior Citizen,4,130426,Yes,11,100,4.8,Health Insurance
+727,41,158724,5,Private Job,Asthma,Business,4,109290,Yes,29,80,4.3,Health Insurance
+728,79,52432,6,Govt Job,Cancer,Business,3,77604,Yes,29,92,2.9,Health Insurance
+729,60,40671,4,Govt Job,Heart Disease,Travel,1,107679,No,30,80,3.3,Health Insurance
+730,53,76401,2,Retired,Heart Disease,Senior Citizen,2,35238,Yes,13,55,3.1,Health Insurance
+731,32,26825,1,Unemployed,Asthma,Travel,5,73196,Yes,18,88,4.9,Health Insurance
+732,36,199742,3,Govt Job,Heart Disease,None,2,93273,Yes,27,72,4.8,Health Insurance
+733,48,34113,5,Unemployed,Heart Disease,Motor,0,57092,Yes,7,90,3.6,Health Insurance
+734,80,46451,1,Self-Employed,Hypertension,Home,4,28817,Yes,12,81,4.3,Health Insurance
+735,30,118683,2,Govt Job,None,Travel,2,187506,Yes,27,84,4.4,Premium Life Insurance
+736,20,107015,1,Self-Employed,Heart Disease,Motor,1,187820,Yes,8,84,3.6,Health Insurance
+737,67,182412,5,Private Job,Cancer,Business,5,157165,Yes,22,50,2.5,Health Insurance
+738,62,177225,3,Retired,Asthma,Home,5,6469,Yes,27,81,2.9,Health Insurance
+739,22,51774,1,Unemployed,Hypertension,None,0,39591,No,9,54,4.3,Health Insurance
+740,72,59770,2,Private Job,Hypertension,Business,4,182151,No,5,57,2.6,Health Insurance
+741,18,47674,6,Govt Job,Cancer,Life,2,192814,Yes,20,53,3.3,Health Insurance
+742,40,50340,6,Self-Employed,Asthma,Senior Citizen,4,10626,Yes,9,68,3.6,Health Insurance
+743,24,26187,6,Unemployed,Cancer,Travel,1,30724,Yes,24,88,4.6,Health Insurance
+744,37,115551,4,Private Job,Hypertension,None,0,37411,Yes,28,94,4.9,Health Insurance
+745,71,170518,3,Private Job,Hypertension,Home,2,142469,Yes,25,91,4.9,Health Insurance
+746,47,180992,2,Retired,Diabetes,Travel,0,104735,Yes,7,57,3.1,Health Insurance
+747,28,168158,2,Self-Employed,Cancer,Senior Citizen,0,121419,Yes,17,61,4.2,Health Insurance
+748,51,135341,6,Private Job,Diabetes,Senior Citizen,2,191168,Yes,23,52,3.1,Health Insurance
+749,64,98152,6,Private Job,Diabetes,Senior Citizen,3,25237,Yes,18,82,3.7,Health Insurance
+750,58,166887,5,Self-Employed,Asthma,Health,1,199086,Yes,9,51,2.6,Health Insurance
+751,33,144998,3,Govt Job,Hypertension,Home,4,187106,Yes,10,60,2.9,Health Insurance
+752,40,34881,5,Unemployed,None,Senior Citizen,5,180476,Yes,29,59,4.9,Health Insurance
+753,54,23481,4,Private Job,Hypertension,Health,3,14013,No,27,95,2.6,Health Insurance
+754,19,22679,4,Private Job,Asthma,Travel,3,69041,No,19,59,3.7,Health Insurance
+755,65,49190,6,Private Job,Heart Disease,Motor,2,73816,Yes,25,87,3.6,Health Insurance
+756,46,193623,1,Unemployed,None,Motor,3,104166,Yes,21,72,4.7,Health Insurance
+757,51,78347,5,Self-Employed,Cancer,Life,2,68623,Yes,24,82,4,Health Insurance
+758,23,90340,2,Self-Employed,Diabetes,Business,3,145669,No,8,91,4.7,Health Insurance
+759,28,171569,6,Self-Employed,None,None,4,35439,Yes,15,70,2.6,Health Insurance
+760,40,146695,6,Private Job,Asthma,None,5,179706,Yes,28,64,4.6,Health Insurance
+761,75,151092,1,Retired,Asthma,Business,5,164717,No,28,65,4.3,Health Insurance
+762,70,41790,5,Retired,Cancer,Life,0,58791,No,10,84,4.1,Health Insurance
+763,51,171811,3,Private Job,Diabetes,Motor,3,79987,Yes,17,63,5,Health Insurance
+764,55,47596,5,Self-Employed,Hypertension,None,0,174671,Yes,7,65,4.7,Health Insurance
+765,58,168062,5,Self-Employed,Heart Disease,Life,1,9335,Yes,14,57,4,Health Insurance
+766,40,61300,4,Retired,Cancer,Business,1,87017,Yes,8,83,3.5,Health Insurance
+767,48,36201,6,Self-Employed,Hypertension,Life,2,170503,Yes,27,77,3.3,Health Insurance
+768,75,78907,4,Private Job,Heart Disease,Business,0,109054,Yes,29,69,3.4,Health Insurance
+769,53,194696,3,Unemployed,Hypertension,Home,0,155753,Yes,22,68,3.6,Health Insurance
+770,77,140990,5,Retired,Cancer,Senior Citizen,4,29067,No,5,60,3.2,Health Insurance
+771,62,40016,5,Retired,None,Life,5,116730,Yes,16,70,3.8,Health Insurance
+772,55,145156,6,Unemployed,Asthma,Health,3,130499,Yes,22,78,2.8,Health Insurance
+773,39,168065,2,Govt Job,Asthma,Home,1,112291,No,23,51,3.1,Health Insurance
+774,58,42018,6,Self-Employed,Cancer,Life,4,34314,Yes,18,88,2.7,Health Insurance
+775,56,166988,5,Private Job,None,Home,3,155986,Yes,29,81,3.7,Health Insurance
+776,49,97650,5,Retired,Hypertension,Senior Citizen,0,94632,Yes,16,55,4.7,Health Insurance
+777,76,184452,6,Private Job,Cancer,None,5,101617,Yes,6,71,2.6,Health Insurance
+778,57,81107,6,Private Job,Hypertension,Travel,5,175073,Yes,15,69,4.5,Health Insurance
+779,37,48493,2,Self-Employed,Hypertension,Travel,2,99616,Yes,24,53,3.9,Health Insurance
+780,76,142270,5,Self-Employed,Hypertension,Home,0,133887,Yes,27,96,3.9,Health Insurance
+781,63,182579,1,Unemployed,Diabetes,Health,5,77958,Yes,20,74,3.7,Health Insurance
+782,58,151101,2,Unemployed,Cancer,Senior Citizen,0,165001,Yes,22,55,3,Health Insurance
+783,28,33976,2,Self-Employed,Diabetes,Health,5,103292,Yes,18,86,4.2,Health Insurance
+784,65,191297,4,Self-Employed,Heart Disease,Business,5,161330,Yes,9,67,3.5,Health Insurance
+785,63,188786,1,Private Job,Cancer,Business,0,183556,Yes,13,98,3.8,Health Insurance
+786,46,194620,4,Self-Employed,Asthma,Life,2,8522,Yes,11,63,3.4,Health Insurance
+787,73,178597,6,Unemployed,Cancer,Home,4,49312,No,6,90,4.5,Health Insurance
+788,55,147549,4,Private Job,Hypertension,Senior Citizen,0,31426,Yes,30,61,3.6,Health Insurance
+789,30,74900,4,Unemployed,Diabetes,Travel,1,76902,Yes,21,65,3.7,Health Insurance
+790,36,56290,5,Unemployed,Cancer,Motor,2,51492,Yes,6,92,2.9,Health Insurance
+791,42,92509,5,Retired,Hypertension,Life,2,64951,No,7,67,4,Health Insurance
+792,19,148799,2,Self-Employed,Cancer,None,5,149452,Yes,8,95,4.4,Health Insurance
+793,78,49347,3,Govt Job,None,Travel,3,72143,Yes,26,60,4.5,Health Insurance
+794,64,157324,4,Unemployed,Heart Disease,None,5,181879,No,9,85,4.4,Health Insurance
+795,75,22741,5,Govt Job,Cancer,Home,5,160625,Yes,29,83,4.8,Health Insurance
+796,40,89167,6,Unemployed,Diabetes,None,1,182596,Yes,27,85,3.3,Health Insurance
+797,77,149385,6,Unemployed,Cancer,Home,4,143919,Yes,24,89,4.5,Health Insurance
+798,64,48412,4,Self-Employed,Heart Disease,Life,3,75686,Yes,27,70,3.8,Health Insurance
+799,32,114143,5,Govt Job,None,Business,1,144722,No,11,59,5,Premium Life Insurance
+800,68,177084,3,Private Job,Diabetes,Senior Citizen,4,174303,Yes,7,90,2.8,Health Insurance
+801,62,59519,2,Private Job,Hypertension,None,5,44968,No,14,100,4.8,Health Insurance
+802,46,184559,3,Retired,Diabetes,Motor,5,188059,No,14,72,4.8,Health Insurance
+803,77,37479,1,Unemployed,Asthma,None,2,170032,Yes,8,52,4.3,Health Insurance
+804,46,156023,1,Private Job,Hypertension,Travel,4,60547,Yes,27,61,3.1,Health Insurance
+805,27,32221,1,Retired,Cancer,Business,0,153024,Yes,6,95,2.9,Health Insurance
+806,76,78812,4,Self-Employed,Hypertension,Senior Citizen,5,54670,No,30,50,4.2,Health Insurance
+807,40,195547,5,Self-Employed,None,None,1,18992,Yes,15,80,3.2,Premium Life Insurance
+808,19,103965,6,Private Job,Asthma,Health,4,125224,Yes,12,59,2.7,Health Insurance
+809,45,158498,4,Govt Job,Asthma,Senior Citizen,5,54657,Yes,19,78,3,Health Insurance
+810,77,43402,6,Retired,Heart Disease,None,2,127966,No,9,91,2.7,Health Insurance
+811,50,180791,6,Self-Employed,Cancer,Travel,2,152963,Yes,30,65,4.4,Health Insurance
+812,43,51779,1,Govt Job,Heart Disease,Health,3,164375,Yes,16,59,3.9,Health Insurance
+813,73,179761,1,Self-Employed,Heart Disease,Life,2,138390,Yes,5,82,4.9,Health Insurance
+814,20,124110,1,Private Job,Hypertension,Business,0,173226,Yes,6,98,4.4,Health Insurance
+815,32,42563,6,Govt Job,Hypertension,Business,1,62180,Yes,6,58,4.5,Health Insurance
+816,37,189336,3,Self-Employed,Asthma,Life,4,148797,No,15,58,3.2,Health Insurance
+817,75,25459,5,Govt Job,None,Business,3,111380,Yes,7,83,4.4,Health Insurance
+818,62,164970,6,Private Job,None,Health,5,133618,Yes,26,94,3.3,Health Insurance
+819,71,191266,2,Retired,Hypertension,None,3,191678,Yes,26,93,4.5,Health Insurance
+820,46,195805,1,Self-Employed,Asthma,None,5,15553,Yes,10,99,4.5,Health Insurance
+821,45,98828,3,Unemployed,None,Senior Citizen,5,117371,Yes,22,60,4.8,Health Insurance
+822,68,98893,6,Private Job,Asthma,Travel,1,177142,Yes,20,76,3,Health Insurance
+823,22,178131,2,Unemployed,Diabetes,Motor,5,126963,Yes,20,75,3.7,Health Insurance
+824,55,150142,2,Govt Job,Cancer,Home,5,82927,Yes,25,50,3.2,Health Insurance
+825,33,169738,5,Self-Employed,Hypertension,Motor,4,54775,Yes,17,75,4.6,Health Insurance
+826,34,131854,2,Retired,Hypertension,Senior Citizen,3,13658,Yes,9,57,3.5,Health Insurance
+827,32,124936,4,Unemployed,Hypertension,Motor,5,22853,Yes,21,50,4.1,Health Insurance
+828,29,122719,6,Private Job,Heart Disease,Travel,2,113290,Yes,5,80,4.7,Health Insurance
+829,34,165243,5,Self-Employed,Hypertension,Business,3,60331,Yes,9,56,3.2,Health Insurance
+830,35,137633,5,Govt Job,Asthma,None,1,95750,Yes,15,91,2.7,Health Insurance
+831,28,70345,4,Govt Job,Cancer,Home,5,131909,Yes,27,56,3.1,Health Insurance
+832,29,123518,2,Self-Employed,Diabetes,Senior Citizen,1,153858,Yes,26,50,4.1,Health Insurance
+833,79,146697,2,Unemployed,Heart Disease,Life,1,186327,Yes,13,66,3.3,Health Insurance
+834,33,63017,6,Govt Job,Diabetes,Travel,2,131315,No,23,66,3.5,Health Insurance
+835,31,49590,1,Private Job,Heart Disease,Life,0,139230,Yes,15,57,3.7,Health Insurance
+836,52,74087,5,Self-Employed,Asthma,Health,2,178175,Yes,14,96,3.1,Health Insurance
+837,25,81075,4,Retired,Cancer,Life,1,134855,No,30,79,2.6,Health Insurance
+838,40,183053,2,Retired,Heart Disease,Health,0,81365,No,12,72,3,Health Insurance
+839,65,188000,2,Retired,Heart Disease,Motor,1,99117,No,17,74,4.4,Health Insurance
+840,34,145264,5,Unemployed,None,Health,4,108549,No,24,93,2.7,Health Insurance
+841,55,49789,5,Govt Job,Heart Disease,Motor,2,84210,Yes,6,90,4.9,Health Insurance
+842,59,148137,3,Private Job,Diabetes,Travel,0,46037,Yes,21,88,3.9,Health Insurance
+843,74,87205,5,Retired,Diabetes,Home,4,146529,No,19,98,2.9,Health Insurance
+844,72,198423,5,Unemployed,Cancer,None,0,143657,Yes,26,100,4.7,Health Insurance
+845,45,48113,5,Govt Job,None,Travel,1,104563,No,23,60,4.7,Basic Life Insurance
+846,71,166015,1,Unemployed,Diabetes,Motor,0,94849,Yes,20,89,4.4,Health Insurance
+847,56,56068,2,Govt Job,Diabetes,Business,1,143523,Yes,18,59,4.5,Health Insurance
+848,51,100689,2,Private Job,Hypertension,Motor,2,199145,Yes,15,99,4.7,Health Insurance
+849,36,171322,1,Unemployed,Heart Disease,Business,3,131150,Yes,8,82,3.2,Health Insurance
+850,80,59456,6,Retired,None,Motor,5,89918,No,15,65,3.7,Health Insurance
+851,27,191699,1,Self-Employed,Cancer,Health,2,138091,Yes,6,91,4.8,Health Insurance
+852,65,150902,4,Private Job,Diabetes,Business,5,88938,Yes,11,66,3.2,Health Insurance
+853,78,59640,4,Retired,Asthma,Travel,5,43512,Yes,7,89,3.2,Health Insurance
+854,56,57530,1,Govt Job,None,Travel,3,113516,Yes,18,79,4,Health Insurance
+855,61,154323,5,Self-Employed,Diabetes,Motor,2,83606,Yes,18,69,4.2,Health Insurance
+856,57,147410,3,Self-Employed,Diabetes,Health,2,87302,No,27,92,4.2,Health Insurance
+857,66,125471,6,Self-Employed,Heart Disease,Senior Citizen,1,86969,No,23,53,4.9,Health Insurance
+858,74,112052,5,Govt Job,Cancer,Senior Citizen,0,83823,Yes,23,83,4.9,Health Insurance
+859,44,174036,5,Self-Employed,Hypertension,Health,5,9187,Yes,19,60,4.1,Health Insurance
+860,32,139913,2,Retired,Heart Disease,Health,3,114367,No,13,82,3.9,Health Insurance
+861,18,142900,5,Self-Employed,Heart Disease,Travel,3,158494,Yes,7,89,2.6,Health Insurance
+862,63,107888,1,Retired,Asthma,Home,1,125079,Yes,16,95,3,Health Insurance
+863,76,176421,3,Retired,Cancer,Senior Citizen,1,52466,Yes,14,70,2.7,Health Insurance
+864,18,166650,1,Retired,Heart Disease,Business,0,126982,Yes,7,51,4.7,Health Insurance
+865,44,59468,3,Govt Job,Cancer,None,4,86650,Yes,24,94,4.2,Health Insurance
+866,73,142809,3,Retired,Asthma,Senior Citizen,1,72701,Yes,28,59,4.1,Health Insurance
+867,25,140233,3,Private Job,Diabetes,None,4,156332,No,21,57,4.5,Health Insurance
+868,61,44664,2,Private Job,None,Home,3,172784,Yes,8,81,4,Health Insurance
+869,30,34613,3,Govt Job,Heart Disease,Home,4,31873,Yes,19,51,3.5,Health Insurance
+870,29,52698,4,Govt Job,Heart Disease,Business,4,44530,Yes,23,69,4.8,Health Insurance
+871,70,124219,2,Unemployed,Hypertension,Motor,3,49520,Yes,26,56,5,Health Insurance
+872,22,148565,6,Unemployed,Asthma,Health,0,148409,Yes,20,95,3.8,Health Insurance
+873,30,79076,3,Self-Employed,Asthma,Health,4,79604,Yes,30,82,3.9,Health Insurance
+874,18,155413,6,Unemployed,Hypertension,None,4,185283,Yes,26,61,3.8,Health Insurance
+875,47,184181,5,Retired,Heart Disease,Motor,0,33961,Yes,17,56,3.2,Health Insurance
+876,54,157653,6,Self-Employed,Hypertension,Health,5,113321,Yes,5,97,2.9,Health Insurance
+877,36,149274,6,Retired,Cancer,None,1,132198,Yes,5,70,3.5,Health Insurance
+878,49,104438,6,Private Job,Hypertension,Senior Citizen,1,168043,Yes,15,78,4.8,Health Insurance
+879,54,174579,3,Govt Job,Asthma,Motor,0,175405,Yes,18,85,3.1,Health Insurance
+880,51,139403,4,Self-Employed,None,Life,0,155903,Yes,5,88,2.7,Senior Citizen Plan
+881,66,72292,6,Retired,Asthma,Motor,3,152185,Yes,26,58,4.7,Health Insurance
+882,74,74844,4,Self-Employed,Hypertension,None,1,6638,Yes,10,77,4.9,Health Insurance
+883,42,175930,4,Govt Job,Asthma,Travel,2,197627,Yes,18,77,3.6,Health Insurance
+884,71,38436,6,Retired,Heart Disease,Senior Citizen,3,82467,Yes,13,66,5,Health Insurance
+885,79,163135,3,Self-Employed,Cancer,Travel,3,143029,Yes,17,64,4.9,Health Insurance
+886,80,129802,1,Govt Job,Heart Disease,None,2,175129,No,14,94,4.2,Health Insurance
+887,27,171617,2,Private Job,Diabetes,Motor,1,89201,Yes,13,85,3.6,Health Insurance
+888,20,137197,6,Unemployed,Diabetes,Life,3,120611,Yes,11,52,3.5,Health Insurance
+889,50,35476,6,Self-Employed,Heart Disease,Senior Citizen,0,93704,No,17,74,4.8,Health Insurance
+890,58,167062,1,Private Job,Heart Disease,Business,4,178428,No,11,66,4,Health Insurance
+891,52,106613,1,Retired,Heart Disease,Home,3,57360,Yes,13,71,3.8,Health Insurance
+892,35,31573,1,Self-Employed,Hypertension,None,3,69351,Yes,30,89,2.5,Health Insurance
+893,73,167982,5,Self-Employed,Diabetes,Life,5,198367,Yes,9,100,3.8,Health Insurance
+894,75,184783,2,Private Job,Hypertension,Business,4,197957,Yes,26,99,2.8,Health Insurance
+895,18,47654,5,Govt Job,Heart Disease,Travel,4,178827,Yes,20,58,3.3,Health Insurance
+896,63,36366,5,Self-Employed,Heart Disease,Travel,5,154630,No,22,72,4.8,Health Insurance
+897,55,39569,5,Govt Job,Cancer,Business,0,112713,No,6,86,3.1,Health Insurance
+898,45,62354,4,Unemployed,Diabetes,Business,1,14511,Yes,15,92,4.6,Health Insurance
+899,25,64058,1,Govt Job,None,Motor,5,31624,Yes,23,65,4.7,Health Insurance
+900,43,186033,6,Govt Job,Hypertension,Senior Citizen,2,199409,Yes,29,68,5,Health Insurance
+901,58,153767,6,Govt Job,Asthma,Home,5,191229,Yes,13,50,4.3,Health Insurance
+902,61,40383,5,Private Job,Cancer,Senior Citizen,3,81061,No,19,76,3.2,Health Insurance
+903,39,190010,6,Retired,Diabetes,None,3,182636,Yes,11,72,3.7,Health Insurance
+904,24,32109,5,Self-Employed,Hypertension,Travel,1,193594,Yes,6,77,3,Health Insurance
+905,28,182385,6,Self-Employed,Diabetes,Life,4,59701,Yes,7,74,2.6,Health Insurance
+906,59,158178,1,Unemployed,Hypertension,Motor,1,119394,Yes,20,68,4.3,Health Insurance
+907,52,23833,4,Self-Employed,Hypertension,Senior Citizen,5,44445,No,22,73,2.7,Health Insurance
+908,28,69121,4,Unemployed,Hypertension,Health,5,160652,Yes,20,98,4.8,Health Insurance
+909,66,82514,1,Govt Job,Heart Disease,Travel,4,27903,Yes,21,97,2.6,Health Insurance
+910,63,167528,5,Govt Job,Asthma,Motor,1,164799,Yes,17,61,3.5,Health Insurance
+911,57,98809,2,Retired,None,None,3,37766,Yes,16,88,4.4,Health Insurance
+912,74,170425,4,Private Job,Asthma,Travel,2,77025,Yes,7,82,2.6,Health Insurance
+913,22,63500,3,Govt Job,Hypertension,Life,5,98593,Yes,25,82,4.1,Health Insurance
+914,28,178007,1,Self-Employed,Hypertension,Motor,3,146496,Yes,16,74,5,Health Insurance
+915,76,56590,1,Self-Employed,Asthma,Life,0,124388,Yes,18,93,2.9,Health Insurance
+916,23,113126,4,Private Job,Heart Disease,None,4,89160,No,26,95,4.5,Health Insurance
+917,53,39540,2,Unemployed,Cancer,Home,1,142336,Yes,14,57,4.6,Health Insurance
+918,71,62751,1,Private Job,Heart Disease,Senior Citizen,0,71154,Yes,29,95,3,Health Insurance
+919,75,173986,1,Private Job,Diabetes,Health,0,76573,No,17,92,4.9,Health Insurance
+920,46,117871,2,Self-Employed,None,Motor,4,120133,Yes,11,97,2.6,Health Insurance
+921,77,78685,4,Govt Job,Cancer,Motor,0,86947,Yes,24,79,2.9,Health Insurance
+922,45,166907,6,Self-Employed,Asthma,Life,2,57650,Yes,7,93,4.3,Health Insurance
+923,54,158836,6,Retired,Diabetes,Motor,2,104760,Yes,21,98,2.9,Health Insurance
+924,34,167734,2,Private Job,Diabetes,None,5,164842,Yes,5,92,4.1,Health Insurance
+925,49,70669,6,Private Job,Heart Disease,Health,0,31389,No,25,78,4.3,Health Insurance
+926,50,104251,4,Self-Employed,Asthma,None,3,131074,Yes,30,89,4.6,Health Insurance
+927,40,83838,5,Private Job,Hypertension,Home,5,95278,Yes,23,73,2.7,Health Insurance
+928,21,181016,1,Govt Job,Diabetes,Life,4,94238,Yes,11,71,4.6,Health Insurance
+929,37,167124,4,Self-Employed,Heart Disease,Senior Citizen,3,172580,Yes,15,69,4.2,Health Insurance
+930,40,57130,1,Retired,Asthma,Travel,1,176928,No,21,51,4,Health Insurance
+931,62,106606,6,Unemployed,Diabetes,Senior Citizen,3,35124,Yes,22,87,3.2,Health Insurance
+932,55,27349,3,Private Job,Asthma,Senior Citizen,0,182384,Yes,24,63,3.3,Health Insurance
+933,65,132915,4,Private Job,None,Motor,5,75538,Yes,30,94,3.5,Health Insurance
+934,47,142136,6,Private Job,None,Life,3,194170,Yes,21,85,3.5,Health Insurance
+935,54,98395,6,Self-Employed,Heart Disease,Health,1,103383,Yes,26,54,3,Health Insurance
+936,75,89456,3,Retired,None,None,5,88632,Yes,7,73,3.1,Health Insurance
+937,34,73771,3,Govt Job,None,Life,3,194799,Yes,14,90,3.3,Health Insurance
+938,46,136073,2,Govt Job,Hypertension,Senior Citizen,5,163233,No,25,78,3.4,Health Insurance
+939,26,187604,5,Private Job,Asthma,Motor,1,17403,Yes,6,54,3.8,Health Insurance
+940,59,43011,1,Govt Job,Heart Disease,Motor,0,118224,Yes,13,89,2.8,Health Insurance
+941,62,172850,1,Self-Employed,Hypertension,None,1,141602,Yes,17,69,4.1,Health Insurance
+942,70,143029,3,Retired,Hypertension,Senior Citizen,3,186745,Yes,9,70,2.7,Health Insurance
+943,74,188169,1,Unemployed,Hypertension,Business,2,101257,Yes,6,78,4.1,Health Insurance
+944,25,105426,2,Retired,Diabetes,Travel,3,68354,Yes,17,91,4.4,Health Insurance
+945,80,159819,6,Govt Job,Diabetes,Business,5,140114,No,29,62,4.1,Health Insurance
+946,61,55816,2,Self-Employed,Diabetes,Motor,4,188994,Yes,18,52,3.4,Health Insurance
+947,74,119554,2,Private Job,Diabetes,Senior Citizen,4,32014,Yes,11,57,3.3,Health Insurance
+948,24,56579,2,Self-Employed,Diabetes,Business,3,7503,No,27,64,2.9,Health Insurance
+949,42,104186,1,Unemployed,Cancer,None,2,43484,No,16,71,3.1,Health Insurance
+950,64,192767,2,Unemployed,Heart Disease,None,1,16048,Yes,29,86,4.2,Health Insurance
+951,57,151373,2,Unemployed,Cancer,Life,3,61025,No,9,91,4.1,Health Insurance
+952,55,48086,5,Retired,Asthma,Motor,4,141590,Yes,29,63,4.8,Health Insurance
+953,39,61082,1,Private Job,Hypertension,Motor,1,122276,No,18,97,2.9,Health Insurance
+954,69,20682,1,Retired,Cancer,Motor,5,150706,Yes,30,75,4.5,Health Insurance
+955,27,51235,2,Retired,Diabetes,Senior Citizen,2,88213,Yes,13,66,3.5,Health Insurance
+956,35,68107,5,Retired,Diabetes,Senior Citizen,5,10354,Yes,28,58,3.9,Health Insurance
+957,45,191721,5,Unemployed,Diabetes,Life,0,36959,Yes,16,90,3.8,Health Insurance
+958,71,28976,2,Unemployed,Diabetes,Home,4,113578,Yes,5,100,4.7,Health Insurance
+959,26,192676,6,Unemployed,Hypertension,Senior Citizen,0,88306,Yes,30,75,4.6,Health Insurance
+960,65,185934,3,Unemployed,Cancer,Health,3,90714,No,25,82,4.6,Health Insurance
+961,36,153978,4,Govt Job,None,Travel,2,158286,Yes,7,73,4,Premium Life Insurance
+962,43,116198,4,Retired,None,Business,4,170979,Yes,15,79,4.2,Health Insurance
+963,27,175200,1,Retired,Diabetes,Travel,0,92619,Yes,26,85,4.3,Health Insurance
+964,79,43607,6,Retired,Cancer,Home,1,161227,Yes,15,73,2.7,Health Insurance
+965,25,155812,1,Private Job,Asthma,Health,3,169867,Yes,18,54,3.2,Health Insurance
+966,40,187883,5,Unemployed,None,Senior Citizen,1,67951,Yes,11,93,3.6,Premium Life Insurance
+967,63,153504,4,Self-Employed,Heart Disease,Senior Citizen,1,177681,No,13,73,2.8,Health Insurance
+968,59,87006,4,Unemployed,Heart Disease,Motor,0,101019,Yes,28,89,4.6,Health Insurance
+969,19,121780,2,Govt Job,Hypertension,Life,5,187608,Yes,7,92,4.8,Health Insurance
+970,27,147498,1,Private Job,Diabetes,None,3,110382,Yes,26,75,4.8,Health Insurance
+971,35,101839,1,Self-Employed,Cancer,Senior Citizen,5,19209,No,8,61,2.6,Health Insurance
+972,34,46613,3,Private Job,Diabetes,Travel,3,27087,No,16,90,5,Health Insurance
+973,70,68215,5,Unemployed,Hypertension,Motor,4,118181,Yes,8,79,4,Health Insurance
+974,72,65496,5,Retired,Cancer,Home,0,146976,Yes,27,96,4.7,Health Insurance
+975,61,197374,6,Govt Job,None,Senior Citizen,2,145830,Yes,20,75,4.9,Senior Citizen Plan
+976,50,136671,2,Unemployed,None,Health,1,172609,Yes,12,63,3.6,Premium Life Insurance
+977,34,172364,4,Private Job,Heart Disease,Life,3,40191,Yes,12,55,3.8,Health Insurance
+978,40,175256,3,Retired,Hypertension,Life,0,14230,Yes,9,71,4,Health Insurance
+979,80,48055,3,Govt Job,Hypertension,Senior Citizen,2,132080,Yes,21,65,4.1,Health Insurance
+980,64,165492,6,Self-Employed,Asthma,Senior Citizen,0,108698,Yes,30,96,3.3,Health Insurance
+981,37,47983,1,Private Job,Heart Disease,Health,5,193294,Yes,23,61,2.8,Health Insurance
+982,58,82704,1,Unemployed,Asthma,Travel,4,20667,Yes,10,84,3.3,Health Insurance
+983,72,43594,6,Govt Job,Cancer,Senior Citizen,1,174681,Yes,16,78,3.5,Health Insurance
+984,60,131292,1,Private Job,None,Travel,4,89882,Yes,22,62,4.7,Health Insurance
+985,26,70388,1,Self-Employed,Diabetes,Senior Citizen,0,141113,Yes,29,58,4,Health Insurance
+986,32,75711,6,Unemployed,Asthma,Motor,5,82425,Yes,11,71,2.5,Health Insurance
+987,59,186810,6,Govt Job,None,Home,4,46375,No,23,83,3.6,Health Insurance
+988,61,29220,3,Retired,Diabetes,Travel,5,53648,Yes,9,68,4.9,Health Insurance
+989,61,82189,2,Self-Employed,Hypertension,Travel,2,77399,Yes,5,74,4.6,Health Insurance
+990,68,89290,3,Govt Job,Hypertension,Travel,0,149526,Yes,8,70,4.3,Health Insurance
+991,51,115324,3,Unemployed,Diabetes,Travel,0,178134,No,7,66,3.3,Health Insurance
+992,24,193100,2,Private Job,Diabetes,Business,2,97565,Yes,14,65,3.9,Health Insurance
+993,73,109707,3,Unemployed,None,None,5,167449,Yes,17,61,3.3,Health Insurance
+994,53,149498,6,Retired,None,None,2,164850,Yes,10,97,4.5,Senior Citizen Plan
+995,58,88503,6,Retired,Heart Disease,Home,2,186628,Yes,11,80,3.9,Health Insurance
+996,43,46839,4,Unemployed,None,Travel,5,107186,No,25,94,4.1,Health Insurance
+997,38,198653,5,Self-Employed,None,Senior Citizen,3,13420,Yes,12,53,3.4,Health Insurance
+998,28,81634,2,Unemployed,Heart Disease,Motor,4,30074,Yes,12,74,4.2,Health Insurance
+999,74,150124,4,Retired,Diabetes,Travel,5,20685,Yes,21,78,4.7,Health Insurance
+1000,50,31880,5,Retired,Hypertension,Life,0,37202,Yes,21,88,3.6,Health Insurance
